@@ -441,6 +441,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
         .style("font-size", function(d) { return d.size + "px"; })
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
+          console.log(d);
             var paringObject = data.filter(function(obj) { 
               return obj.word === d.text
             });
