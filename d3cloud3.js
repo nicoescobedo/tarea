@@ -400,7 +400,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
       .words(data)
       .rotate(function(d) { return 0; })
       .font('monospace')
-      .fontSize(function(d,i) { return (d.n)*0.7; })
+      .fontSize(function(d,i) { return (d.n)*0.3; })
       .text(function(d) { return d.word; })
       .spiral("archimedean")
       .on("end", draw)
