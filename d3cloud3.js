@@ -442,7 +442,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
             var paringObject = data.filter(function(obj) { return obj.word === d.text});
-            return color(paringObject[0].aprobacion_presidencial); 
+            return color(paringObject[0].edad); 
         })
         .attr("text-anchor", "middle")
         .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })
