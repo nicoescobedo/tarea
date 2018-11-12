@@ -1,2907 +1,2907 @@
-aprobacion_presidencial,edad,word,n
-Aprueba,35-54,economia,95.51245
-Aprueba,18-34,economia,77.07382
-Aprueba,55 o+,economia,63.1152
-Aprueba,35-54,gobierno,55.74499
-Aprueba,18-34,inmigracion,51.68471
-Aprueba,35-54,inmigracion,36.5101
-Aprueba,18-34,gobierno,35.65664
-Aprueba,35-54,gusta,32.95367
-Aprueba,55 o+,gobierno,31.57808
-Aprueba,18-34,politica,30.22503
-Aprueba,35-54,gestion,29.61291
-Aprueba,18-34,gestion,28.36214
-Aprueba,18-34,cambio,26.25997
-Aprueba,35-54,politica,25.18516
-Aprueba,55 o+,delincuencia,22.24947
-Aprueba,55 o+,politica,21.90125
-Aprueba,18-34,gusta,21.43607
-Aprueba,35-54,presidente,20.30273
-Aprueba,18-34,99,20.01473
-Aprueba,18-34,leyes,19.72073
-Aprueba,55 o+,gusta,19.577
-Aprueba,35-54,cambio,18.56169
-Aprueba,18-34,presidente,16.91915
-Aprueba,55 o+,inmigracion,16.04101
-Aprueba,55 o+,presidente,15.91868
-Aprueba,55 o+,tratando,15.11309
-Aprueba,35-54,educacion,15.06486
-Aprueba,35-54,delincuencia,14.86845
-Aprueba,18-34,empleo,14.74418
-Aprueba,55 o+,empleo,13.6293
-Aprueba,18-34,educacion,13.57623
-Aprueba,55 o+,gestion,13.13423
-Aprueba,18-34,proyecto,12.87681
-Aprueba,55 o+,cambio,12.87352
-Aprueba,35-54,seguridad,12.72196
-Aprueba,55 o+,leyes,11.92661
-Aprueba,55 o+,orden,11.92123
-Aprueba,35-54,orden,11.84728
-Aprueba,35-54,proyecto,11.6188
-Aprueba,35-54,ve,11.4424
-Aprueba,35-54,empleo,11.37717
-Aprueba,18-34,reformas,11.34911
-Aprueba,35-54,estabilidad,10.96704
-Aprueba,55 o+,seguridad,10.96023
-Aprueba,18-34,visto,10.7015
-Aprueba,35-54,reformas,10.64993
-Aprueba,55 o+,estabilidad,10.49203
-Aprueba,35-54,persona,10.45835
-Aprueba,55 o+,persona,10.37609
-Aprueba,35-54,promesas,10.32413
-Aprueba,35-54,visto,10.24224
-Aprueba,35-54,nivel,10.22807
-Aprueba,55 o+,promesas,9.92534
-Aprueba,55 o+,mejorar,9.86277
-Aprueba,35-54,ideas,9.8232
-Aprueba,35-54,manejo,9.82014
-Aprueba,18-34,aumento,9.52193
-Aprueba,35-54,echo,9.48876
-Aprueba,35-54,media,9.43458
-Aprueba,55 o+,educacion,9.31086
-Aprueba,55 o+,proyecto,9.30554
-Aprueba,18-34,empresariado,9.09961
-Aprueba,18-34,forma,9.09256
-Aprueba,55 o+,salud,9.00694
-Aprueba,35-54,piñera,8.85397
-Aprueba,35-54,empresas,8.7785
-Aprueba,18-34,seguridad,8.74216
-Aprueba,18-34,laboral,8.70511
-Aprueba,18-34,manejo,8.66271
-Aprueba,18-34,empresas,8.64467
-Aprueba,35-54,chile,8.61586
-Aprueba,35-54,hombre,8.49196
-Aprueba,35-54,forma,8.40263
-Aprueba,55 o+,99,8.32818
-Aprueba,18-34,crecimiento,8.26274
-Aprueba,35-54,mejorado,8.2203
-Aprueba,35-54,personas,8.18585
-Aprueba,35-54,derecha,8.15611
-Aprueba,35-54,clase,8.10274
-Aprueba,35-54,99,8.06154
-Aprueba,55 o+,derecha,7.91644
-Aprueba,18-34,chile,7.90965
-Aprueba,55 o+,jubilacion,7.79315
-Aprueba,55 o+,ideas,7.771
-Aprueba,18-34,tratando,7.69798
-Aprueba,18-34,derecha,7.67196
-Aprueba,55 o+,personas,7.49546
-Aprueba,55 o+,medidas,7.43009
-Aprueba,55 o+,forma,7.39016
-Aprueba,35-54,tratando,7.36265
-Aprueba,55 o+,empresas,7.30184
-Aprueba,35-54,salud,7.28612
-Aprueba,18-34,ideas,7.23785
-Aprueba,35-54,años,7.21308
-Aprueba,55 o+,confianza,7.16371
-Aprueba,35-54,niños,7.14964
-Aprueba,35-54,crecimiento,7.14874
-Aprueba,55 o+,arreglar,7.03992
-Aprueba,35-54,ayuda,7.00012
-Aprueba,35-54,asunto,6.99455
-Aprueba,55 o+,edad,6.95463
-Aprueba,18-34,piñera,6.87002
-Aprueba,55 o+,izquierda,6.61358
-Aprueba,18-34,estabilidad,6.53917
-Aprueba,18-34,dando,6.52551
-Aprueba,35-54,leyes,6.51662
-Aprueba,18-34,opinion,6.48823
-Aprueba,18-34,vote,6.43494
-Aprueba,18-34,decision,6.39654
-Aprueba,55 o+,chile,6.37511
-Aprueba,18-34,oportunidades,6.2312
-Aprueba,35-54,preocupa,6.20201
-Aprueba,18-34,ve,6.14525
-Aprueba,35-54,carabineros,6.07799
-Aprueba,18-34,echo,6.06211
-Aprueba,18-34,problemas,6.05315
-Aprueba,35-54,noticias,6.01987
-Aprueba,18-34,orden,5.98383
-Aprueba,35-54,social,5.97073
-Aprueba,35-54,bachelet,5.95597
-Aprueba,18-34,confianza,5.87321
-Aprueba,35-54,meses,5.82816
-Aprueba,18-34,personas,5.79887
-Aprueba,18-34,país,5.78521
-Aprueba,55 o+,tranquilidad,5.76933
-Aprueba,18-34,delincuencia,5.7346
-Aprueba,35-54,empresariado,5.70675
-Aprueba,18-34,persona,5.6161
-Aprueba,35-54,empresario,5.57663
-Aprueba,18-34,partido,5.53828
-Aprueba,35-54,vienen,5.40583
-Aprueba,55 o+,situacion,5.39486
-Aprueba,35-54,problemas,5.31048
-Aprueba,18-34,medidas,5.29114
-Aprueba,55 o+,hombre,5.27243
-Aprueba,18-34,sociedad,5.27118
-Aprueba,55 o+,està,5.25791
-Aprueba,18-34,mejorado,5.2233
-Aprueba,18-34,maneja,5.21935
-Aprueba,18-34,tributaria,5.20875
-Aprueba,18-34,malas,5.2016
-Aprueba,55 o+,empresariado,5.19925
-Aprueba,35-54,ayudar,5.15125
-Aprueba,18-34,aca,5.14872
-Aprueba,18-34,llevado,5.06337
-Aprueba,35-54,sueldos,5.00941
-Aprueba,35-54,año,5.00222
-Aprueba,18-34,paso,4.96458
-Aprueba,18-34,promesas,4.95215
-Aprueba,55 o+,gusto,4.93411
-Aprueba,35-54,tributaria,4.90015
-Aprueba,18-34,familiar,4.89564
-Aprueba,18-34,propuestas,4.79407
-Aprueba,55 o+,tratar,4.77343
-Aprueba,35-54,periodo,4.73779
-Aprueba,35-54,preocupando,4.73599
-Aprueba,18-34,mejorando,4.71394
-Aprueba,35-54,gusto,4.70597
-Aprueba,35-54,considero,4.70187
-Aprueba,35-54,confianza,4.69783
-Aprueba,55 o+,ayuda,4.6872
-Aprueba,35-54,veo,4.68225
-Aprueba,35-54,mano,4.66895
-Aprueba,35-54,apoyo,4.66066
-Aprueba,18-34,inversion,4.63531
-Aprueba,55 o+,dando,4.6298
-Aprueba,18-34,mandato,4.62736
-Aprueba,55 o+,ve,4.62628
-Aprueba,35-54,plata,4.62398
-Aprueba,18-34,media,4.62378
-Aprueba,35-54,nota,4.56848
-Aprueba,55 o+,mejorado,4.53191
-Aprueba,55 o+,importante,4.52975
-Aprueba,18-34,ayuda,4.52022
-Aprueba,35-54,medidas,4.51971
-Aprueba,55 o+,reformas,4.5114
-Aprueba,55 o+,preocupando,4.4771
-Aprueba,35-54,oportunidades,4.44177
-Aprueba,18-34,veo,4.3744
-Aprueba,35-54,malo,4.3645
-Aprueba,35-54,relacion,4.29739
-Aprueba,55 o+,apoyo,4.28019
-Aprueba,55 o+,ido,4.27403
-Aprueba,35-54,importante,4.26315
-Aprueba,18-34,mejorar,4.25348
-Aprueba,35-54,tranquilidad,4.21347
-Aprueba,35-54,dejo,4.18256
-Aprueba,18-34,salud,4.17569
-Aprueba,55 o+,realidad,4.17501
-Aprueba,35-54,laborales,4.14741
-Aprueba,55 o+,bachelet,4.13996
-Aprueba,35-54,casa,4.07348
-Aprueba,35-54,ejecutivo,4.07315
-Aprueba,35-54,comparacion,4.06168
-Aprueba,55 o+,dejo,4.0515
-Aprueba,55 o+,problemas,4.05046
-Aprueba,35-54,manejar,4.02565
-Aprueba,18-34,realidad,4.02516
-Aprueba,55 o+,visto,3.9671
-Aprueba,35-54,darle,3.93573
-Aprueba,55 o+,malo,3.9245
-Aprueba,35-54,sistema,3.92292
-Aprueba,18-34,familia,3.91321
-Aprueba,55 o+,veo,3.9075
-Aprueba,35-54,preocupado,3.8957
-Aprueba,35-54,pienso,3.88003
-Aprueba,35-54,mejores,3.85899
-Aprueba,35-54,personal,3.84763
-Aprueba,18-34,tomado,3.84121
-Aprueba,55 o+,social,3.83891
-Aprueba,18-34,bachelet,3.83318
-Aprueba,55 o+,control,3.8146
-Aprueba,35-54,beneficio,3.80035
-Aprueba,55 o+,tributaria,3.79553
-Aprueba,55 o+,piensa,3.79248
-Aprueba,18-34,relacion,3.77152
-Aprueba,55 o+,cosa,3.76813
-Aprueba,55 o+,sacar,3.76042
-Aprueba,35-54,publicas,3.75528
-Aprueba,18-34,ordenado,3.75277
-Aprueba,35-54,cargo,3.75165
-Aprueba,35-54,ordenando,3.74217
-Aprueba,18-34,sueldos,3.72118
-Aprueba,55 o+,serio,3.71811
-Aprueba,55 o+,empresario,3.71731
-Aprueba,18-34,apoya,3.71137
-Aprueba,35-54,lento,3.70514
-Aprueba,55 o+,sueldos,3.70074
-Aprueba,35-54,unico,3.68883
-Aprueba,35-54,pasa,3.68536
-Aprueba,18-34,pega,3.68495
-Aprueba,55 o+,aumento,3.67147
-Aprueba,55 o+,oposicion,3.6636
-Aprueba,18-34,nivel,3.65797
-Aprueba,35-54,soluciones,3.64719
-Aprueba,35-54,partido,3.63432
-Aprueba,55 o+,piñera,3.61115
-Aprueba,35-54,región,3.59025
-Aprueba,35-54,poniendo,3.58551
-Aprueba,55 o+,años,3.57228
-Aprueba,35-54,laboral,3.56682
-Aprueba,18-34,apoyo,3.5542
-Aprueba,35-54,tanta,3.55011
-Aprueba,35-54,situacion,3.54005
-Aprueba,35-54,dura,3.52846
-Aprueba,35-54,decision,3.51988
-Aprueba,55 o+,apruebo,3.51441
-Aprueba,35-54,sebastian,3.47992
-Aprueba,35-54,mejora,3.47989
-Aprueba,55 o+,campaña,3.45394
-Aprueba,35-54,idea,3.44887
-Aprueba,35-54,tomando,3.44681
-Aprueba,18-34,reactivacion,3.4275
-Aprueba,18-34,siento,3.412
-Aprueba,35-54,generando,3.40724
-Aprueba,55 o+,respetuoso,3.40318
-Aprueba,18-34,deuda,3.39481
-Aprueba,35-54,area,3.39409
-Aprueba,55 o+,tipo,3.39302
-Aprueba,35-54,anteriores,3.3908
-Aprueba,35-54,inteligente,3.38708
-Aprueba,18-34,ayudado,3.37005
-Aprueba,55 o+,colegios,3.36406
-Aprueba,35-54,mandato,3.34918
-Aprueba,18-34,hombre,3.33547
-Aprueba,18-34,periodo,3.33192
-Aprueba,18-34,situacion,3.32562
-Aprueba,55 o+,intentando,3.2971
-Aprueba,18-34,beneficios,3.29347
-Aprueba,18-34,qe,3.29157
-Aprueba,35-54,venezuela,3.28289
-Aprueba,35-54,cuerdo,3.25753
-Aprueba,18-34,subsidio,3.24452
-Aprueba,55 o+,ayude,3.23146
-Aprueba,18-34,social,3.22885
-Aprueba,55 o+,necesitamos,3.21959
-Aprueba,35-54,tratado,3.2164
-Aprueba,55 o+,manejo,3.19712
-Aprueba,35-54,rapido,3.19568
-Aprueba,55 o+,preocupa,3.19377
-Aprueba,18-34,publica,3.19283
-Aprueba,18-34,salió,3.18195
-Aprueba,35-54,desorden,3.17797
-Aprueba,35-54,desarrollo,3.15242
-Aprueba,18-34,poquito,3.1418
-Aprueba,18-34,agilidad,3.13184
-Aprueba,55 o+,salga,3.10037
-Aprueba,18-34,presidenta,3.09797
-Aprueba,18-34,gratuidad,3.09257
-Aprueba,18-34,corto,3.08415
-Aprueba,35-54,edad,3.04924
-Aprueba,55 o+,avanzando,3.03863
-Aprueba,18-34,falta,3.03811
-Aprueba,35-54,corto,3.03544
-Aprueba,55 o+,darle,3.03339
-Aprueba,18-34,hospitales,3.02534
-Aprueba,55 o+,niños,3.02287
-Aprueba,18-34,caso,3.02153
-Aprueba,55 o+,gallo,3.01932
-Aprueba,55 o+,familia,3.016
-Aprueba,35-54,sociales,3.01595
-Aprueba,35-54,mejoras,3.01048
-Aprueba,18-34,empresario,3.00858
-Aprueba,55 o+,decision,3.006
-Aprueba,18-34,notado,3.00388
-Aprueba,18-34,sociales,3.0005
-Aprueba,55 o+,programa,2.98722
-Aprueba,35-54,viendo,2.97515
-Aprueba,55 o+,atencion,2.97213
-Aprueba,55 o+,tomado,2.95782
-Aprueba,35-54,llevo,2.94636
-Aprueba,55 o+,fuentes,2.9455
-Aprueba,55 o+,casa,2.93409
-Aprueba,35-54,mercados,2.92714
-Aprueba,18-34,mapuche,2.91172
-Aprueba,55 o+,laboral,2.90802
-Aprueba,35-54,pais,2.88834
-Aprueba,55 o+,recien,2.87993
-Aprueba,35-54,ordenar,2.87854
-Aprueba,35-54,supone,2.86869
-Aprueba,55 o+,socialista,2.86666
-Aprueba,55 o+,considero,2.85198
-Aprueba,18-34,principio,2.84011
-Aprueba,35-54,beneficios,2.8329
-Aprueba,55 o+,inteligente,2.83162
-Aprueba,18-34,considero,2.81999
-Aprueba,35-54,comunista,2.81137
-Aprueba,35-54,linea,2.81113
-Aprueba,35-54,calle,2.80083
-Aprueba,55 o+,llevado,2.79232
-Aprueba,35-54,familia,2.78723
-Aprueba,35-54,cabeza,2.78358
-Aprueba,55 o+,camino,2.77841
-Aprueba,35-54,recien,2.77701
-Aprueba,55 o+,sistema,2.77647
-Aprueba,35-54,escuchado,2.77441
-Aprueba,18-34,clase,2.76899
-Aprueba,35-54,adulto,2.76898
-Aprueba,55 o+,equipo,2.76505
-Aprueba,35-54,principal,2.75668
-Aprueba,18-34,vision,2.75585
-Aprueba,35-54,hijos,2.74482
-Aprueba,55 o+,aca,2.7276
-Aprueba,18-34,escuchado,2.72422
-Aprueba,18-34,generar,2.72397
-Aprueba,55 o+,empeño,2.72304
-Aprueba,18-34,bajado,2.71824
-Aprueba,35-54,errores,2.71775
-Aprueba,55 o+,gustan,2.71521
-Aprueba,55 o+,comercio,2.71494
-Aprueba,55 o+,adulto,2.71395
-Aprueba,55 o+,po,2.70382
-Aprueba,35-54,reactivar,2.70327
-Aprueba,35-54,inversionista,2.70077
-Aprueba,55 o+,puesto,2.69702
-Aprueba,18-34,sector,2.68667
-Aprueba,55 o+,ayudar,2.68095
-Aprueba,55 o+,intenciones,2.67566
-Aprueba,55 o+,preocupado,2.6697
-Aprueba,55 o+,esperanza,2.66673
-Aprueba,55 o+,cargo,2.66626
-Aprueba,35-54,aca,2.66534
-Aprueba,55 o+,periodo,2.65855
-Aprueba,55 o+,pais,2.63884
-Aprueba,55 o+,impulso,2.63534
-Aprueba,35-54,cuestión,2.63148
-Aprueba,35-54,rico,2.63148
-Aprueba,18-34,componente,2.627
-Aprueba,18-34,ambito,2.62231
-Aprueba,55 o+,digo,2.61594
-Aprueba,55 o+,ojala,2.60712
-Aprueba,18-34,salio,2.58653
-Aprueba,55 o+,quedo,2.58605
-Aprueba,18-34,desempeño,2.57562
-Aprueba,35-54,avance,2.57193
-Aprueba,35-54,desempeño,2.57145
-Aprueba,18-34,enfrentado,2.57058
-Aprueba,55 o+,golpe,2.56899
-Aprueba,55 o+,trabajador,2.56713
-Aprueba,35-54,manejado,2.56313
-Aprueba,18-34,situaciones,2.5592
-Aprueba,35-54,aprueba,2.5591
-Aprueba,35-54,genero,2.557
-Aprueba,18-34,crisis,2.5563
-Aprueba,55 o+,mundo,2.55621
-Aprueba,55 o+,lento,2.55412
-Aprueba,35-54,indices,2.55395
-Aprueba,18-34,interesa,2.55142
-Aprueba,55 o+,aprueba,2.55046
-Aprueba,18-34,ejecutado,2.54686
-Aprueba,55 o+,clase,2.54503
-Aprueba,55 o+,media,2.54503
-Aprueba,18-34,digamos,2.54336
-Aprueba,18-34,aprueba,2.54076
-Aprueba,18-34,cumplido,2.53838
-Aprueba,35-54,mejorar,2.53712
-Aprueba,55 o+,artas,2.52891
-Aprueba,35-54,recursos,2.52207
-Aprueba,35-54,sobretodo,2.51952
-Aprueba,55 o+,mejorando,2.51659
-Aprueba,35-54,tomado,2.50045
-Aprueba,35-54,cosa,2.50015
-Aprueba,55 o+,hagan,2.48642
-Aprueba,35-54,conocimiento,2.47782
-Aprueba,18-34,gustado,2.47778
-Aprueba,18-34,años,2.4541
-Aprueba,55 o+,consecuente,2.45092
-Aprueba,18-34,mayores,2.44898
-Aprueba,18-34,independiente,2.44552
-Aprueba,55 o+,diciplina,2.43875
-Aprueba,18-34,meses,2.41155
-Aprueba,35-54,aumento,2.40592
-Aprueba,35-54,acá,2.3935
-Aprueba,35-54,està,2.38656
-Aprueba,18-34,año,2.37354
-Aprueba,55 o+,tanta,2.37154
-Aprueba,35-54,preocupacion,2.36942
-Aprueba,18-34,malo,2.36213
-Aprueba,55 o+,confio,2.36102
-Aprueba,35-54,ido,2.35565
-Aprueba,18-34,simplemente,2.35066
-Aprueba,18-34,gracias,2.35038
-Aprueba,55 o+,genero,2.34699
-Aprueba,35-54,transparente,2.34427
-Aprueba,18-34,publicas,2.33468
-Aprueba,18-34,viviendas,2.33204
-Aprueba,18-34,mejora,2.331
-Aprueba,18-34,plazo,2.32445
-Aprueba,35-54,inversiones,2.322
-Aprueba,18-34,cosa,2.31757
-Aprueba,55 o+,viene,2.31579
-Aprueba,35-54,manejando,2.31222
-Aprueba,35-54,crecer,2.30668
-Aprueba,35-54,programas,2.2933
-Aprueba,55 o+,experiencia,2.28762
-Aprueba,18-34,mejoria,2.28653
-Aprueba,35-54,reactivacion,2.28588
-Aprueba,35-54,empezando,2.28405
-Aprueba,18-34,campo,2.27829
-Aprueba,55 o+,cumpliendo,2.272
-Aprueba,18-34,problema,2.271
-Aprueba,35-54,pensamiento,2.26183
-Aprueba,35-54,polìtica,2.2578
-Aprueba,18-34,cara,2.25776
-Aprueba,18-34,nacional,2.24713
-Aprueba,35-54,valores,2.24376
-Aprueba,55 o+,presidenta,2.2374
-Aprueba,35-54,presidenta,2.23621
-Aprueba,35-54,haga,2.23491
-Aprueba,35-54,cumplir,2.23294
-Aprueba,35-54,mueve,2.22691
-Aprueba,35-54,llevando,2.2264
-Aprueba,18-34,generando,2.21791
-Aprueba,35-54,realidad,2.2152
-Aprueba,35-54,siento,2.21154
-Aprueba,18-34,salido,2.20901
-Aprueba,18-34,pienso,2.20717
-Aprueba,55 o+,logrando,2.20451
-Aprueba,35-54,gustado,2.20198
-Aprueba,35-54,solucionar,2.1939
-Aprueba,55 o+,preparacion,2.19208
-Aprueba,55 o+,aborto,2.18639
-Aprueba,18-34,encontrado,2.1808
-Aprueba,35-54,bio,2.17306
-Aprueba,35-54,region,2.17306
-Aprueba,35-54,bono,2.16736
-Aprueba,35-54,partidos,2.1597
-Aprueba,35-54,campaña,2.15433
-Aprueba,35-54,libre,2.14469
-Aprueba,35-54,situaciones,2.1442
-Aprueba,18-34,abrir,2.1434
-Aprueba,18-34,tanta,2.14157
-Aprueba,35-54,propuestas,2.14039
-Aprueba,35-54,poquito,2.1374
-Aprueba,18-34,dirigir,2.12356
-Aprueba,35-54,pobre,2.11545
-Aprueba,35-54,bienestar,2.10929
-Aprueba,55 o+,unidad,2.10804
-Aprueba,35-54,tendencia,2.09883
-Aprueba,35-54,aspectos,2.09734
-Aprueba,35-54,generar,2.09673
-Aprueba,35-54,fuentes,2.09556
-Aprueba,55 o+,capacidad,2.09359
-Aprueba,35-54,cabo,2.08755
-Aprueba,18-34,jovenes,2.08581
-Aprueba,55 o+,conozco,2.07389
-Aprueba,35-54,ingreso,2.07225
-Aprueba,55 o+,adultos,2.06961
-Aprueba,55 o+,mayores,2.06961
-Aprueba,35-54,levantar,2.06917
-Aprueba,35-54,ejecutar,2.06841
-Aprueba,35-54,sentido,2.06834
-Aprueba,55 o+,movimiento,2.05712
-Aprueba,55 o+,aplica,2.0528
-Aprueba,55 o+,opiniones,2.0519
-Aprueba,35-54,sacando,2.04502
-Aprueba,18-34,importa,2.0448
-Aprueba,35-54,realmente,2.0445
-Aprueba,55 o+,empezando,2.0432
-Aprueba,35-54,liderazgo,2.04274
-Aprueba,18-34,minuto,2.0377
-Aprueba,55 o+,señora,2.0377
-Aprueba,35-54,firme,2.03699
-Aprueba,55 o+,especifico,2.03625
-Aprueba,55 o+,principal,2.03597
-Aprueba,35-54,conduccion,2.03234
-Aprueba,18-34,bastantes,2.02797
-Aprueba,55 o+,voluntad,2.02685
-Aprueba,35-54,arto,2.02216
-Aprueba,55 o+,año,2.02203
-Aprueba,55 o+,sename,2.02177
-Aprueba,55 o+,mueve,2.01572
-Aprueba,55 o+,asunto,2.01467
-Aprueba,18-34,mando,2.0093
-Aprueba,35-54,arreglando,2.00689
-Aprueba,35-54,estudiando,2.00433
-Aprueba,55 o+,centro,2.00231
-Aprueba,55 o+,profesional,2.0022
-Aprueba,35-54,comercio,1.99918
-Aprueba,35-54,mercado,1.99432
-Aprueba,35-54,sename,1.99251
-Aprueba,35-54,cuentas,1.99174
-Aprueba,18-34,tomando,1.988
-Aprueba,18-34,preocupando,1.98641
-Aprueba,55 o+,propuestas,1.98612
-Aprueba,55 o+,futuro,1.98346
-Aprueba,35-54,sector,1.98024
-Aprueba,35-54,inversion,1.97387
-Aprueba,35-54,gustaba,1.97333
-Aprueba,55 o+,aspecto,1.97232
-Aprueba,55 o+,vote,1.96175
-Aprueba,35-54,reactivando,1.9615
-Aprueba,35-54,estudiantes,1.9596
-Aprueba,55 o+,seriedad,1.95936
-Aprueba,18-34,carabineros,1.9552
-Aprueba,35-54,lider,1.95237
-Aprueba,35-54,trato,1.94184
-Aprueba,35-54,manos,1.94179
-Aprueba,55 o+,intensiones,1.93646
-Aprueba,55 o+,seria,1.93642
-Aprueba,55 o+,libre,1.93455
-Aprueba,55 o+,gustado,1.93396
-Aprueba,55 o+,supone,1.93223
-Aprueba,55 o+,comienzo,1.92942
-Aprueba,55 o+,enserio,1.92942
-Aprueba,55 o+,ministro,1.92942
-Aprueba,55 o+,tomo,1.92942
-Aprueba,55 o+,bonificacion,1.92835
-Aprueba,55 o+,comentarios,1.92835
-Aprueba,55 o+,entrevista,1.92835
-Aprueba,55 o+,necesita,1.92835
-Aprueba,55 o+,prensa,1.92835
-Aprueba,55 o+,psyuepone,1.92835
-Aprueba,35-54,opiniones,1.92771
-Aprueba,35-54,llegan,1.92676
-Aprueba,55 o+,habian,1.92666
-Aprueba,55 o+,escucha,1.92646
-Aprueba,35-54,desaprobarlo,1.9241
-Aprueba,35-54,par,1.9241
-Aprueba,35-54,chilenos,1.91984
-Aprueba,55 o+,finanzas,1.91885
-Aprueba,55 o+,excelente,1.91819
-Aprueba,18-34,fuentes,1.91447
-Aprueba,35-54,pone,1.91119
-Aprueba,18-34,importancia,1.90992
-Aprueba,55 o+,dirige,1.90979
-Aprueba,55 o+,loe,1.90295
-Aprueba,55 o+,opinion,1.90295
-Aprueba,55 o+,publica,1.90295
-Aprueba,55 o+,recalcarle,1.90295
-Aprueba,55 o+,conducieron,1.90182
-Aprueba,35-54,cumplido,1.89896
-Aprueba,55 o+,tomando,1.89846
-Aprueba,35-54,progresar,1.89826
-Aprueba,35-54,baja,1.89625
-Aprueba,35-54,izquierda,1.89297
-Aprueba,55 o+,subio,1.88373
-Aprueba,55 o+,socialy,1.88169
-Aprueba,18-34,materia,1.87814
-Aprueba,55 o+,cortar,1.86956
-Aprueba,18-34,desempeña,1.85524
-Aprueba,18-34,tomar,1.85479
-Aprueba,55 o+,cree,1.85287
-Aprueba,55 o+,dejar,1.85281
-Aprueba,55 o+,reconoce,1.85281
-Aprueba,18-34,anteriores,1.85063
-Aprueba,35-54,ventas,1.84698
-Aprueba,55 o+,quiero,1.84652
-Aprueba,35-54,voto,1.846
-Aprueba,55 o+,poniendo,1.84481
-Aprueba,55 o+,laborales,1.84472
-Aprueba,18-34,nuevamente,1.84221
-Aprueba,18-34,organizando,1.84221
-Aprueba,35-54,razon,1.83677
-Aprueba,55 o+,pone,1.83532
-Aprueba,55 o+,juicio,1.83286
-Aprueba,55 o+,situaciones,1.83286
-Aprueba,55 o+,tajantemente,1.8318
-Aprueba,18-34,partidos,1.83144
-Aprueba,18-34,principal,1.83107
-Aprueba,18-34,estancado,1.82915
-Aprueba,55 o+,toma,1.82
-Aprueba,18-34,poniendo,1.81654
-Aprueba,55 o+,compañia,1.81639
-Aprueba,55 o+,completo,1.81639
-Aprueba,55 o+,decirte,1.81639
-Aprueba,55 o+,deja,1.81639
-Aprueba,55 o+,desarrollar,1.81639
-Aprueba,55 o+,ente,1.81639
-Aprueba,55 o+,espacio,1.81639
-Aprueba,55 o+,llegarte,1.81639
-Aprueba,55 o+,llevo,1.81639
-Aprueba,55 o+,malos,1.81639
-Aprueba,55 o+,pair,1.81639
-Aprueba,55 o+,puntos,1.81639
-Aprueba,55 o+,solucionarlo,1.81639
-Aprueba,55 o+,suerte,1.81639
-Aprueba,55 o+,trabajai,1.81639
-Aprueba,35-54,apoya,1.81424
-Aprueba,35-54,yendo,1.81398
-Aprueba,55 o+,espera,1.80902
-Aprueba,55 o+,anda,1.80745
-Aprueba,18-34,gastos,1.80059
-Aprueba,18-34,alzas,1.80035
-Aprueba,55 o+,sabria,1.79961
-Aprueba,55 o+,mercado,1.79928
-Aprueba,55 o+,etica,1.79841
-Aprueba,55 o+,vida,1.79795
-Aprueba,18-34,valores,1.79574
-Aprueba,55 o+,partido,1.79142
-Aprueba,55 o+,region,1.78733
-Aprueba,55 o+,chilenos,1.78654
-Aprueba,55 o+,sectores,1.78654
-Aprueba,55 o+,grande,1.78168
-Aprueba,55 o+,conclusiones,1.78127
-Aprueba,18-34,avanzado,1.78019
-Aprueba,55 o+,corrupcion,1.77542
-Aprueba,18-34,asuntos,1.775
-Aprueba,55 o+,plazo,1.77496
-Aprueba,18-34,cacho,1.77372
-Aprueba,18-34,pucha,1.77372
-Aprueba,18-34,verdad,1.77372
-Aprueba,18-34,comparacion,1.77125
-Aprueba,18-34,postura,1.77016
-Aprueba,55 o+,ordenado,1.76624
-Aprueba,55 o+,conformarse,1.76442
-Aprueba,55 o+,nomas,1.76442
-Aprueba,55 o+,araucania,1.76415
-Aprueba,18-34,responde,1.7618
-Aprueba,18-34,apesar,1.75352
-Aprueba,55 o+,oportunidades,1.74779
-Aprueba,35-54,ladrones,1.74229
-Aprueba,35-54,rigurosos,1.74229
-Aprueba,55 o+,pobres,1.74152
-Aprueba,18-34,transparente,1.73803
-Aprueba,55 o+,cosas,1.73802
-Aprueba,55 o+,explicar,1.73802
-Aprueba,55 o+,grandes,1.73802
-Aprueba,55 o+,pueod,1.73802
-Aprueba,55 o+,reine,1.73802
-Aprueba,55 o+,julio,1.73748
-Aprueba,55 o+,junio,1.73748
-Aprueba,55 o+,papeles,1.73748
-Aprueba,55 o+,saco,1.73748
-Aprueba,55 o+,planteamiento,1.7324
-Aprueba,55 o+,propuesta,1.7324
-Aprueba,35-54,credibilidad,1.73095
-Aprueba,18-34,nota,1.72941
-Aprueba,55 o+,controlando,1.72475
-Aprueba,55 o+,idea,1.72411
-Aprueba,18-34,siga,1.72267
-Aprueba,18-34,usando,1.71727
-Aprueba,18-34,credibilidad,1.71706
-Aprueba,35-54,cumple,1.71484
-Aprueba,35-54,vivienda,1.71484
-Aprueba,18-34,siente,1.71373
-Aprueba,55 o+,nivel,1.70602
-Aprueba,55 o+,cumplir,1.70428
-Aprueba,55 o+,area,1.70281
-Aprueba,18-34,reelecto,1.70166
-Aprueba,55 o+,cumplinedo,1.6998
-Aprueba,55 o+,mayoria,1.6998
-Aprueba,18-34,arreglar,1.69473
-Aprueba,35-54,equipo,1.68566
-Aprueba,35-54,asiendo,1.68453
-Aprueba,18-34,dinero,1.68179
-Aprueba,18-34,aguinaldo,1.67143
-Aprueba,18-34,ala,1.67143
-Aprueba,18-34,altiro,1.67143
-Aprueba,18-34,opciones,1.67143
-Aprueba,18-34,paulatinos,1.67143
-Aprueba,18-34,tanmto,1.67143
-Aprueba,18-34,implementando,1.67126
-Aprueba,55 o+,robos,1.6696
-Aprueba,18-34,control,1.66941
-Aprueba,55 o+,entrega,1.6686
-Aprueba,35-54,progreso,1.66736
-Aprueba,18-34,activando,1.66587
-Aprueba,55 o+,traves,1.66378
-Aprueba,35-54,estancado,1.66318
-Aprueba,18-34,pasan,1.66172
-Aprueba,18-34,ayudando,1.6614
-Aprueba,18-34,flujo,1.65762
-Aprueba,35-54,aceptado,1.64937
-Aprueba,35-54,areas,1.64937
-Aprueba,35-54,diferntes,1.64937
-Aprueba,18-34,internacional,1.64728
-Aprueba,18-34,policiales,1.6472
-Aprueba,55 o+,invertir,1.64643
-Aprueba,18-34,parecido,1.64457
-Aprueba,18-34,mira,1.64222
-Aprueba,18-34,ningun,1.64158
-Aprueba,18-34,darle,1.63882
-Aprueba,55 o+,acabando,1.63774
-Aprueba,55 o+,razon,1.63774
-Aprueba,55 o+,roban,1.63774
-Aprueba,55 o+,vienen,1.63774
-Aprueba,55 o+,faena,1.63531
-Aprueba,55 o+,faeneros,1.63531
-Aprueba,55 o+,minera,1.63531
-Aprueba,55 o+,vivimos,1.63531
-Aprueba,55 o+,justo,1.62905
-Aprueba,18-34,quintero,1.62892
-Aprueba,55 o+,interes,1.62678
-Aprueba,18-34,adultos,1.62538
-Aprueba,18-34,sacado,1.62517
-Aprueba,55 o+,mano,1.62305
-Aprueba,18-34,esfuerzo,1.61987
-Aprueba,35-54,impulsando,1.61945
-Aprueba,35-54,jubilacion,1.61846
-Aprueba,55 o+,agricultores,1.61573
-Aprueba,55 o+,minimo,1.61573
-Aprueba,55 o+,trabajor,1.61573
-Aprueba,35-54,ambito,1.61544
-Aprueba,35-54,ambiental,1.61199
-Aprueba,35-54,cansados,1.61199
-Aprueba,35-54,control,1.61199
-Aprueba,35-54,harto,1.61199
-Aprueba,35-54,policial,1.61199
-Aprueba,18-34,informacion,1.61176
-Aprueba,55 o+,juventud,1.60474
-Aprueba,55 o+,mejoras,1.6046
-Aprueba,18-34,ampliado,1.6032
-Aprueba,18-34,contado,1.6032
-Aprueba,18-34,informada,1.6032
-Aprueba,18-34,subsidios,1.6032
-Aprueba,35-54,mantenido,1.5994
-Aprueba,18-34,manejado,1.5931
-Aprueba,35-54,correcto,1.59069
-Aprueba,18-34,reduccion,1.58929
-Aprueba,18-34,publico,1.58902
-Aprueba,55 o+,realiza,1.58853
-Aprueba,18-34,encuentra,1.58849
-Aprueba,18-34,partidario,1.58849
-Aprueba,18-34,quieren,1.58849
-Aprueba,18-34,actual,1.5833
-Aprueba,18-34,anteriormente,1.5833
-Aprueba,18-34,conversaciòn,1.58305
-Aprueba,18-34,dispuesto,1.58305
-Aprueba,18-34,extremista,1.58305
-Aprueba,18-34,post,1.58305
-Aprueba,18-34,pùblicas,1.58305
-Aprueba,55 o+,corto,1.57988
-Aprueba,55 o+,jovenes,1.5786
-Aprueba,18-34,genero,1.5691
-Aprueba,18-34,izquierda,1.5691
-Aprueba,35-54,gastos,1.56701
-Aprueba,18-34,funcionando,1.56592
-Aprueba,18-34,pedazos,1.56592
-Aprueba,18-34,pendiente,1.56592
-Aprueba,18-34,puente,1.56592
-Aprueba,18-34,quedo,1.56592
-Aprueba,18-34,querian,1.56592
-Aprueba,18-34,region,1.56592
-Aprueba,18-34,rios,1.56592
-Aprueba,18-34,salir,1.56592
-Aprueba,18-34,tipico,1.56592
-Aprueba,18-34,tratado,1.56592
-Aprueba,35-54,mantiene,1.56299
-Aprueba,18-34,planes,1.55859
-Aprueba,18-34,apruebo,1.55844
-Aprueba,18-34,subiendo,1.55546
-Aprueba,55 o+,aquejan,1.55301
-Aprueba,55 o+,ciudadano,1.55301
-Aprueba,55 o+,comfiable,1.55301
-Aprueba,55 o+,comun,1.55301
-Aprueba,55 o+,curso,1.55301
-Aprueba,35-54,autoridad,1.55254
-Aprueba,18-34,promulgacion,1.54793
-Aprueba,18-34,programa,1.5478
-Aprueba,35-54,maneja,1.54624
-Aprueba,55 o+,esperanzados,1.54542
-Aprueba,35-54,realizando,1.54483
-Aprueba,35-54,resolver,1.54431
-Aprueba,55 o+,ahy,1.54389
-Aprueba,18-34,dura,1.5407
-Aprueba,18-34,mano,1.5407
-Aprueba,35-54,gratuidad,1.54049
-Aprueba,35-54,subiendo,1.53663
-Aprueba,18-34,minimo,1.53633
-Aprueba,55 o+,llevan,1.53516
-Aprueba,55 o+,respetarlos,1.53516
-Aprueba,55 o+,conocimientos,1.53502
-Aprueba,55 o+,manejar,1.53502
-Aprueba,55 o+,palabras,1.53502
-Aprueba,55 o+,pr3ocupacion,1.53502
-Aprueba,55 o+,puras,1.53502
-Aprueba,55 o+,rapido,1.53502
-Aprueba,55 o+,relativamente,1.53502
-Aprueba,55 o+,saca,1.5336
-Aprueba,35-54,mejorando,1.5331
-Aprueba,18-34,ahhhh,1.52745
-Aprueba,18-34,especial,1.52745
-Aprueba,18-34,hummm,1.52745
-Aprueba,18-34,tranquilo,1.52745
-Aprueba,35-54,activo,1.5267
-Aprueba,35-54,regularizar,1.52481
-Aprueba,18-34,ingreso,1.52429
-Aprueba,55 o+,faltaria,1.5194
-Aprueba,55 o+,gobernaría,1.5194
-Aprueba,55 o+,imposiciñon,1.5194
-Aprueba,55 o+,sencillo,1.5194
-Aprueba,35-54,ahy,1.51564
-Aprueba,18-34,acercando,1.5074
-Aprueba,18-34,acuerdop,1.5074
-Aprueba,18-34,apertura,1.5074
-Aprueba,18-34,co9n,1.5074
-Aprueba,18-34,credito,1.5074
-Aprueba,18-34,pro,1.5074
-Aprueba,18-34,pueblos,1.5074
-Aprueba,18-34,referente,1.5074
-Aprueba,18-34,sde,1.5074
-Aprueba,18-34,pol,1.50415
-Aprueba,35-54,pese,1.49293
-Aprueba,18-34,fondos,1.491
-Aprueba,35-54,iguales,1.491
-Aprueba,55 o+,ofendiendo,1.49072
-Aprueba,35-54,pobres,1.48816
-Aprueba,35-54,caracter,1.48704
-Aprueba,35-54,ningun,1.48658
-Aprueba,35-54,mayores,1.48573
-Aprueba,55 o+,coherente,1.4839
-Aprueba,55 o+,hospital,1.4839
-Aprueba,55 o+,instalando,1.4839
-Aprueba,55 o+,llego,1.4839
-Aprueba,55 o+,opino,1.4839
-Aprueba,55 o+,quintero,1.4839
-Aprueba,55 o+,ventiladores,1.4839
-Aprueba,18-34,soluciones,1.48224
-Aprueba,35-54,espera,1.47952
-Aprueba,35-54,paso,1.47778
-Aprueba,35-54,respeto,1.4768
-Aprueba,35-54,notado,1.4755
-Aprueba,18-34,aportado,1.47537
-Aprueba,18-34,inteligente,1.47537
-Aprueba,18-34,obviamente,1.47521
-Aprueba,35-54,cara,1.4737
-Aprueba,35-54,generacion,1.46988
-Aprueba,35-54,entregaron,1.46914
-Aprueba,35-54,excelente,1.46747
-Aprueba,35-54,transparencia,1.46741
-Aprueba,35-54,drastica,1.46464
-Aprueba,35-54,instituciones,1.46464
-Aprueba,35-54,respaldo,1.46464
-Aprueba,18-34,equipo,1.46385
-Aprueba,18-34,explicar,1.46385
-Aprueba,18-34,caracter,1.46302
-Aprueba,35-54,cristianos,1.46121
-Aprueba,35-54,sale,1.46105
-Aprueba,18-34,notar,1.45942
-Aprueba,35-54,empuje,1.45899
-Aprueba,35-54,mujeres,1.45899
-Aprueba,35-54,talleres,1.45899
-Aprueba,35-54,puestos,1.45744
-Aprueba,35-54,presupuesto,1.45698
-Aprueba,35-54,mala,1.45648
-Aprueba,18-34,controles,1.4555
-Aprueba,35-54,hartos,1.45341
-Aprueba,35-54,tomar,1.45194
-Aprueba,35-54,coas,1.44454
-Aprueba,35-54,reactivado,1.44324
-Aprueba,18-34,aumentando,1.43935
-Aprueba,18-34,alumnos,1.43882
-Aprueba,18-34,docente,1.43882
-Aprueba,18-34,gane,1.43882
-Aprueba,18-34,inclucion,1.43882
-Aprueba,18-34,motivos,1.43882
-Aprueba,18-34,prefiero,1.43882
-Aprueba,18-34,socilaes,1.43882
-Aprueba,35-54,coherencia,1.43877
-Aprueba,18-34,encontró,1.43803
-Aprueba,35-54,constante,1.43326
-Aprueba,35-54,diferencia,1.43326
-Aprueba,35-54,ultimos,1.43326
-Aprueba,35-54,propone,1.42835
-Aprueba,18-34,està,1.4271
-Aprueba,18-34,leido,1.4271
-Aprueba,18-34,segùn,1.4271
-Aprueba,18-34,tele,1.4271
-Aprueba,18-34,inversiones,1.42548
-Aprueba,35-54,demostrando,1.42209
-Aprueba,35-54,documentos,1.42209
-Aprueba,35-54,ejecutando,1.42209
-Aprueba,35-54,esperemos,1.42209
-Aprueba,35-54,inconclusa,1.42209
-Aprueba,35-54,molesta,1.42209
-Aprueba,35-54,pase,1.42209
-Aprueba,35-54,quede,1.42209
-Aprueba,35-54,genera,1.42112
-Aprueba,55 o+,haciendolo,1.42021
-Aprueba,55 o+,variado,1.42021
-Aprueba,18-34,entrevista,1.41812
-Aprueba,18-34,loco,1.41812
-Aprueba,18-34,ministro,1.41812
-Aprueba,18-34,tipo,1.41812
-Aprueba,18-34,verlo,1.41812
-Aprueba,35-54,busca,1.41417
-Aprueba,35-54,subsidios,1.41346
-Aprueba,35-54,fuente,1.4118
-Aprueba,35-54,pq,1.40707
-Aprueba,35-54,opciones,1.40516
-Aprueba,35-54,ordenamiento,1.40189
-Aprueba,18-34,devuelvan,1.40166
-Aprueba,18-34,legalice,1.40166
-Aprueba,18-34,papeles,1.40166
-Aprueba,18-34,sacar,1.40166
-Aprueba,18-34,visas,1.40166
-Aprueba,35-54,ciudadanos,1.40101
-Aprueba,35-54,consultorio,1.40101
-Aprueba,35-54,demas,1.40101
-Aprueba,35-54,pensamientos,1.40101
-Aprueba,35-54,apruebo,1.39995
-Aprueba,35-54,requiere,1.39966
-Aprueba,55 o+,arreglado,1.3987
-Aprueba,55 o+,quierre,1.3987
-Aprueba,35-54,creando,1.39802
-Aprueba,35-54,mapuche,1.39802
-Aprueba,35-54,pueblo,1.39802
-Aprueba,18-34,rapidez,1.39766
-Aprueba,35-54,màs,1.39725
-Aprueba,35-54,administre,1.39179
-Aprueba,35-54,candidatos,1.39179
-Aprueba,35-54,estariamos,1.39179
-Aprueba,35-54,negocios,1.39179
-Aprueba,35-54,ingresos,1.39132
-Aprueba,35-54,buscando,1.38875
-Aprueba,35-54,enfocado,1.3887
-Aprueba,35-54,becas,1.38625
-Aprueba,35-54,trabajador,1.37595
-Aprueba,35-54,necesita,1.37259
-Aprueba,18-34,desarrollo,1.37123
-Aprueba,35-54,alumnos,1.37098
-Aprueba,35-54,condicionales,1.37098
-Aprueba,35-54,gustando,1.37098
-Aprueba,35-54,hbian,1.37098
-Aprueba,35-54,percepcion,1.37098
-Aprueba,35-54,quedar,1.37098
-Aprueba,35-54,tencgo,1.37098
-Aprueba,35-54,ideologias,1.37017
-Aprueba,35-54,familias,1.36817
-Aprueba,35-54,fortaleciendo,1.36817
-Aprueba,35-54,rural,1.36817
-Aprueba,35-54,turistico,1.36817
-Aprueba,35-54,urbano,1.36817
-Aprueba,35-54,aguas,1.36769
-Aprueba,35-54,regale,1.36769
-Aprueba,35-54,tierras,1.36769
-Aprueba,35-54,abordado,1.36658
-Aprueba,35-54,izquierdista,1.36278
-Aprueba,35-54,honesto,1.36175
-Aprueba,18-34,preocupado,1.3561
-Aprueba,35-54,informa,1.35093
-Aprueba,35-54,seriedad,1.35063
-Aprueba,35-54,programa,1.34721
-Aprueba,55 o+,esprisito,1.34527
-Aprueba,35-54,ala,1.33726
-Aprueba,35-54,documento,1.33726
-Aprueba,35-54,estatus,1.33726
-Aprueba,35-54,facilidad,1.33726
-Aprueba,35-54,surgir,1.33726
-Aprueba,35-54,ultimas,1.33726
-Aprueba,35-54,momentos,1.33581
-Aprueba,18-34,desconformidad,1.3348
-Aprueba,18-34,tewngo,1.3348
-Aprueba,35-54,llavando,1.33397
-Aprueba,35-54,rie,1.33397
-Aprueba,35-54,futuro,1.33009
-Aprueba,35-54,falta,1.32728
-Aprueba,35-54,directo,1.32632
-Aprueba,35-54,minimo,1.32273
-Aprueba,35-54,preocuopa,1.32273
-Aprueba,35-54,estudios,1.32188
-Aprueba,35-54,mentalidad,1.3214
-Aprueba,35-54,puedan,1.3206
-Aprueba,55 o+,baja,1.3206
-Aprueba,55 o+,inflacion,1.3206
-Aprueba,55 o+,marchando,1.3206
-Aprueba,55 o+,anbiente,1.31789
-Aprueba,55 o+,prente,1.31789
-Aprueba,55 o+,tods,1.31789
-Aprueba,35-54,camara,1.31574
-Aprueba,35-54,diputados,1.31574
-Aprueba,35-54,haria,1.31574
-Aprueba,35-54,homosexuales,1.31574
-Aprueba,35-54,normas,1.31574
-Aprueba,35-54,normativa,1.31574
-Aprueba,35-54,ponerle,1.31574
-Aprueba,35-54,qie,1.31574
-Aprueba,35-54,sinete,1.31574
-Aprueba,35-54,toman,1.31574
-Aprueba,18-34,alargo,1.3135
-Aprueba,18-34,decirte,1.3135
-Aprueba,18-34,encuentor,1.3135
-Aprueba,18-34,ende,1.3135
-Aprueba,18-34,engaños,1.3135
-Aprueba,18-34,estadando,1.3135
-Aprueba,18-34,estudios,1.3135
-Aprueba,18-34,favorecido,1.3135
-Aprueba,18-34,gratis,1.3135
-Aprueba,18-34,imponiendio,1.3135
-Aprueba,18-34,jefe,1.3135
-Aprueba,18-34,jubilacion,1.3135
-Aprueba,18-34,mantendio,1.3135
-Aprueba,18-34,mostrado,1.3135
-Aprueba,18-34,ostrado,1.3135
-Aprueba,35-54,arregando,1.3135
-Aprueba,35-54,acabando,1.31149
-Aprueba,35-54,relaciones,1.31035
-Aprueba,35-54,cursos,1.30826
-Aprueba,35-54,eligio,1.30826
-Aprueba,35-54,po,1.30765
-Aprueba,18-34,agrada,1.30654
-Aprueba,18-34,aumentado,1.30654
-Aprueba,18-34,bajara,1.30654
-Aprueba,18-34,conosco,1.30654
-Aprueba,18-34,gubernamentales,1.30654
-Aprueba,18-34,marido,1.30654
-Aprueba,35-54,tarcera,1.30392
-Aprueba,35-54,dirige,1.30246
-Aprueba,55 o+,renovado,1.30049
-Aprueba,18-34,organizado,1.29927
-Aprueba,35-54,conoce,1.299
-Aprueba,35-54,decadencia,1.299
-Aprueba,35-54,eseta,1.299
-Aprueba,35-54,experto,1.299
-Aprueba,18-34,apruebao,1.29685
-Aprueba,18-34,basa,1.29685
-Aprueba,18-34,becas,1.29685
-Aprueba,18-34,diò,1.29685
-Aprueba,18-34,entregar,1.29685
-Aprueba,18-34,fàcil,1.29685
-Aprueba,18-34,filtyro,1.29685
-Aprueba,18-34,necesitada,1.29685
-Aprueba,18-34,pequeñas,1.29685
-Aprueba,55 o+,conocimiento,1.26759
-Aprueba,55 o+,imagino,1.26759
-Aprueba,35-54,malas,1.25797
-Aprueba,18-34,desaprobación,1.2567
-Aprueba,18-34,enfocando,1.2567
-Aprueba,18-34,futuro,1.2567
-Aprueba,18-34,implicando,1.2567
-Aprueba,18-34,inclusion,1.2567
-Aprueba,18-34,informado,1.2567
-Aprueba,18-34,marcados,1.2567
-Aprueba,18-34,noticias,1.2567
-Aprueba,35-54,cometio,1.2567
-Aprueba,35-54,diversidad,1.2521
-Aprueba,18-34,als,1.2496
-Aprueba,18-34,genral,1.2496
-Aprueba,18-34,ne,1.2496
-Aprueba,18-34,spor,1.2496
-Aprueba,18-34,subirle,1.2496
-Aprueba,35-54,sociocultural,1.24628
-Aprueba,35-54,posicion,1.24494
-Aprueba,18-34,ciudade,1.2425
-Aprueba,18-34,mineras,1.2425
-Aprueba,18-34,sacara,1.2425
-Aprueba,35-54,especifica,1.2425
-Aprueba,35-54,presisa,1.2425
-Aprueba,35-54,prodria,1.2425
-Aprueba,35-54,regiones,1.2425
-Aprueba,35-54,independiente,1.23924
-Aprueba,18-34,embarrada,1.2354
-Aprueba,18-34,grande,1.2354
-Aprueba,18-34,mandado,1.2354
-Aprueba,18-34,documentacion,1.2212
-Aprueba,18-34,exigir,1.2212
-Aprueba,18-34,interesado,1.2212
-Aprueba,18-34,pregunta,1.2212
-Aprueba,18-34,radical,1.2212
-Aprueba,18-34,regularizar,1.2212
-Aprueba,18-34,respuesta,1.2212
-Aprueba,35-54,clasificar,1.2212
-Aprueba,35-54,corresponde,1.2212
-Aprueba,35-54,lleve,1.2212
-Aprueba,35-54,medidad,1.2212
-Aprueba,35-54,moemnto,1.2212
-Aprueba,35-54,tendria,1.2212
-Aprueba,35-54,junta,1.22052
-Aprueba,35-54,llama,1.22052
-Aprueba,35-54,llamaban,1.22052
-Aprueba,35-54,llaman,1.22052
-Aprueba,35-54,llamar,1.22052
-Aprueba,35-54,poblaciones,1.22052
-Aprueba,35-54,tiro,1.22052
-Aprueba,35-54,tramitaban,1.22052
-Aprueba,35-54,vecinos,1.22052
-Aprueba,55 o+,beneficiosas,1.21648
-Aprueba,55 o+,lenta,1.21648
-Aprueba,55 o+,reactivacion,1.21648
-Aprueba,35-54,cauerdo,1.21432
-Aprueba,18-34,burocratico,1.2141
-Aprueba,18-34,flote,1.2141
-Aprueba,18-34,haga,1.2141
-Aprueba,18-34,indiferente,1.2141
-Aprueba,18-34,llegando,1.2141
-Aprueba,18-34,pracmatico,1.2141
-Aprueba,18-34,resoluciones,1.2141
-Aprueba,18-34,saliendo,1.2141
-Aprueba,35-54,gratuita,1.1999
-Aprueba,35-54,cimientos,1.19675
-Aprueba,35-54,creció,1.19675
-Aprueba,35-54,industriales,1.19675
-Aprueba,35-54,influirá,1.19675
-Aprueba,35-54,levantaron,1.19675
-Aprueba,35-54,salió,1.19675
-Aprueba,35-54,subió,1.19675
-Aprueba,18-34,aghradan,1.19528
-Aprueba,18-34,amedia,1.19528
-Aprueba,18-34,areglada,1.19528
-Aprueba,18-34,decirme,1.19528
-Aprueba,18-34,esdas,1.19528
-Aprueba,18-34,mcujhhio,1.19528
-Aprueba,18-34,olvida,1.19528
-Aprueba,18-34,parientes,1.19528
-Aprueba,18-34,patas,1.19528
-Aprueba,18-34,rtpricado,1.19528
-Aprueba,18-34,secot,1.19528
-Aprueba,18-34,tosos,1.19528
-Aprueba,55 o+,extremista,1.18892
-Aprueba,55 o+,termino,1.18892
-Aprueba,35-54,imaginese,1.18826
-Aprueba,35-54,logro,1.18826
-Aprueba,35-54,recibio,1.18826
-Aprueba,35-54,terremoto,1.18826
-Aprueba,35-54,bandalismo,1.1786
-Aprueba,35-54,biuenos,1.1786
-Aprueba,35-54,porquer,1.1786
-Aprueba,35-54,estancada,1.17434
-Aprueba,35-54,falata,1.17434
-Aprueba,35-54,operante,1.17434
-Aprueba,35-54,pasan,1.17434
-Aprueba,35-54,sensacion,1.17434
-Aprueba,35-54,vio,1.17434
-Aprueba,55 o+,capacitada,1.16576
-Aprueba,55 o+,compromiso,1.16576
-Aprueba,35-54,facilita,1.1644
-Aprueba,35-54,quita,1.1644
-Aprueba,35-54,sabria,1.1644
-Aprueba,35-54,satisfactorio,1.1644
-Aprueba,55 o+,candidatos,1.1644
-Aprueba,55 o+,gustaban,1.1644
-Aprueba,55 o+,iniciativas,1.1585
-Aprueba,55 o+,ordenarla,1.1585
-Aprueba,18-34,calles,1.1575
-Aprueba,18-34,cree,1.1575
-Aprueba,18-34,dios,1.1575
-Aprueba,18-34,esperanza,1.1575
-Aprueba,18-34,pa,1.1575
-Aprueba,18-34,pùblica,1.1575
-Aprueba,18-34,siempr,1.1575
-Aprueba,18-34,tire,1.1575
-Aprueba,18-34,vial,1.1575
-Aprueba,35-54,quiero,1.1573
-Aprueba,35-54,actuar,1.15481
-Aprueba,55 o+,campo,1.14787
-Aprueba,55 o+,mejore,1.14787
-Aprueba,18-34,activacion,1.1431
-Aprueba,18-34,ordenar,1.1431
-Aprueba,18-34,partes,1.1431
-Aprueba,18-34,pasa,1.1431
-Aprueba,18-34,pórque,1.1431
-Aprueba,35-54,candidatura,1.1431
-Aprueba,35-54,generado,1.1431
-Aprueba,35-54,inplementando,1.1431
-Aprueba,35-54,inplementandoy,1.1431
-Aprueba,18-34,coincidencia,1.14092
-Aprueba,18-34,población,1.14092
-Aprueba,18-34,proyeccion,1.14092
-Aprueba,35-54,empezado,1.14049
-Aprueba,35-54,violencia,1.14049
-Aprueba,18-34,conocimiento,1.13715
-Aprueba,18-34,necesitaba,1.13715
-Aprueba,18-34,negativamente,1.13715
-Aprueba,18-34,pasitiva,1.13715
-Aprueba,55 o+,acepten,1.136
-Aprueba,55 o+,costando,1.136
-Aprueba,55 o+,integrar,1.136
-Aprueba,55 o+,mirado,1.136
-Aprueba,55 o+,normal,1.136
-Aprueba,55 o+,poblemas,1.136
-Aprueba,55 o+,punto,1.136
-Aprueba,55 o+,quieren,1.136
-Aprueba,55 o+,unificar,1.136
-Aprueba,55 o+,vista,1.136
-Aprueba,35-54,pareta,1.1289
-Aprueba,35-54,participa,1.1289
-Aprueba,18-34,enfoque,1.12412
-Aprueba,55 o+,cumple,1.1218
-Aprueba,55 o+,corregir,1.12035
-Aprueba,55 o+,endurecer,1.12035
-Aprueba,55 o+,falta,1.12035
-Aprueba,55 o+,justicia,1.12035
-Aprueba,55 o+,penas,1.12035
-Aprueba,35-54,preparacion,1.11492
-Aprueba,18-34,eleccion,1.11081
-Aprueba,55 o+,cunple,1.10578
-Aprueba,55 o+,cuota,1.10578
-Aprueba,55 o+,horizantal,1.10578
-Aprueba,55 o+,mantenido,1.10578
-Aprueba,35-54,aquedar,1.10507
-Aprueba,35-54,elegir,1.10507
-Aprueba,35-54,organizar,1.10507
-Aprueba,35-54,salir,1.10507
-Aprueba,55 o+,abran,1.10078
-Aprueba,55 o+,carpetas,1.10078
-Aprueba,55 o+,fuerza,1.10078
-Aprueba,55 o+,habran,1.10078
-Aprueba,55 o+,pidiendo,1.10078
-Aprueba,35-54,mezura,1.1005
-Aprueba,18-34,afuera,1.09944
-Aprueba,18-34,creciendo,1.09944
-Aprueba,18-34,cuentas,1.09944
-Aprueba,35-54,abrio,1.0934
-Aprueba,35-54,crecio,1.0934
-Aprueba,18-34,beneficio,1.09133
-Aprueba,35-54,depender,1.08653
-Aprueba,35-54,minuto,1.08653
-Aprueba,35-54,ñuble,1.08653
-Aprueba,55 o+,cargos,1.0863
-Aprueba,55 o+,confrontacionales,1.0863
-Aprueba,55 o+,diversos,1.0863
-Aprueba,55 o+,enfermedad,1.0863
-Aprueba,55 o+,esperar,1.0863
-Aprueba,55 o+,inentendible,1.0863
-Aprueba,55 o+,instruidas,1.0863
-Aprueba,55 o+,jubilada,1.0863
-Aprueba,55 o+,mantener,1.0863
-Aprueba,55 o+,ocupado,1.0863
-Aprueba,55 o+,pasa,1.0863
-Aprueba,55 o+,paz,1.0863
-Aprueba,55 o+,preparada,1.0863
-Aprueba,55 o+,preparadas,1.0863
-Aprueba,55 o+,preparado,1.0863
-Aprueba,55 o+,privadas,1.0863
-Aprueba,55 o+,publicas,1.0863
-Aprueba,55 o+,reparticiones,1.0863
-Aprueba,55 o+,rodea,1.0863
-Aprueba,55 o+,tratan,1.0863
-Aprueba,55 o+,ultimos,1.0863
-Aprueba,55 o+,vergonzoso,1.0863
-Aprueba,55 o+,poquito,1.0818
-Aprueba,35-54,abre,1.0792
-Aprueba,35-54,abren,1.0792
-Aprueba,35-54,aprobacion,1.0792
-Aprueba,35-54,bancos,1.0792
-Aprueba,35-54,complejas,1.0792
-Aprueba,35-54,limite,1.0792
-Aprueba,35-54,piñer,1.0792
-Aprueba,35-54,podia,1.0792
-Aprueba,35-54,puertas,1.0792
-Aprueba,55 o+,haigan,1.07854
-Aprueba,55 o+,logre,1.07854
-Aprueba,55 o+,odio,1.07854
-Aprueba,55 o+,avance,1.0721
-Aprueba,55 o+,cumpla,1.0721
-Aprueba,55 o+,disminuir,1.0721
-Aprueba,55 o+,pensando,1.0721
-Aprueba,18-34,fabrica,1.07093
-Aprueba,18-34,intenciones,1.07093
-Aprueba,18-34,proyecciones,1.07093
-Aprueba,18-34,ud,1.07093
-Aprueba,55 o+,alejado,1.06851
-Aprueba,55 o+,beneficio,1.06851
-Aprueba,55 o+,borra,1.06851
-Aprueba,55 o+,candidato,1.06851
-Aprueba,55 o+,ciudadanos,1.06851
-Aprueba,55 o+,compartir,1.06851
-Aprueba,55 o+,componiendo,1.06851
-Aprueba,55 o+,cuestion,1.06851
-Aprueba,55 o+,desventaja,1.06851
-Aprueba,55 o+,eficiente,1.06851
-Aprueba,55 o+,ejecucion,1.06851
-Aprueba,55 o+,estudiantes,1.06851
-Aprueba,55 o+,fallando,1.06851
-Aprueba,55 o+,resto,1.06851
-Aprueba,55 o+,sociedad,1.06851
-Aprueba,35-54,optimismo,1.065
-Aprueba,35-54,toma,1.065
-Aprueba,55 o+,espiritu,1.065
-Aprueba,55 o+,meses,1.065
-Aprueba,55 o+,producto,1.065
-Aprueba,55 o+,superacion,1.065
-Aprueba,55 o+,todabia,1.065
-Aprueba,35-54,calidad,1.0604
-Aprueba,35-54,camino,1.0604
-Aprueba,55 o+,bastate,1.05773
-Aprueba,55 o+,experincia,1.05773
-Aprueba,55 o+,hubio,1.05773
-Aprueba,18-34,cumple,1.05479
-Aprueba,18-34,esperar,1.05479
-Aprueba,18-34,estancados,1.05048
-Aprueba,55 o+,anteriior,1.05039
-Aprueba,55 o+,contraria,1.05039
-Aprueba,55 o+,mme,1.05039
-Aprueba,55 o+,ocurre,1.05039
-Aprueba,55 o+,intencionada,1.04879
-Aprueba,55 o+,abuso,1.04535
-Aprueba,55 o+,cinsero,1.04535
-Aprueba,55 o+,lincuencia,1.04535
-Aprueba,55 o+,llevando,1.04535
-Aprueba,55 o+,megusta,1.04535
-Aprueba,55 o+,menores,1.04535
-Aprueba,55 o+,continuador,1.0437
-Aprueba,55 o+,crecer,1.0437
-Aprueba,55 o+,denuevo,1.0437
-Aprueba,55 o+,percepcion,1.0437
-Aprueba,35-54,querer,1.04131
-Aprueba,35-54,quiebra,1.04131
-Aprueba,35-54,sostenedor,1.04131
-Aprueba,55 o+,aprobadas,1.03681
-Aprueba,55 o+,firmadas,1.03681
-Aprueba,55 o+,hacerr,1.03681
-Aprueba,55 o+,preocupada,1.03681
-Aprueba,35-54,contrario,1.0366
-Aprueba,35-54,deja,1.0366
-Aprueba,35-54,plan,1.0366
-Aprueba,35-54,pòlitico,1.0366
-Aprueba,35-54,segundacomo,1.0366
-Aprueba,55 o+,verda,1.0366
-Aprueba,18-34,agencia,1.03604
-Aprueba,18-34,fundamentamente,1.03604
-Aprueba,18-34,tomados,1.03604
-Aprueba,18-34,aestoy,1.03602
-Aprueba,18-34,apollado,1.03602
-Aprueba,18-34,aprovando,1.03602
-Aprueba,18-34,canbio,1.03602
-Aprueba,18-34,canbios,1.03602
-Aprueba,18-34,capitalismo,1.03602
-Aprueba,18-34,centre,1.03602
-Aprueba,18-34,comercio,1.03602
-Aprueba,18-34,gustando,1.03602
-Aprueba,18-34,ido,1.03602
-Aprueba,18-34,propuso,1.03602
-Aprueba,18-34,ubo,1.03602
-Aprueba,35-54,levanto,1.03006
-Aprueba,35-54,suelo,1.03006
-Aprueba,55 o+,comunista,1.0295
-Aprueba,55 o+,horror,1.0295
-Aprueba,55 o+,iguales,1.0295
-Aprueba,55 o+,popular,1.0295
-Aprueba,55 o+,vivi,1.0295
-Aprueba,55 o+,positivas,1.0251
-Aprueba,55 o+,trayectoria,1.0251
-Aprueba,35-54,consecuente,1.0224
-Aprueba,35-54,diciendo,1.0224
-Aprueba,55 o+,bono,1.02092
-Aprueba,55 o+,cumplirlo,1.02092
-Aprueba,55 o+,endeudado,1.02092
-Aprueba,55 o+,restableciendo,1.02092
-Aprueba,55 o+,resultar,1.02092
-Aprueba,55 o+,arreglo,1.02067
-Aprueba,55 o+,exceso,1.02067
-Aprueba,55 o+,ordeno,1.02067
-Aprueba,55 o+,proque,1.02067
-Aprueba,18-34,comparando,1.01845
-Aprueba,18-34,conlos,1.01845
-Aprueba,55 o+,charlatan,1.01633
-Aprueba,55 o+,adapta,1.01549
-Aprueba,55 o+,ase,1.01549
-Aprueba,55 o+,cristiana,1.01549
-Aprueba,55 o+,dinamico,1.01549
-Aprueba,55 o+,formada,1.01549
-Aprueba,55 o+,lectura,1.01549
-Aprueba,55 o+,nesta,1.01549
-Aprueba,55 o+,ordenadas,1.01549
-Aprueba,55 o+,siento,1.01549
-Aprueba,55 o+,trasnparencia,1.01549
-Aprueba,55 o+,aire,1.0153
-Aprueba,55 o+,algun,1.0153
-Aprueba,55 o+,apesar,1.0153
-Aprueba,55 o+,apocos,1.0153
-Aprueba,55 o+,bienes,1.0153
-Aprueba,55 o+,cumplido,1.0153
-Aprueba,55 o+,desaprueba,1.0153
-Aprueba,55 o+,estancado,1.0153
-Aprueba,55 o+,fondo,1.0153
-Aprueba,55 o+,habra,1.0153
-Aprueba,55 o+,luz,1.0153
-Aprueba,55 o+,quitados,1.0153
-Aprueba,55 o+,respeto,1.0153
-Aprueba,55 o+,valores,1.0153
-Aprueba,55 o+,vera,1.0153
-Aprueba,55 o+,empezamos,1.01462
-Aprueba,55 o+,moviendo,1.01462
-Aprueba,35-54,criminalidad,1.01432
-Aprueba,35-54,fe,1.01432
-Aprueba,35-54,mantener,1.01432
-Aprueba,35-54,mejorara,1.01432
-Aprueba,35-54,mostratado,1.01432
-Aprueba,35-54,reducir,1.01432
-Aprueba,35-54,transmite,1.01432
-Aprueba,35-54,ùltimo,1.01432
-Aprueba,35-54,unir,1.01432
-Aprueba,55 o+,ajenas,1.01056
-Aprueba,55 o+,fortaleciendola,1.01056
-Aprueba,55 o+,ocupara,1.01056
-Aprueba,55 o+,pienso,1.01056
-Aprueba,55 o+,platas,1.01056
-Aprueba,18-34,campaña,1.0082
-Aprueba,55 o+,corresponden,1.00686
-Aprueba,55 o+,desconocen,1.00686
-Aprueba,55 o+,destrozados,1.00686
-Aprueba,55 o+,desvinculacion,1.00686
-Aprueba,55 o+,etc,1.00686
-Aprueba,55 o+,generaciones,1.00686
-Aprueba,55 o+,odios,1.00686
-Aprueba,55 o+,pasadas,1.00686
-Aprueba,55 o+,protestas,1.00686
-Aprueba,55 o+,tomó,1.006
-Aprueba,35-54,bolivia,1.00411
-Aprueba,35-54,conflicto,1.00411
-Aprueba,55 o+,iba,1.00321
-Aprueba,55 o+,suban,1.00321
-Aprueba,55 o+,subir,1.00321
-Aprueba,55 o+,bajos,1.0011
-Aprueba,55 o+,basa,1.0011
-Aprueba,55 o+,cara,1.0011
-Aprueba,55 o+,claridad,1.0011
-Aprueba,55 o+,conflictivo,1.0011
-Aprueba,55 o+,cuesta,1.0011
-Aprueba,55 o+,ejecuta,1.0011
-Aprueba,55 o+,esperanzas,1.0011
-Aprueba,55 o+,estabamos,1.0011
-Aprueba,55 o+,gratis,1.0011
-Aprueba,55 o+,hechio,1.0011
-Aprueba,55 o+,intensiòn,1.0011
-Aprueba,55 o+,llegar,1.0011
-Aprueba,55 o+,mala,1.0011
-Aprueba,55 o+,minuto,1.0011
-Aprueba,55 o+,plantea,1.0011
-Aprueba,55 o+,proponga,1.0011
-Aprueba,55 o+,rapidas,1.0011
-Aprueba,55 o+,regala,1.0011
-Aprueba,55 o+,salir,1.0011
-Aprueba,55 o+,subiendo,1.0011
-Aprueba,55 o+,tendencias,1.0011
-Aprueba,55 o+,totalmente,1.0011
-Aprueba,55 o+,trabajops,1.0011
-Aprueba,55 o+,ven,1.0011
-Aprueba,55 o+,cuba,0.99438
-Aprueba,55 o+,gane,0.99438
-Aprueba,55 o+,vuelva,0.99438
-Aprueba,55 o+,bolivia,0.994
-Aprueba,55 o+,crecimiento,0.98979
-Aprueba,55 o+,estanca,0.98979
-Aprueba,55 o+,estanco,0.98979
-Aprueba,55 o+,impulsa,0.98979
-Aprueba,55 o+,porque4,0.98979
-Aprueba,35-54,llegar,0.98532
-Aprueba,55 o+,agrada,0.98502
-Aprueba,55 o+,ámbitos,0.98502
-Aprueba,55 o+,cero,0.98502
-Aprueba,55 o+,clima,0.98502
-Aprueba,55 o+,cumplio,0.98502
-Aprueba,55 o+,defiende,0.98502
-Aprueba,55 o+,demaciado,0.98502
-Aprueba,55 o+,distintos,0.98502
-Aprueba,55 o+,embarrada,0.98502
-Aprueba,55 o+,enroscado,0.98502
-Aprueba,55 o+,especificaemnte,0.98502
-Aprueba,55 o+,idiologia,0.98502
-Aprueba,55 o+,lograr,0.98502
-Aprueba,55 o+,ordenando,0.98502
-Aprueba,55 o+,primete,0.98502
-Aprueba,55 o+,prioriza,0.98502
-Aprueba,55 o+,pro,0.98502
-Aprueba,55 o+,quie,0.98502
-Aprueba,55 o+,riendas,0.98502
-Aprueba,55 o+,tome,0.98502
-Aprueba,55 o+,vision,0.98502
-Aprueba,55 o+,derechos,0.98256
-Aprueba,55 o+,haq,0.98256
-Aprueba,55 o+,maduro,0.98256
-Aprueba,55 o+,sistemaq,0.98256
-Aprueba,18-34,freno,0.976
-Aprueba,18-34,puesto,0.976
-Aprueba,55 o+,llegando,0.9727
-Aprueba,35-54,condiciones,0.96843
-Aprueba,35-54,costado,0.96843
-Aprueba,35-54,dificiltodo,0.96843
-Aprueba,35-54,mira,0.96843
-Aprueba,35-54,fecha,0.9629
-Aprueba,35-54,mire,0.9629
-Aprueba,35-54,vi,0.9629
-Aprueba,55 o+,alternativas,0.96202
-Aprueba,55 o+,andar,0.96202
-Aprueba,55 o+,argentina,0.96202
-Aprueba,55 o+,aventurarse,0.96202
-Aprueba,55 o+,debia,0.96202
-Aprueba,55 o+,desarrollos,0.96202
-Aprueba,55 o+,desorden,0.96202
-Aprueba,55 o+,fiscal,0.96202
-Aprueba,55 o+,forjr,0.96202
-Aprueba,55 o+,funcionando,0.96202
-Aprueba,55 o+,futuros,0.96202
-Aprueba,55 o+,hechando,0.96202
-Aprueba,55 o+,hiciera,0.96202
-Aprueba,55 o+,independencia,0.96202
-Aprueba,55 o+,industrias,0.96202
-Aprueba,55 o+,mejora,0.96202
-Aprueba,55 o+,mero,0.96202
-Aprueba,55 o+,obviamente,0.96202
-Aprueba,55 o+,ordenada,0.96202
-Aprueba,55 o+,ordenar,0.96202
-Aprueba,55 o+,pequeñas,0.96202
-Aprueba,55 o+,posilidades,0.96202
-Aprueba,55 o+,realizan,0.96202
-Aprueba,55 o+,grupos,0.96176
-Aprueba,18-34,as,0.95933
-Aprueba,18-34,reactivar,0.95933
-Aprueba,18-34,relativo,0.95933
-Aprueba,55 o+,ajuste,0.9569
-Aprueba,55 o+,cuudadana,0.9569
-Aprueba,55 o+,disposicion,0.9569
-Aprueba,55 o+,implantando,0.9569
-Aprueba,55 o+,impuestos,0.9569
-Aprueba,55 o+,pasando,0.9569
-Aprueba,18-34,adulto,0.95606
-Aprueba,18-34,enfocado,0.95606
-Aprueba,18-34,gustaba,0.95606
-Aprueba,18-34,infancia,0.95606
-Aprueba,18-34,lanoral,0.95606
-Aprueba,18-34,manejaba,0.95606
-Aprueba,18-34,reales,0.95606
-Aprueba,18-34,inversiòn,0.95514
-Aprueba,55 o+,antecedentes,0.9514
-Aprueba,55 o+,eligieron,0.9514
-Aprueba,55 o+,penales,0.9514
-Aprueba,35-54,tarbajo,0.94832
-Aprueba,55 o+,asuntos,0.94791
-Aprueba,55 o+,parche,0.94747
-Aprueba,55 o+,partes,0.94747
-Aprueba,55 o+,agricultor,0.94333
-Aprueba,55 o+,pequeño,0.94333
-Aprueba,18-34,aalla,0.93907
-Aprueba,18-34,aportan,0.93907
-Aprueba,18-34,baja,0.93907
-Aprueba,18-34,capacidad,0.93907
-Aprueba,18-34,cien,0.93907
-Aprueba,18-34,complementar,0.93907
-Aprueba,18-34,contaminacion,0.93907
-Aprueba,18-34,contrario,0.93907
-Aprueba,18-34,convenios,0.93907
-Aprueba,18-34,daños,0.93907
-Aprueba,18-34,deportar,0.93907
-Aprueba,18-34,fiscalizando,0.93907
-Aprueba,18-34,hablar,0.93907
-Aprueba,18-34,hechos,0.93907
-Aprueba,18-34,jornada,0.93907
-Aprueba,18-34,justificar,0.93907
-Aprueba,18-34,necesita,0.93907
-Aprueba,18-34,porciento,0.93907
-Aprueba,18-34,remuneracion,0.93907
-Aprueba,18-34,ventana,0.93907
-Aprueba,18-34,jodido,0.9372
-Aprueba,18-34,mayoria,0.9372
-Aprueba,18-34,notoriamente,0.9372
-Aprueba,18-34,obtener,0.9372
-Aprueba,18-34,ofrecio,0.9372
-Aprueba,18-34,vivienda,0.9372
-Aprueba,55 o+,adecuado,0.93703
-Aprueba,55 o+,aptecnancia,0.93703
-Aprueba,55 o+,asesores,0.93703
-Aprueba,55 o+,conceptos,0.93703
-Aprueba,55 o+,conosco,0.93703
-Aprueba,55 o+,deporte,0.93703
-Aprueba,55 o+,particular,0.93703
-Aprueba,35-54,2010,0.93622
-Aprueba,35-54,gention,0.93622
-Aprueba,35-54,opinion,0.93622
-Aprueba,35-54,vote,0.93622
-Aprueba,55 o+,encontre,0.92733
-Aprueba,18-34,toma,0.92314
-Aprueba,18-34,apolitico,0.92277
-Aprueba,18-34,comparte,0.92277
-Aprueba,18-34,constitucional,0.92277
-Aprueba,18-34,depende,0.92277
-Aprueba,18-34,ingresos,0.92277
-Aprueba,18-34,poloticvos,0.92277
-Aprueba,18-34,tales,0.92277
-Aprueba,55 o+,votamos,0.92015
-Aprueba,18-34,aumetado,0.91765
-Aprueba,18-34,balanciando,0.91765
-Aprueba,18-34,eol,0.91765
-Aprueba,55 o+,capital,0.9159
-Aprueba,55 o+,correctas,0.9159
-Aprueba,55 o+,cresca,0.9159
-Aprueba,55 o+,dedicado,0.9159
-Aprueba,55 o+,derecho,0.9159
-Aprueba,55 o+,echado,0.9159
-Aprueba,55 o+,estàn,0.9159
-Aprueba,55 o+,evaluar,0.9159
-Aprueba,55 o+,fabricas,0.9159
-Aprueba,55 o+,faltaba,0.9159
-Aprueba,55 o+,inclinacion,0.9159
-Aprueba,55 o+,inversiones,0.9159
-Aprueba,55 o+,manda,0.9159
-Aprueba,55 o+,meto,0.9159
-Aprueba,55 o+,noce,0.9159
-Aprueba,55 o+,norte,0.9159
-Aprueba,55 o+,ordenamiento,0.9159
-Aprueba,55 o+,ordenara,0.9159
-Aprueba,55 o+,partidario,0.9159
-Aprueba,55 o+,plata,0.9159
-Aprueba,55 o+,productividad,0.9159
-Aprueba,55 o+,realista,0.9159
-Aprueba,55 o+,socialismo,0.9159
-Aprueba,55 o+,socialistas,0.9159
-Aprueba,55 o+,sur,0.9159
-Aprueba,18-34,actividad,0.91572
-Aprueba,18-34,apoyan,0.91572
-Aprueba,18-34,aprecia,0.91572
-Aprueba,18-34,aspecto,0.91572
-Aprueba,18-34,ayudar,0.91572
-Aprueba,18-34,candidateo,0.91572
-Aprueba,18-34,centralizacion,0.91572
-Aprueba,18-34,centralizado,0.91572
-Aprueba,18-34,consecuente,0.91572
-Aprueba,18-34,escuchando,0.91572
-Aprueba,18-34,estabiladad,0.91572
-Aprueba,18-34,etiquetado,0.91572
-Aprueba,18-34,fiscales,0.91572
-Aprueba,18-34,graficos,0.91572
-Aprueba,18-34,impuesto,0.91572
-Aprueba,18-34,independientes,0.91572
-Aprueba,18-34,laclase,0.91572
-Aprueba,18-34,mantiene,0.91572
-Aprueba,18-34,mente,0.91572
-Aprueba,18-34,obgetar,0.91572
-Aprueba,18-34,opiniones,0.91572
-Aprueba,18-34,po,0.91572
-Aprueba,18-34,polictica,0.91572
-Aprueba,18-34,rel,0.91572
-Aprueba,18-34,ultima,0.91572
-Aprueba,35-54,absolutamente,0.91254
-Aprueba,35-54,autocritico,0.91254
-Aprueba,35-54,colaboradores,0.91254
-Aprueba,35-54,concreto,0.91254
-Aprueba,35-54,considerado,0.91254
-Aprueba,35-54,cosidero,0.91254
-Aprueba,35-54,critico,0.91254
-Aprueba,35-54,energico,0.91254
-Aprueba,35-54,fiscales,0.91254
-Aprueba,35-54,idonea,0.91254
-Aprueba,35-54,inviertiendo,0.91254
-Aprueba,35-54,isapres,0.91254
-Aprueba,35-54,medi,0.91254
-Aprueba,35-54,necesarios,0.91254
-Aprueba,35-54,ojala,0.91254
-Aprueba,35-54,punto,0.91254
-Aprueba,35-54,resultados,0.91254
-Aprueba,35-54,seguimiento,0.91254
-Aprueba,35-54,sociedad,0.91254
-Aprueba,35-54,tantos,0.91254
-Aprueba,35-54,transparentar,0.91254
-Aprueba,18-34,di,0.91156
-Aprueba,55 o+,asaltado,0.91136
-Aprueba,55 o+,hija,0.91136
-Aprueba,55 o+,humilde,0.91136
-Aprueba,55 o+,limpio,0.91136
-Aprueba,55 o+,pensamientos,0.91136
-Aprueba,55 o+,razones,0.91136
-Aprueba,55 o+,sacaban,0.91136
-Aprueba,35-54,casamiento,0.90712
-Aprueba,35-54,clse,0.90712
-Aprueba,35-54,esperando,0.90712
-Aprueba,35-54,llevan,0.90712
-Aprueba,35-54,medicina,0.90712
-Aprueba,35-54,micro,0.90712
-Aprueba,35-54,operando,0.90712
-Aprueba,55 o+,adelanto,0.9017
-Aprueba,55 o+,reguion,0.9017
-Aprueba,18-34,ataca,0.90101
-Aprueba,18-34,camnio,0.90101
-Aprueba,18-34,encunetro,0.90101
-Aprueba,18-34,ghrandes,0.90101
-Aprueba,18-34,qeno,0.90101
-Aprueba,18-34,campos,0.9009
-Aprueba,18-34,hartos,0.9009
-Aprueba,18-34,inversión,0.9009
-Aprueba,18-34,laborales,0.9009
-Aprueba,18-34,minera,0.9009
-Aprueba,18-34,votó,0.9009
-Aprueba,18-34,indeciso,0.90004
-Aprueba,18-34,sencillez,0.90004
-Aprueba,18-34,aporta,0.89945
-Aprueba,18-34,contenta,0.89945
-Aprueba,18-34,cuendo,0.89945
-Aprueba,18-34,faltaban,0.89945
-Aprueba,18-34,favorece,0.89945
-Aprueba,18-34,haria,0.89945
-Aprueba,18-34,mejoror,0.89945
-Aprueba,18-34,moral,0.89945
-Aprueba,18-34,siguiendo,0.89945
-Aprueba,18-34,vistos,0.89945
-Aprueba,18-34,voté,0.89945
-Aprueba,35-54,qe,0.8965
-Aprueba,35-54,atacando,0.89483
-Aprueba,35-54,enfoque,0.89483
-Aprueba,35-54,solides,0.89483
-Aprueba,18-34,encontre,0.8946
-Aprueba,18-34,emprendedora,0.89322
-Aprueba,18-34,facilidades,0.89322
-Aprueba,18-34,trate,0.89322
-Aprueba,18-34,adelantos,0.89245
-Aprueba,55 o+,apunta,0.89085
-Aprueba,55 o+,dios,0.89085
-Aprueba,55 o+,ejercicio,0.89085
-Aprueba,55 o+,funcionen,0.89085
-Aprueba,55 o+,individual,0.89085
-Aprueba,55 o+,industria,0.89085
-Aprueba,55 o+,intituciones,0.89085
-Aprueba,55 o+,libertad,0.89085
-Aprueba,55 o+,modernizacion,0.89085
-Aprueba,55 o+,responsable,0.89085
-Aprueba,55 o+,terminando,0.89085
-Aprueba,18-34,firme,0.8875
-Aprueba,35-54,ayudando,0.88622
-Aprueba,35-54,conforme,0.88622
-Aprueba,18-34,ambientalque,0.88487
-Aprueba,18-34,avances,0.88487
-Aprueba,18-34,contribucion,0.88487
-Aprueba,18-34,creen,0.88487
-Aprueba,18-34,dejando,0.88487
-Aprueba,18-34,desminullero,0.88487
-Aprueba,18-34,espero,0.88487
-Aprueba,18-34,facilmente,0.88487
-Aprueba,18-34,fondo,0.88487
-Aprueba,18-34,fuente,0.88487
-Aprueba,18-34,genera,0.88487
-Aprueba,18-34,infacia,0.88487
-Aprueba,18-34,legales,0.88487
-Aprueba,18-34,legislaciones,0.88487
-Aprueba,18-34,línea,0.88487
-Aprueba,18-34,manejar,0.88487
-Aprueba,18-34,mejoran,0.88487
-Aprueba,18-34,netamente,0.88487
-Aprueba,18-34,niveles,0.88487
-Aprueba,18-34,puestos,0.88487
-Aprueba,18-34,rebelion,0.88487
-Aprueba,18-34,reglamentos,0.88487
-Aprueba,18-34,sirve,0.88487
-Aprueba,18-34,trae,0.88487
-Aprueba,18-34,traves,0.88487
-Aprueba,18-34,voto,0.88487
-Aprueba,18-34,acuerdos,0.88413
-Aprueba,18-34,biban,0.88413
-Aprueba,18-34,busqueda,0.88413
-Aprueba,18-34,cosas,0.88413
-Aprueba,18-34,est,0.88413
-Aprueba,18-34,fecha,0.88413
-Aprueba,18-34,hacrer,0.88413
-Aprueba,18-34,transversales,0.88413
-Aprueba,18-34,uyncakmbip,0.88413
-Aprueba,55 o+,11,0.88124
-Aprueba,55 o+,apoyando,0.88124
-Aprueba,55 o+,parriba,0.88124
-Aprueba,55 o+,unico,0.88124
-Aprueba,18-34,administrativamente,0.8804
-Aprueba,18-34,equivocado,0.8804
-Aprueba,18-34,regularizado,0.8804
-Aprueba,18-34,ultimamente,0.8804
-Aprueba,18-34,iba,0.87978
-Aprueba,18-34,propuetsa,0.87978
-Aprueba,18-34,subido,0.87978
-Aprueba,18-34,hem,0.87822
-Aprueba,18-34,abre,0.87392
-Aprueba,18-34,alejada,0.87392
-Aprueba,18-34,desagrada,0.87392
-Aprueba,18-34,estubo,0.87392
-Aprueba,18-34,paresio,0.87392
-Aprueba,18-34,puertas,0.87392
-Aprueba,18-34,ves,0.87392
-Aprueba,18-34,actuar,0.87349
-Aprueba,18-34,frente,0.87349
-Aprueba,18-34,megusta,0.87349
-Aprueba,18-34,preferencia,0.87349
-Aprueba,18-34,rapido,0.87349
-Aprueba,18-34,sabria,0.8733
-Aprueba,35-54,activa,0.8733
-Aprueba,35-54,asesores,0.8733
-Aprueba,35-54,contingencia,0.8733
-Aprueba,35-54,continua,0.8733
-Aprueba,55 o+,depende,0.8733
-Aprueba,55 o+,estudiantiles,0.8733
-Aprueba,55 o+,favorece,0.8733
-Aprueba,55 o+,ingrese,0.8733
-Aprueba,55 o+,movimientos,0.8733
-Aprueba,55 o+,tomas,0.8733
-Aprueba,55 o+,vende,0.8733
-Aprueba,55 o+,violentos,0.8733
-Aprueba,18-34,beneficiada,0.87196
-Aprueba,18-34,fosis,0.87196
-Aprueba,18-34,irregularidades,0.87196
-Aprueba,18-34,madre,0.87196
-Aprueba,18-34,capaz,0.86988
-Aprueba,18-34,antiguo,0.8685
-Aprueba,18-34,araucania,0.8685
-Aprueba,35-54,dificilies,0.86688
-Aprueba,35-54,eficiente,0.86688
-Aprueba,35-54,inconvenientes,0.86688
-Aprueba,35-54,rapidos,0.86688
-Aprueba,35-54,tranparente,0.86688
-Aprueba,35-54,vuela,0.86688
-Aprueba,55 o+,moral,0.8662
-Aprueba,55 o+,ordenanod,0.8662
-Aprueba,55 o+,esfuerzo,0.86578
-Aprueba,18-34,enap,0.86557
-Aprueba,18-34,establecido,0.86557
-Aprueba,18-34,positivas,0.86557
-Aprueba,35-54,asta,0.86531
-Aprueba,35-54,avisto,0.86531
-Aprueba,35-54,estables,0.86531
-Aprueba,35-54,relevante,0.86531
-Aprueba,55 o+,colocanado,0.86324
-Aprueba,55 o+,misterio,0.86324
-Aprueba,55 o+,negativo,0.86324
-Aprueba,55 o+,plataforma,0.86324
-Aprueba,55 o+,regiones,0.86324
-Aprueba,55 o+,saliendo,0.86324
-Aprueba,55 o+,terreno,0.86324
-Aprueba,55 o+,trasporte,0.86324
-Aprueba,55 o+,uber,0.86324
-Aprueba,35-54,1er,0.86271
-Aprueba,35-54,actuando,0.86271
-Aprueba,35-54,consideracion,0.86271
-Aprueba,35-54,diversas,0.86271
-Aprueba,35-54,intentando,0.86271
-Aprueba,35-54,mini,0.86271
-Aprueba,35-54,moderacion,0.86271
-Aprueba,35-54,resueltos,0.86271
-Aprueba,35-54,simultaneo,0.86271
-Aprueba,35-54,atrncionrs,0.8591
-Aprueba,35-54,compenzar,0.8591
-Aprueba,35-54,discapacitados,0.8591
-Aprueba,35-54,enfermos,0.8591
-Aprueba,35-54,ninos,0.8591
-Aprueba,35-54,reciben,0.8591
-Aprueba,55 o+,cansado,0.8562
-Aprueba,55 o+,concertacion,0.8562
-Aprueba,55 o+,confiables,0.8562
-Aprueba,55 o+,descubierto,0.8562
-Aprueba,55 o+,harto,0.8562
-Aprueba,55 o+,hartos,0.8562
-Aprueba,55 o+,ladrones,0.8562
-Aprueba,55 o+,mire,0.8562
-Aprueba,55 o+,sinverguenzas,0.8562
-Aprueba,18-34,apollo,0.85444
-Aprueba,18-34,derechista,0.85444
-Aprueba,18-34,repunte,0.85444
-Aprueba,18-34,resultado,0.85444
-Aprueba,18-34,sinceramente,0.85444
-Aprueba,35-54,funcionan,0.85289
-Aprueba,55 o+,apoyamos,0.85214
-Aprueba,55 o+,bajas,0.85214
-Aprueba,55 o+,boche,0.85214
-Aprueba,55 o+,chata,0.85214
-Aprueba,55 o+,corazon,0.85214
-Aprueba,55 o+,decirle,0.85214
-Aprueba,55 o+,encia,0.85214
-Aprueba,55 o+,meta,0.85214
-Aprueba,55 o+,metas,0.85214
-Aprueba,55 o+,preocupo,0.85214
-Aprueba,55 o+,proceder,0.85214
-Aprueba,55 o+,suficiente,0.85214
-Aprueba,55 o+,vivir,0.85214
-Aprueba,18-34,estadisticas,0.852
-Aprueba,18-34,surgiendo,0.852
-Aprueba,35-54,astas,0.85108
-Aprueba,35-54,conductor,0.85108
-Aprueba,35-54,defiende,0.85108
-Aprueba,35-54,ecdho,0.85108
-Aprueba,35-54,popa,0.85108
-Aprueba,35-54,toro,0.85108
-Aprueba,35-54,viento,0.85108
-Aprueba,18-34,aborto,0.85085
-Aprueba,55 o+,agusto,0.85034
-Aprueba,55 o+,austeridad,0.85034
-Aprueba,55 o+,becas,0.85034
-Aprueba,55 o+,claras,0.85034
-Aprueba,55 o+,conduciondo,0.85034
-Aprueba,55 o+,derechista,0.85034
-Aprueba,55 o+,desarrolladas,0.85034
-Aprueba,55 o+,desicion,0.85034
-Aprueba,55 o+,estudio,0.85034
-Aprueba,55 o+,fe,0.85034
-Aprueba,55 o+,firmeza,0.85034
-Aprueba,55 o+,fortalecimiento,0.85034
-Aprueba,55 o+,gastos,0.85034
-Aprueba,55 o+,hospitalesla,0.85034
-Aprueba,55 o+,incertidumbre,0.85034
-Aprueba,55 o+,independientes,0.85034
-Aprueba,55 o+,linea,0.85034
-Aprueba,55 o+,màs,0.85034
-Aprueba,55 o+,notable,0.85034
-Aprueba,55 o+,obra,0.85034
-Aprueba,55 o+,onestidad,0.85034
-Aprueba,55 o+,pa,0.85034
-Aprueba,55 o+,partiendo,0.85034
-Aprueba,55 o+,pinochet,0.85034
-Aprueba,55 o+,populista,0.85034
-Aprueba,55 o+,profecianal,0.85034
-Aprueba,55 o+,repuntando,0.85034
-Aprueba,55 o+,situcacion,0.85034
-Aprueba,35-54,innovador,0.8449
-Aprueba,35-54,relajado,0.8449
-Aprueba,35-54,resuelto,0.8449
-Aprueba,18-34,afeta,0.84475
-Aprueba,18-34,hga,0.84475
-Aprueba,18-34,beneficiado,0.84098
-Aprueba,18-34,chilenos,0.84098
-Aprueba,18-34,crecer,0.84098
-Aprueba,18-34,permitido,0.84098
-Aprueba,18-34,amplio,0.84026
-Aprueba,18-34,errores,0.8378
-Aprueba,18-34,ojala,0.8378
-Aprueba,55 o+,anuncios,0.83387
-Aprueba,55 o+,reativacion,0.83387
-Aprueba,35-54,discursos,0.83262
-Aprueba,35-54,interiorisado,0.83262
-Aprueba,35-54,políticos,0.83262
-Aprueba,35-54,televisión,0.83262
-Aprueba,18-34,comparado,0.83218
-Aprueba,18-34,cunas,0.83218
-Aprueba,18-34,descontentas,0.83218
-Aprueba,18-34,límite,0.83218
-Aprueba,18-34,modificaciones,0.83218
-Aprueba,18-34,mujeres,0.83218
-Aprueba,18-34,niños,0.83218
-Aprueba,18-34,notorio,0.83218
-Aprueba,18-34,plantear,0.83218
-Aprueba,18-34,restricción,0.83218
-Aprueba,18-34,salas,0.83218
-Aprueba,18-34,sename,0.83218
-Aprueba,18-34,solucionando,0.83218
-Aprueba,18-34,talcahuano,0.83218
-Aprueba,55 o+,2020,0.83189
-Aprueba,55 o+,afinalizar,0.83189
-Aprueba,55 o+,ampliamente,0.83189
-Aprueba,55 o+,apuintan,0.83189
-Aprueba,55 o+,concretas,0.83189
-Aprueba,55 o+,conde,0.83189
-Aprueba,55 o+,desarrollo,0.83189
-Aprueba,55 o+,diente,0.83189
-Aprueba,55 o+,duro,0.83189
-Aprueba,55 o+,entes,0.83189
-Aprueba,55 o+,evaluaciones,0.83189
-Aprueba,55 o+,gratuidad,0.83189
-Aprueba,55 o+,hasy,0.83189
-Aprueba,55 o+,implementacion,0.83189
-Aprueba,55 o+,incando,0.83189
-Aprueba,55 o+,manteniendo,0.83189
-Aprueba,55 o+,muncipalidad,0.83189
-Aprueba,55 o+,pasi,0.83189
-Aprueba,55 o+,pertenecer,0.83189
-Aprueba,55 o+,prevee,0.83189
-Aprueba,55 o+,principales,0.83189
-Aprueba,55 o+,proceso,0.83189
-Aprueba,55 o+,rl,0.83189
-Aprueba,55 o+,trabaj,0.83189
-Aprueba,55 o+,tranquilo,0.83189
-Aprueba,18-34,acabo,0.83076
-Aprueba,18-34,finanzas,0.83076
-Aprueba,18-34,linea,0.83076
-Aprueba,18-34,realizando,0.83076
-Aprueba,18-34,regio,0.83076
-Aprueba,18-34,cosasç,0.8307
-Aprueba,18-34,escucho,0.8307
-Aprueba,18-34,ordenando,0.8307
-Aprueba,35-54,aport,0.8307
-Aprueba,35-54,colocando,0.82686
-Aprueba,35-54,deberian,0.82686
-Aprueba,35-54,mandar,0.82673
-Aprueba,35-54,policiales,0.82673
-Aprueba,55 o+,compaada,0.826
-Aprueba,55 o+,contaminacion,0.826
-Aprueba,55 o+,coyuntura,0.826
-Aprueba,55 o+,dejen,0.826
-Aprueba,55 o+,dificil,0.826
-Aprueba,55 o+,eficacez,0.826
-Aprueba,55 o+,enfrentar,0.826
-Aprueba,55 o+,entrar,0.826
-Aprueba,55 o+,equilibrio,0.826
-Aprueba,55 o+,país,0.826
-Aprueba,55 o+,política,0.826
-Aprueba,55 o+,privilegia,0.826
-Aprueba,55 o+,regulando,0.826
-Aprueba,55 o+,tiempos,0.826
-Aprueba,55 o+,trabajopara,0.826
-Aprueba,55 o+,usado,0.826
-Aprueba,18-34,actualidad,0.8236
-Aprueba,18-34,antecedentes,0.8236
-Aprueba,18-34,cabe,0.8236
-Aprueba,18-34,coherenciapor,0.8236
-Aprueba,18-34,correcto,0.8236
-Aprueba,18-34,decirlo,0.8236
-Aprueba,18-34,derecho,0.8236
-Aprueba,18-34,documentos,0.8236
-Aprueba,18-34,experimentando,0.8236
-Aprueba,18-34,gustos,0.8236
-Aprueba,18-34,habian,0.8236
-Aprueba,18-34,hechas,0.8236
-Aprueba,18-34,identidad,0.8236
-Aprueba,18-34,implementado,0.8236
-Aprueba,18-34,independientemente,0.8236
-Aprueba,18-34,ineficiente,0.8236
-Aprueba,18-34,llevo,0.8236
-Aprueba,18-34,operativos,0.8236
-Aprueba,18-34,penales,0.8236
-Aprueba,18-34,personal,0.8236
-Aprueba,18-34,posicion,0.8236
-Aprueba,18-34,raccionar,0.8236
-Aprueba,18-34,simultaneos,0.8236
-Aprueba,18-34,terminos,0.8236
-Aprueba,18-34,vivìo,0.8236
-Aprueba,35-54,importan,0.8236
-Aprueba,18-34,condiciones,0.82279
-Aprueba,18-34,necesario,0.82279
-Aprueba,18-34,reducir,0.82279
-Aprueba,18-34,colaborando,0.81702
-Aprueba,18-34,organizacion,0.81702
-Aprueba,18-34,carnet,0.8165
-Aprueba,35-54,metiendo,0.81641
-Aprueba,35-54,postura,0.81641
-Aprueba,35-54,actual,0.81412
-Aprueba,35-54,agradan,0.81412
-Aprueba,35-54,conectividad,0.81412
-Aprueba,35-54,continuida,0.81412
-Aprueba,35-54,enfacis,0.81412
-Aprueba,35-54,importa,0.81412
-Aprueba,35-54,micheol,0.81412
-Aprueba,35-54,modificando,0.81412
-Aprueba,35-54,notando,0.81412
-Aprueba,35-54,planes,0.81412
-Aprueba,35-54,porqre,0.81412
-Aprueba,55 o+,asombra,0.8134
-Aprueba,55 o+,cantidad,0.8134
-Aprueba,55 o+,capaz,0.8134
-Aprueba,55 o+,complejos,0.8134
-Aprueba,55 o+,facilidades,0.8134
-Aprueba,55 o+,problema,0.8134
-Aprueba,55 o+,resolver,0.8134
-Aprueba,55 o+,solucionar,0.8134
-Aprueba,55 o+,actuando,0.81339
-Aprueba,55 o+,apertura,0.81339
-Aprueba,55 o+,armonia,0.81339
-Aprueba,55 o+,austero,0.81339
-Aprueba,55 o+,causa,0.81339
-Aprueba,55 o+,clara,0.81339
-Aprueba,55 o+,gastos.mejor,0.81339
-Aprueba,55 o+,haciedo,0.81339
-Aprueba,55 o+,importantes,0.81339
-Aprueba,55 o+,llama,0.81339
-Aprueba,55 o+,mandato,0.81339
-Aprueba,55 o+,mapuche,0.81339
-Aprueba,55 o+,mejopr,0.81339
-Aprueba,55 o+,notar,0.81339
-Aprueba,55 o+,opcion,0.81339
-Aprueba,55 o+,personales,0.81339
-Aprueba,55 o+,podido,0.81339
-Aprueba,55 o+,porqe,0.81339
-Aprueba,55 o+,preo,0.81339
-Aprueba,55 o+,qiuedo,0.81339
-Aprueba,55 o+,rato,0.81339
-Aprueba,55 o+,solucion,0.81339
-Aprueba,55 o+,tirar,0.81339
-Aprueba,55 o+,trando,0.81339
-Aprueba,55 o+,tratado,0.81339
-Aprueba,35-54,abanderizado,0.81294
-Aprueba,35-54,distador,0.81294
-Aprueba,35-54,humilde,0.81294
-Aprueba,35-54,adeministracion,0.81041
-Aprueba,35-54,transpaene,0.81041
-Aprueba,18-34,inconveniente,0.8094
-Aprueba,18-34,paia,0.80867
-Aprueba,18-34,incrementado,0.80798
-Aprueba,35-54,eficacia,0.80721
-Aprueba,35-54,organismo,0.80721
-Aprueba,35-54,poublico,0.80721
-Aprueba,35-54,publicos,0.80721
-Aprueba,35-54,servicios,0.80721
-Aprueba,18-34,daño,0.8047
-Aprueba,18-34,deberia,0.8047
-Aprueba,18-34,dejo,0.8047
-Aprueba,18-34,derrepente,0.8047
-Aprueba,18-34,discupe,0.8047
-Aprueba,18-34,entrar,0.8047
-Aprueba,18-34,expresion,0.8047
-Aprueba,18-34,exranjera,0.8047
-Aprueba,18-34,señora,0.8047
-Aprueba,18-34,valora,0.8047
-Aprueba,18-34,vieja,0.8047
-Aprueba,18-34,viene,0.8047
-Aprueba,18-34,votando,0.8047
-Aprueba,35-54,gracias,0.8023
-Aprueba,35-54,obtuve,0.8023
-Aprueba,35-54,chicos,0.79971
-Aprueba,35-54,posibilidades,0.79971
-Aprueba,35-54,vision,0.79971
-Aprueba,55 o+,comunismo,0.79912
-Aprueba,35-54,critique,0.7952
-Aprueba,35-54,dios,0.7952
-Aprueba,35-54,grande,0.7952
-Aprueba,35-54,imporatante,0.7952
-Aprueba,35-54,nombra,0.7952
-Aprueba,35-54,viiviendo,0.7952
-Aprueba,55 o+,brillante,0.79421
-Aprueba,55 o+,don,0.79421
-Aprueba,55 o+,mando,0.79421
-Aprueba,55 o+,trabajolico,0.79421
-Aprueba,35-54,frutos,0.79319
-Aprueba,35-54,intenciones,0.79319
-Aprueba,35-54,ven,0.79319
-Aprueba,55 o+,atacan,0.79012
-Aprueba,55 o+,deficiencia,0.79012
-Aprueba,55 o+,envidiosos,0.79012
-Aprueba,55 o+,posicion,0.79012
-Aprueba,55 o+,sebastian,0.79012
-Aprueba,55 o+,titrado,0.79012
-Aprueba,55 o+,trado,0.79012
-Aprueba,55 o+,tranquila,0.79012
-Aprueba,55 o+,devieran,0.78994
-Aprueba,55 o+,mejores,0.78994
-Aprueba,55 o+,resultados,0.78994
-Aprueba,18-34,compliendo,0.78823
-Aprueba,35-54,aula,0.7881
-Aprueba,35-54,encontre,0.7881
-Aprueba,35-54,interezante,0.7881
-Aprueba,35-54,pensar,0.7881
-Aprueba,55 o+,polarizado,0.7881
-Aprueba,55 o+,vance,0.7881
-Aprueba,18-34,asiendo,0.7818
-Aprueba,18-34,crecido,0.781
-Aprueba,18-34,importante,0.781
-Aprueba,35-54,nuevamente,0.78086
-Aprueba,35-54,exigiendo,0.7739
-Aprueba,35-54,expulsando,0.7739
-Aprueba,35-54,llegando,0.7739
-Aprueba,35-54,anbito,0.77312
-Aprueba,35-54,comentarios,0.77312
-Aprueba,35-54,competente,0.77312
-Aprueba,35-54,condicion,0.77312
-Aprueba,35-54,cree,0.77312
-Aprueba,35-54,excepciones,0.77312
-Aprueba,35-54,gestor,0.77312
-Aprueba,35-54,haciedo,0.77312
-Aprueba,35-54,identifico,0.77312
-Aprueba,35-54,inapropiados,0.77312
-Aprueba,35-54,ordenado,0.77312
-Aprueba,35-54,parce,0.77312
-Aprueba,35-54,preocupaba,0.77312
-Aprueba,35-54,relativamente,0.77312
-Aprueba,35-54,sirve,0.77312
-Aprueba,35-54,socialismo,0.77312
-Aprueba,35-54,tecnicas,0.77312
-Aprueba,55 o+,arta,0.77271
-Aprueba,55 o+,campesina,0.77271
-Aprueba,55 o+,campesinado,0.77271
-Aprueba,55 o+,comunes,0.77271
-Aprueba,55 o+,dominga,0.77271
-Aprueba,55 o+,dura,0.77271
-Aprueba,55 o+,enfocadas,0.77271
-Aprueba,55 o+,entrado,0.77271
-Aprueba,55 o+,generar,0.77271
-Aprueba,55 o+,llamaban,0.77271
-Aprueba,55 o+,ponerse,0.77271
-Aprueba,55 o+,queria,0.77271
-Aprueba,55 o+,resulta,0.77271
-Aprueba,55 o+,sabido,0.77271
-Aprueba,35-54,apuntado,0.7726
-Aprueba,35-54,encuestas,0.7726
-Aprueba,35-54,finalmente,0.7726
-Aprueba,35-54,cumprido,0.77217
-Aprueba,35-54,to,0.77217
-Aprueba,18-34,elegimos,0.76966
-Aprueba,18-34,tercero,0.76966
-Aprueba,55 o+,nota,0.76578
-Aprueba,55 o+,pàis,0.76578
-Aprueba,55 o+,portando,0.76578
-Aprueba,55 o+,privada,0.76578
-Aprueba,55 o+,reactivando,0.76578
-Aprueba,55 o+,tranqlo,0.76578
-Aprueba,18-34,adecuadas,0.76338
-Aprueba,18-34,demandado,0.76338
-Aprueba,18-34,iniciativa,0.76338
-Aprueba,18-34,legislativas,0.76338
-Aprueba,18-34,comparo,0.76203
-Aprueba,18-34,conduce,0.76203
-Aprueba,18-34,ejercer,0.76203
-Aprueba,18-34,esfera,0.76203
-Aprueba,18-34,favor,0.76203
-Aprueba,18-34,gustarìa,0.76203
-Aprueba,18-34,incremento,0.76203
-Aprueba,18-34,observar,0.76203
-Aprueba,18-34,polìtica,0.76203
-Aprueba,18-34,activado,0.7597
-Aprueba,18-34,admisrtrar,0.7597
-Aprueba,18-34,alegatos,0.7597
-Aprueba,18-34,avala,0.7597
-Aprueba,18-34,comunicacion,0.7597
-Aprueba,18-34,correctas,0.7597
-Aprueba,18-34,cremimiento,0.7597
-Aprueba,18-34,cualquiera,0.7597
-Aprueba,18-34,curtural,0.7597
-Aprueba,18-34,dedicado,0.7597
-Aprueba,18-34,defensa,0.7597
-Aprueba,18-34,empeabilidad,0.7597
-Aprueba,18-34,emvuelto,0.7597
-Aprueba,18-34,enpresariales,0.7597
-Aprueba,18-34,escandalos,0.7597
-Aprueba,18-34,estudiantes,0.7597
-Aprueba,18-34,estudiar,0.7597
-Aprueba,18-34,laconfianza,0.7597
-Aprueba,18-34,levado,0.7597
-Aprueba,18-34,libertad,0.7597
-Aprueba,18-34,negocios,0.7597
-Aprueba,18-34,opinionpublica,0.7597
-Aprueba,18-34,organizo,0.7597
-Aprueba,18-34,parecer,0.7597
-Aprueba,18-34,políticas,0.7597
-Aprueba,18-34,privada,0.7597
-Aprueba,18-34,recuperacion,0.7597
-Aprueba,18-34,sioridubre,0.7597
-Aprueba,18-34,super,0.7597
-Aprueba,18-34,teniamos,0.7597
-Aprueba,18-34,universidades,0.7597
-Aprueba,35-54,apatico,0.7597
-Aprueba,35-54,apoyar,0.7597
-Aprueba,35-54,aspecto,0.7597
-Aprueba,35-54,boga,0.7597
-Aprueba,35-54,causas,0.7597
-Aprueba,35-54,com9o,0.7597
-Aprueba,35-54,conla,0.7597
-Aprueba,35-54,cristiano,0.7597
-Aprueba,35-54,dejar,0.7597
-Aprueba,35-54,dejaron,0.7597
-Aprueba,35-54,desvalida,0.7597
-Aprueba,35-54,esperabamos,0.7597
-Aprueba,35-54,famila,0.7597
-Aprueba,35-54,fomra,0.7597
-Aprueba,35-54,gustra,0.7597
-Aprueba,35-54,havienmdo,0.7597
-Aprueba,35-54,inconveniente,0.7597
-Aprueba,35-54,l0,0.7597
-Aprueba,35-54,llendo,0.7597
-Aprueba,35-54,mejoramiento,0.7597
-Aprueba,35-54,moviendo,0.7597
-Aprueba,35-54,porv,0.7597
-Aprueba,35-54,puso,0.7597
-Aprueba,35-54,quisiera,0.7597
-Aprueba,35-54,refleja,0.7597
-Aprueba,35-54,reguló,0.7597
-Aprueba,35-54,seguir,0.7597
-Aprueba,35-54,sepuede,0.7597
-Aprueba,35-54,stop,0.7597
-Aprueba,35-54,transparentes,0.7597
-Aprueba,35-54,union,0.7597
-Aprueba,35-54,adultos,0.75936
-Aprueba,35-54,compromiso,0.75936
-Aprueba,35-54,menores,0.75936
-Aprueba,55 o+,corriente,0.75558
-Aprueba,55 o+,dineros,0.75558
-Aprueba,55 o+,estadista,0.75558
-Aprueba,35-54,abriendo,0.75358
-Aprueba,35-54,antiguas,0.75358
-Aprueba,35-54,asocuados,0.75358
-Aprueba,35-54,avanza,0.75358
-Aprueba,35-54,benefcios,0.75358
-Aprueba,35-54,cargandolo,0.75358
-Aprueba,35-54,casas,0.75358
-Aprueba,35-54,comparación,0.75358
-Aprueba,35-54,dirección,0.75358
-Aprueba,35-54,esdtabamos,0.75358
-Aprueba,35-54,evidentes,0.75358
-Aprueba,35-54,fomentando,0.75358
-Aprueba,35-54,gibierno,0.75358
-Aprueba,35-54,guiar,0.75358
-Aprueba,35-54,guio,0.75358
-Aprueba,35-54,habiamos,0.75358
-Aprueba,35-54,inmediatas,0.75358
-Aprueba,35-54,interesa,0.75358
-Aprueba,35-54,logra,0.75358
-Aprueba,35-54,logrande,0.75358
-Aprueba,35-54,mese,0.75358
-Aprueba,35-54,micleje,0.75358
-Aprueba,35-54,mineria,0.75358
-Aprueba,35-54,monton,0.75358
-Aprueba,35-54,ne,0.75358
-Aprueba,35-54,objetivos,0.75358
-Aprueba,35-54,palpa,0.75358
-Aprueba,35-54,pàsado,0.75358
-Aprueba,35-54,pasando,0.75358
-Aprueba,35-54,pide,0.75358
-Aprueba,35-54,pooc,0.75358
-Aprueba,35-54,recibiendo,0.75358
-Aprueba,35-54,recuperando,0.75358
-Aprueba,35-54,rojo,0.75358
-Aprueba,35-54,sacarlos,0.75358
-Aprueba,35-54,saliamos,0.75358
-Aprueba,35-54,seguio,0.75358
-Aprueba,35-54,serio,0.75358
-Aprueba,35-54,suben,0.75358
-Aprueba,35-54,traves,0.75358
-Aprueba,35-54,trayectoria,0.75358
-Aprueba,35-54,ultuim,0.75358
-Aprueba,35-54,vemos,0.75358
-Aprueba,35-54,administrada,0.7526
-Aprueba,55 o+,chileno,0.7526
-Aprueba,55 o+,entrando,0.7526
-Aprueba,55 o+,escuchado,0.7526
-Aprueba,55 o+,existian,0.7526
-Aprueba,55 o+,fanatico,0.7526
-Aprueba,55 o+,franco,0.7526
-Aprueba,55 o+,gira,0.7526
-Aprueba,55 o+,negocios,0.7526
-Aprueba,55 o+,noticias,0.7526
-Aprueba,55 o+,tantos,0.7526
-Aprueba,55 o+,tendencia,0.7526
-Aprueba,18-34,abria,0.75051
-Aprueba,35-54,embarrada,0.75019
-Aprueba,35-54,regula,0.75019
-Aprueba,35-54,surgiendo,0.75019
-Aprueba,35-54,todn,0.75019
-Aprueba,35-54,funciona,0.74954
-Aprueba,35-54,comparte,0.74947
-Aprueba,35-54,extructuras,0.74947
-Aprueba,35-54,hechas,0.74947
-Aprueba,35-54,legislacion,0.74947
-Aprueba,18-34,descontento,0.7455
-Aprueba,18-34,desigualdad,0.7455
-Aprueba,18-34,impulso,0.7455
-Aprueba,18-34,invierten,0.7455
-Aprueba,18-34,macro,0.7455
-Aprueba,18-34,negro,0.7455
-Aprueba,18-34,personalmente,0.7455
-Aprueba,18-34,publicos,0.7455
-Aprueba,18-34,pueblo,0.7455
-Aprueba,18-34,robado,0.7455
-Aprueba,18-34,rojo,0.7455
-Aprueba,18-34,transacciones,0.7455
-Aprueba,35-54,apoyarlo,0.7455
-Aprueba,35-54,confio,0.7455
-Aprueba,35-54,contaminacion,0.7455
-Aprueba,35-54,desubicado,0.7455
-Aprueba,35-54,equivoco,0.7455
-Aprueba,35-54,lados,0.7455
-Aprueba,35-54,lamentablemente,0.7455
-Aprueba,35-54,palabreria,0.7455
-Aprueba,35-54,preguntando,0.7455
-Aprueba,35-54,queria,0.7455
-Aprueba,35-54,quintero,0.7455
-Aprueba,35-54,reprensenta,0.7455
-Aprueba,35-54,salio,0.7455
-Aprueba,35-54,venir,0.7455
-Aprueba,35-54,vino,0.7455
-Aprueba,35-54,vivo,0.7455
-Aprueba,18-34,recuerda,0.74405
-Aprueba,18-34,afecta,0.74277
-Aprueba,18-34,altos,0.74277
-Aprueba,18-34,ambiente,0.74277
-Aprueba,18-34,ami,0.74277
-Aprueba,18-34,anteriior,0.74277
-Aprueba,18-34,aumentar,0.74277
-Aprueba,18-34,automaticamente,0.74277
-Aprueba,18-34,buscando,0.74277
-Aprueba,18-34,buscar,0.74277
-Aprueba,18-34,cae,0.74277
-Aprueba,18-34,cvisto,0.74277
-Aprueba,18-34,desemvuelvo,0.74277
-Aprueba,18-34,directamente,0.74277
-Aprueba,18-34,esten,0.74277
-Aprueba,18-34,externa,0.74277
-Aprueba,18-34,fomento,0.74277
-Aprueba,18-34,funcionan,0.74277
-Aprueba,18-34,grupo,0.74277
-Aprueba,18-34,idea,0.74277
-Aprueba,18-34,indices,0.74277
-Aprueba,18-34,interna,0.74277
-Aprueba,18-34,inyeccion,0.74277
-Aprueba,18-34,mantenido,0.74277
-Aprueba,18-34,opcion,0.74277
-Aprueba,18-34,planteado,0.74277
-Aprueba,18-34,razones,0.74277
-Aprueba,18-34,rebundancia,0.74277
-Aprueba,18-34,reemplaza,0.74277
-Aprueba,18-34,reflejado,0.74277
-Aprueba,18-34,sensacion,0.74277
-Aprueba,18-34,ugual,0.74277
-Aprueba,18-34,ultimos,0.74277
-Aprueba,18-34,valga,0.74277
-Aprueba,18-34,visionaria,0.74277
-Aprueba,18-34,territorial,0.74036
-Aprueba,35-54,inevrsiones,0.74034
-Aprueba,35-54,aprobaciones,0.7384
-Aprueba,35-54,dificiles,0.7384
-Aprueba,35-54,observadop,0.7384
-Aprueba,35-54,presentado,0.7384
-Aprueba,18-34,desarollar,0.73772
-Aprueba,18-34,intentado,0.73772
-Aprueba,18-34,mepleeo,0.73772
-Aprueba,18-34,orientadas,0.73772
-Aprueba,18-34,posibilidad,0.73772
-Aprueba,18-34,queimplemento,0.73772
-Aprueba,35-54,acercado,0.73685
-Aprueba,35-54,acercamiento,0.73685
-Aprueba,35-54,animal,0.73685
-Aprueba,35-54,arreglado,0.73685
-Aprueba,35-54,avanzado,0.73685
-Aprueba,35-54,camiseta,0.73685
-Aprueba,35-54,carta,0.73685
-Aprueba,35-54,claridad,0.73685
-Aprueba,35-54,corrupcion,0.73685
-Aprueba,35-54,culto,0.73685
-Aprueba,35-54,decirlo,0.73685
-Aprueba,35-54,efectividad,0.73685
-Aprueba,35-54,encuentra,0.73685
-Aprueba,35-54,futurista,0.73685
-Aprueba,35-54,ideologia,0.73685
-Aprueba,35-54,impartir,0.73685
-Aprueba,35-54,ira,0.73685
-Aprueba,35-54,justicia,0.73685
-Aprueba,35-54,mejorarse,0.73685
-Aprueba,35-54,metido,0.73685
-Aprueba,35-54,municipio,0.73685
-Aprueba,35-54,necesitan,0.73685
-Aprueba,35-54,partes,0.73685
-Aprueba,35-54,practica,0.73685
-Aprueba,35-54,principios,0.73685
-Aprueba,35-54,profundos,0.73685
-Aprueba,35-54,quie,0.73685
-Aprueba,35-54,rapida,0.73685
-Aprueba,35-54,rapidez,0.73685
-Aprueba,35-54,reconoce,0.73685
-Aprueba,35-54,refiere,0.73685
-Aprueba,35-54,sentir,0.73685
-Aprueba,35-54,terrible,0.73685
-Aprueba,35-54,negociacion,0.73623
-Aprueba,35-54,pensado,0.73623
-Aprueba,35-54,activacion,0.73531
-Aprueba,35-54,cumpliendo,0.73531
-Aprueba,35-54,agente,0.73185
-Aprueba,35-54,apoyanda,0.73185
-Aprueba,35-54,reordenando,0.73185
-Aprueba,18-34,alimentado,0.7313
-Aprueba,18-34,dificil,0.7313
-Aprueba,18-34,avance,0.72971
-Aprueba,18-34,bono,0.72971
-Aprueba,18-34,dejar,0.72971
-Aprueba,18-34,emprleadores,0.72971
-Aprueba,18-34,mayorias,0.72971
-Aprueba,18-34,minorias,0.72971
-Aprueba,18-34,motivar,0.72971
-Aprueba,18-34,normal,0.72971
-Aprueba,18-34,parametro,0.72971
-Aprueba,18-34,real,0.72971
-Aprueba,18-34,restablecido,0.72971
-Aprueba,18-34,trabajen,0.72971
-Aprueba,35-54,desarollo,0.72924
-Aprueba,35-54,via,0.72924
-Aprueba,35-54,progresos,0.72637
-Aprueba,35-54,siguio,0.72637
-Aprueba,18-34,funciona,0.72525
-Aprueba,35-54,comparto,0.72436
-Aprueba,35-54,principio,0.72436
-Aprueba,35-54,100,0.7242
-Aprueba,35-54,quisieramos,0.7242
-Aprueba,35-54,mantenemos,0.72373
-Aprueba,35-54,normal,0.72373
-Aprueba,18-34,atractivo,0.72133
-Aprueba,18-34,detenido,0.72133
-Aprueba,18-34,atentados,0.7171
-Aprueba,18-34,contecto,0.7171
-Aprueba,18-34,criticas,0.7171
-Aprueba,18-34,cumpliendo,0.7171
-Aprueba,18-34,democraticamente,0.7171
-Aprueba,18-34,elejido,0.7171
-Aprueba,18-34,inprementando,0.7171
-Aprueba,18-34,opocicion,0.7171
-Aprueba,18-34,permite,0.7171
-Aprueba,18-34,senado,0.7171
-Aprueba,18-34,terroristas,0.7171
-Aprueba,18-34,vivimos,0.7171
-Aprueba,18-34,zona,0.7171
-Aprueba,35-54,desestabilizado,0.7171
-Aprueba,35-54,emprender,0.7171
-Aprueba,35-54,facilidades,0.7171
-Aprueba,35-54,presentarse,0.7171
-Aprueba,35-54,quedo,0.7171
-Aprueba,35-54,siente,0.7171
-Aprueba,18-34,benefician,0.7125
-Aprueba,18-34,sectores,0.7125
-Aprueba,18-34,apoco,0.71
-Aprueba,35-54,20,0.70692
-Aprueba,35-54,25,0.70692
-Aprueba,35-54,arreglar,0.70692
-Aprueba,35-54,casado,0.70692
-Aprueba,35-54,esposa,0.70692
-Aprueba,35-54,obtuvo,0.70692
-Aprueba,35-54,subsidio,0.70692
-Aprueba,35-54,apesar,0.70624
-Aprueba,35-54,consensos,0.70624
-Aprueba,35-54,dialogar,0.70624
-Aprueba,35-54,porke,0.70624
-Aprueba,35-54,principalmente,0.70624
-Aprueba,35-54,trabas,0.70624
-Aprueba,18-34,abordan,0.70566
-Aprueba,18-34,puntos,0.70566
-Aprueba,18-34,abajo,0.7056
-Aprueba,18-34,asunto,0.7056
-Aprueba,18-34,constantes,0.7056
-Aprueba,18-34,cabolo,0.70415
-Aprueba,18-34,caminio,0.70415
-Aprueba,18-34,cartera,0.70415
-Aprueba,18-34,cercania,0.70415
-Aprueba,18-34,contingencia,0.70415
-Aprueba,18-34,conviccion,0.70415
-Aprueba,18-34,cumpledohasta,0.70415
-Aprueba,18-34,cumplimiento,0.70415
-Aprueba,18-34,dedicacion,0.70415
-Aprueba,18-34,disminuir,0.70415
-Aprueba,18-34,eficientes,0.70415
-Aprueba,18-34,gasto,0.70415
-Aprueba,18-34,gustan,0.70415
-Aprueba,18-34,historia,0.70415
-Aprueba,18-34,intentando,0.70415
-Aprueba,18-34,llebado,0.70415
-Aprueba,18-34,meja,0.70415
-Aprueba,18-34,programas,0.70415
-Aprueba,18-34,reajuste,0.70415
-Aprueba,18-34,socialista,0.70415
-Aprueba,18-34,subio,0.70415
-Aprueba,18-34,transporte,0.70415
-Aprueba,35-54,dialogo,0.70402
-Aprueba,35-54,duro,0.70402
-Aprueba,35-54,alcanzar,0.7029
-Aprueba,35-54,altiro,0.7029
-Aprueba,35-54,anotado,0.7029
-Aprueba,35-54,anti,0.7029
-Aprueba,35-54,aprobarlo,0.7029
-Aprueba,35-54,arrastran,0.7029
-Aprueba,35-54,aumenta,0.7029
-Aprueba,35-54,azules,0.7029
-Aprueba,35-54,combatir,0.7029
-Aprueba,35-54,contraresta,0.7029
-Aprueba,35-54,crisis,0.7029
-Aprueba,35-54,cumplirse,0.7029
-Aprueba,35-54,dando,0.7029
-Aprueba,35-54,deberia,0.7029
-Aprueba,35-54,detener,0.7029
-Aprueba,35-54,dificil,0.7029
-Aprueba,35-54,disminucion,0.7029
-Aprueba,35-54,estatal,0.7029
-Aprueba,35-54,fomenta,0.7029
-Aprueba,35-54,fuerza,0.7029
-Aprueba,35-54,gastan,0.7029
-Aprueba,35-54,grupos,0.7029
-Aprueba,35-54,hartas,0.7029
-Aprueba,35-54,heber,0.7029
-Aprueba,35-54,imposible,0.7029
-Aprueba,35-54,impuestos,0.7029
-Aprueba,35-54,incorporado,0.7029
-Aprueba,35-54,incremento,0.7029
-Aprueba,35-54,llamarlo,0.7029
-Aprueba,35-54,macro,0.7029
-Aprueba,35-54,mejoramiente,0.7029
-Aprueba,35-54,numeros,0.7029
-Aprueba,35-54,oferta,0.7029
-Aprueba,35-54,permitiria,0.7029
-Aprueba,35-54,pobreza,0.7029
-Aprueba,35-54,preocupaciòn,0.7029
-Aprueba,35-54,proyecciones,0.7029
-Aprueba,35-54,raro,0.7029
-Aprueba,35-54,redadas,0.7029
-Aprueba,35-54,relagan,0.7029
-Aprueba,35-54,reseciòn,0.7029
-Aprueba,35-54,solucion,0.7029
-Aprueba,35-54,superarà,0.7029
-Aprueba,35-54,suponemos,0.7029
-Aprueba,35-54,tierra,0.7029
-Aprueba,35-54,tirarlo,0.7029
-Aprueba,35-54,traido,0.7029
-Aprueba,35-54,trasparencia,0.7029
-Aprueba,35-54,violentos,0.7029
-Aprueba,35-54,vistos,0.7029
-Aprueba,18-34,hecha,0.7026
-Aprueba,18-34,palabra,0.7026
-Aprueba,35-54,do,0.70028
-Aprueba,35-54,manejan,0.70028
-Aprueba,35-54,pareccido,0.70028
-Aprueba,35-54,pediria,0.70028
-Aprueba,35-54,ponga,0.70028
-Aprueba,35-54,robo,0.70028
-Aprueba,35-54,solvencia,0.70028
-Aprueba,35-54,subida,0.70028
-Aprueba,35-54,ultimamente,0.70028
-Aprueba,35-54,apoyando,0.70006
-Aprueba,18-34,peruanos,0.69926
-Aprueba,18-34,sacando,0.69926
-Aprueba,35-54,economista,0.69756
-Aprueba,35-54,énfasis,0.69756
-Aprueba,35-54,necesitaba,0.69756
-Aprueba,35-54,cerradas,0.69722
-Aprueba,35-54,dependamos,0.69722
-Aprueba,35-54,esfuerzo,0.69722
-Aprueba,35-54,estado.que,0.69722
-Aprueba,35-54,eticos,0.69722
-Aprueba,35-54,nacionalista,0.69722
-Aprueba,35-54,requisitos,0.69722
-Aprueba,35-54,surga,0.69722
-Aprueba,35-54,academica,0.69435
-Aprueba,35-54,aceptable,0.69435
-Aprueba,35-54,alcance,0.69435
-Aprueba,35-54,aporte,0.69435
-Aprueba,35-54,apoyado,0.69435
-Aprueba,35-54,comercial,0.69435
-Aprueba,35-54,compañeros,0.69435
-Aprueba,35-54,conocecimiento,0.69435
-Aprueba,35-54,dandole,0.69435
-Aprueba,35-54,espero,0.69435
-Aprueba,35-54,excperiensia,0.69435
-Aprueba,35-54,genere,0.69435
-Aprueba,35-54,gerente,0.69435
-Aprueba,35-54,humanitario,0.69435
-Aprueba,35-54,ideal,0.69435
-Aprueba,35-54,mejorr,0.69435
-Aprueba,35-54,modificaciones,0.69435
-Aprueba,35-54,neutro,0.69435
-Aprueba,35-54,organizacion,0.69435
-Aprueba,35-54,preparaciòn,0.69435
-Aprueba,35-54,prioridad,0.69435
-Aprueba,35-54,publica,0.69435
-Aprueba,35-54,regulacion,0.69435
-Aprueba,35-54,señor,0.69435
-Aprueba,35-54,tirar,0.69435
-Aprueba,35-54,vela,0.69435
-Aprueba,35-54,generarado,0.6927
-Aprueba,35-54,positivo,0.6927
-Aprueba,35-54,claras,0.6887
-Aprueba,35-54,enfasis,0.6887
-Aprueba,35-54,profesionalismo,0.6887
-Aprueba,18-34,commemoracion,0.68869
-Aprueba,18-34,gobernabilidad,0.68869
-Aprueba,18-34,homosexuales,0.68869
-Aprueba,18-34,interes,0.68869
-Aprueba,18-34,pluralidad,0.68869
-Aprueba,18-34,conflicto,0.68722
-Aprueba,18-34,intelectual,0.68722
-Aprueba,18-34,tecnologico,0.68722
-Aprueba,35-54,arregla,0.68566
-Aprueba,35-54,autorizacion,0.68566
-Aprueba,35-54,capacidades,0.68566
-Aprueba,35-54,conducion,0.68566
-Aprueba,35-54,entiendo,0.68566
-Aprueba,35-54,escolaridad,0.68566
-Aprueba,35-54,hija,0.68566
-Aprueba,35-54,negocio,0.68566
-Aprueba,35-54,uniformada,0.68566
-Aprueba,35-54,directa,0.68498
-Aprueba,35-54,presente,0.68498
-Aprueba,18-34,fomenta,0.68401
-Aprueba,18-34,plata,0.68401
-Aprueba,35-54,apoyan,0.68256
-Aprueba,35-54,digamos,0.68256
-Aprueba,35-54,gustar,0.68256
-Aprueba,35-54,implementando,0.68256
-Aprueba,35-54,invierten,0.68256
-Aprueba,35-54,mundo,0.68256
-Aprueba,35-54,normalmente,0.68256
-Aprueba,35-54,partidario,0.68256
-Aprueba,35-54,practicamente,0.68256
-Aprueba,35-54,rasonables,0.68256
-Aprueba,35-54,razones,0.68256
-Aprueba,35-54,bastantes,0.68199
-Aprueba,35-54,inconclusas,0.68199
-Aprueba,35-54,agricola,0.6816
-Aprueba,35-54,aportes,0.6816
-Aprueba,35-54,di,0.6816
-Aprueba,35-54,enpesado,0.6816
-Aprueba,35-54,gana,0.6816
-Aprueba,35-54,ganamos,0.6816
-Aprueba,35-54,ganando,0.6816
-Aprueba,35-54,impulsa,0.6816
-Aprueba,35-54,local,0.6816
-Aprueba,35-54,mediano,0.6816
-Aprueba,35-54,nececidades,0.6816
-Aprueba,35-54,pendientes,0.6816
-Aprueba,35-54,plazo,0.6816
-Aprueba,35-54,porcentaje,0.6816
-Aprueba,35-54,protestas,0.6816
-Aprueba,35-54,quinientos,0.6816
-Aprueba,35-54,subirlo,0.6816
-Aprueba,35-54,tenemeos,0.6816
-Aprueba,35-54,vacio,0.6816
-Aprueba,35-54,apruba,0.6745
-Aprueba,18-34,acertuvi,0.67357
-Aprueba,18-34,bajar,0.67357
-Aprueba,18-34,competente,0.67357
-Aprueba,18-34,emprender,0.67357
-Aprueba,18-34,gabinete,0.67357
-Aprueba,18-34,ideologias,0.67357
-Aprueba,18-34,leda,0.67357
-Aprueba,18-34,manjea,0.67357
-Aprueba,18-34,presentan,0.67357
-Aprueba,18-34,presupuesto,0.67357
-Aprueba,18-34,puesta,0.67357
-Aprueba,18-34,razon,0.67357
-Aprueba,18-34,resivido,0.67357
-Aprueba,18-34,respetan,0.67357
-Aprueba,18-34,venezolanos,0.67357
-Aprueba,18-34,venifibios,0.67357
-Aprueba,18-34,comuna,0.67101
-Aprueba,18-34,profesores,0.67101
-Aprueba,35-54,agrada,0.6674
-Aprueba,35-54,agradable,0.6674
-Aprueba,35-54,boicotiando,0.6674
-Aprueba,35-54,coherente,0.6674
-Aprueba,35-54,conducciòn,0.6674
-Aprueba,35-54,congreso,0.6674
-Aprueba,35-54,desarrolo,0.6674
-Aprueba,35-54,ecaminado,0.6674
-Aprueba,35-54,educcacional3,0.6674
-Aprueba,35-54,escucha,0.6674
-Aprueba,35-54,estàn,0.6674
-Aprueba,35-54,feling,0.6674
-Aprueba,35-54,momneto,0.6674
-Aprueba,35-54,opinar,0.6674
-Aprueba,35-54,personalmente,0.6674
-Aprueba,35-54,peso,0.6674
-Aprueba,35-54,tiodo,0.6674
-Aprueba,35-54,concretas,0.66342
-Aprueba,35-54,formalidad,0.66342
-Aprueba,35-54,mando,0.66342
-Aprueba,35-54,meva,0.66342
-Aprueba,35-54,regalar,0.66342
-Aprueba,35-54,sigar,0.66342
-Aprueba,35-54,viene,0.66342
-Aprueba,35-54,matrimonio,0.65988
-Aprueba,35-54,sexo,0.65988
-Aprueba,18-34,desacuerdo,0.65923
-Aprueba,18-34,motivo,0.65923
-Aprueba,18-34,ningùn,0.65923
-Aprueba,35-54,adelantos,0.65821
-Aprueba,35-54,amyor,0.65588
-Aprueba,35-54,exteriores,0.65588
-Aprueba,35-54,inclino,0.65588
-Aprueba,35-54,anticomunista,0.65447
-Aprueba,35-54,bonanza,0.65447
-Aprueba,35-54,clara,0.65447
-Aprueba,35-54,demonio,0.65447
-Aprueba,35-54,ende,0.65447
-Aprueba,35-54,escojerv,0.65447
-Aprueba,35-54,europa,0.65447
-Aprueba,35-54,financiamiento,0.65447
-Aprueba,35-54,financiero,0.65447
-Aprueba,35-54,hayo,0.65447
-Aprueba,35-54,internacionales,0.65447
-Aprueba,35-54,mantenerse,0.65447
-Aprueba,35-54,michel,0.65447
-Aprueba,35-54,particular,0.65447
-Aprueba,35-54,pensando,0.65447
-Aprueba,35-54,poiticas,0.65447
-Aprueba,35-54,principales,0.65447
-Aprueba,35-54,setado,0.65447
-Aprueba,35-54,intenidad,0.64561
-Aprueba,35-54,labores,0.64546
-Aprueba,35-54,monetaria,0.64181
-Aprueba,35-54,save,0.64181
-Aprueba,55 o+,pararla,0.64079
-Aprueba,18-34,compatriotas,0.63942
-Aprueba,18-34,disminuyendo,0.63942
-Aprueba,18-34,duro,0.63942
-Aprueba,18-34,haciendole,0.63942
-Aprueba,18-34,regiones,0.63942
-Aprueba,18-34,robos,0.63942
-Aprueba,18-34,vayan,0.63942
-Aprueba,35-54,colocado,0.63574
-Aprueba,35-54,crebilidad,0.63574
-Aprueba,35-54,mejoeas,0.63574
-Aprueba,35-54,sustentar,0.63574
-Aprueba,35-54,informandose,0.63455
-Aprueba,35-54,ministerios,0.63303
-Aprueba,18-34,tantos,0.6319
-Aprueba,35-54,acontecer,0.62605
-Aprueba,35-54,actividades,0.62605
-Aprueba,35-54,alternativas,0.62605
-Aprueba,35-54,amnistia,0.62605
-Aprueba,35-54,aprovacion,0.62605
-Aprueba,35-54,concuerdo,0.62605
-Aprueba,35-54,desmedida,0.62605
-Aprueba,35-54,dialoga,0.62605
-Aprueba,35-54,diario,0.62605
-Aprueba,35-54,encanta,0.62605
-Aprueba,35-54,entro,0.62605
-Aprueba,35-54,escapando,0.62605
-Aprueba,35-54,estudiar,0.62605
-Aprueba,35-54,factores,0.62605
-Aprueba,35-54,favorecer,0.62605
-Aprueba,35-54,femicidios,0.62605
-Aprueba,35-54,hambitos,0.62605
-Aprueba,35-54,identidad,0.62605
-Aprueba,35-54,insrtitutos,0.62605
-Aprueba,35-54,inversión,0.62605
-Aprueba,35-54,inviewrte,0.62605
-Aprueba,35-54,mayoria,0.62605
-Aprueba,35-54,mejoreado,0.62605
-Aprueba,35-54,necesidades,0.62605
-Aprueba,35-54,noce,0.62605
-Aprueba,35-54,parecer,0.62605
-Aprueba,35-54,percepción,0.62605
-Aprueba,35-54,resiente,0.62605
-Aprueba,35-54,responsable,0.62605
-Aprueba,35-54,resuelve,0.62605
-Aprueba,35-54,rtambien,0.62605
-Aprueba,35-54,sabiduria,0.62605
-Aprueba,35-54,seria,0.62605
-Aprueba,35-54,solida,0.62605
-Aprueba,35-54,tapando,0.62605
-Aprueba,35-54,transpartencia,0.62605
-Aprueba,18-34,ciudad,0.6257
-Aprueba,18-34,trato,0.6257
-Aprueba,35-54,deacuerdo,0.61246
-Aprueba,35-54,exigir,0.61227
-Aprueba,35-54,freno,0.61227
-Aprueba,35-54,irregular,0.61227
-Aprueba,35-54,paro,0.61227
-Aprueba,35-54,alla,0.60811
-Aprueba,35-54,andube,0.60811
-Aprueba,35-54,compromertido,0.60811
-Aprueba,35-54,emn,0.60811
-Aprueba,35-54,entender,0.60811
-Aprueba,35-54,gotera,0.60811
-Aprueba,35-54,hizpo,0.60811
-Aprueba,35-54,igua,0.60811
-Aprueba,35-54,invercionistas,0.60811
-Aprueba,35-54,motivo,0.60811
-Aprueba,35-54,nuca,0.60811
-Aprueba,35-54,puesto,0.60811
-Aprueba,35-54,sur,0.60811
-Aprueba,35-54,temuco,0.60811
-Aprueba,35-54,tube,0.60811
-Aprueba,35-54,crear,0.6035
-Aprueba,35-54,dirigiendo,0.6035
-Aprueba,35-54,fundamental,0.6035
-Aprueba,35-54,integral,0.6035
-Aprueba,35-54,involucra,0.6035
-Aprueba,35-54,mision,0.6035
-Aprueba,35-54,pasarle,0.6035
-Aprueba,35-54,remplazar,0.6035
-Aprueba,35-54,termine,0.6035
-Aprueba,35-54,estalidas,0.59792
-Aprueba,55 o+,viendo,0.5962
-Aprueba,35-54,anual,0.59427
-Aprueba,35-54,hacerse,0.59427
-Aprueba,35-54,opcion,0.59427
-Aprueba,35-54,proceso,0.59427
-Aprueba,35-54,recuperar,0.59427
-Aprueba,35-54,sencilla,0.59427
-Aprueba,18-34,tien,0.58511
-Aprueba,35-54,actividad,0.58506
-Aprueba,35-54,distintas,0.58506
-Aprueba,35-54,frente,0.58506
-Aprueba,35-54,impulso,0.58506
-Aprueba,35-54,salarial,0.58506
-Aprueba,35-54,tratar,0.58506
-Aprueba,35-54,votado,0.58457
-Aprueba,35-54,agenda,0.58154
-Aprueba,35-54,bajar,0.58154
-Aprueba,35-54,deber,0.58154
-Aprueba,35-54,funcione,0.58154
-Aprueba,35-54,habiento,0.58154
-Aprueba,35-54,inyenciones,0.58154
-Aprueba,35-54,medida,0.58154
-Aprueba,35-54,restablecer,0.58154
-Aprueba,35-54,resto,0.58154
-Aprueba,35-54,valorica,0.58154
-Aprueba,35-54,imgarcion,0.56847
-Aprueba,35-54,principipalmente,0.56847
-Aprueba,35-54,pro,0.56847
-Aprueba,35-54,creacion,0.55629
-Aprueba,35-54,funcionarios,0.55131
-Aprueba,55 o+,aprueban,0.5492
-Aprueba,55 o+,mujer,0.5492
-Aprueba,55 o+,televisiòn,0.5492
-Aprueba,55 o+,unànime,0.5492
-Aprueba,18-34,creacion,0.48225
+edad,word,n
+35-54,economia,95.51245
+18-34,economia,77.07382
+55 o+,economia,63.1152
+35-54,gobierno,55.74499
+18-34,inmigracion,51.68471
+35-54,inmigracion,36.5101
+18-34,gobierno,35.65664
+35-54,gusta,32.95367
+55 o+,gobierno,31.57808
+18-34,politica,30.22503
+35-54,gestion,29.61291
+18-34,gestion,28.36214
+18-34,cambio,26.25997
+35-54,politica,25.18516
+55 o+,delincuencia,22.24947
+55 o+,politica,21.90125
+18-34,gusta,21.43607
+35-54,presidente,20.30273
+18-34,99,20.01473
+18-34,leyes,19.72073
+55 o+,gusta,19.577
+35-54,cambio,18.56169
+18-34,presidente,16.91915
+55 o+,inmigracion,16.04101
+55 o+,presidente,15.91868
+55 o+,tratando,15.11309
+35-54,educacion,15.06486
+35-54,delincuencia,14.86845
+18-34,empleo,14.74418
+55 o+,empleo,13.6293
+18-34,educacion,13.57623
+55 o+,gestion,13.13423
+18-34,proyecto,12.87681
+55 o+,cambio,12.87352
+35-54,seguridad,12.72196
+55 o+,leyes,11.92661
+55 o+,orden,11.92123
+35-54,orden,11.84728
+35-54,proyecto,11.6188
+35-54,ve,11.4424
+35-54,empleo,11.37717
+18-34,reformas,11.34911
+35-54,estabilidad,10.96704
+55 o+,seguridad,10.96023
+18-34,visto,10.7015
+35-54,reformas,10.64993
+55 o+,estabilidad,10.49203
+35-54,persona,10.45835
+55 o+,persona,10.37609
+35-54,promesas,10.32413
+35-54,visto,10.24224
+35-54,nivel,10.22807
+55 o+,promesas,9.92534
+55 o+,mejorar,9.86277
+35-54,ideas,9.8232
+35-54,manejo,9.82014
+18-34,aumento,9.52193
+35-54,echo,9.48876
+35-54,media,9.43458
+55 o+,educacion,9.31086
+55 o+,proyecto,9.30554
+18-34,empresariado,9.09961
+18-34,forma,9.09256
+55 o+,salud,9.00694
+35-54,piñera,8.85397
+35-54,empresas,8.7785
+18-34,seguridad,8.74216
+18-34,laboral,8.70511
+18-34,manejo,8.66271
+18-34,empresas,8.64467
+35-54,chile,8.61586
+35-54,hombre,8.49196
+35-54,forma,8.40263
+55 o+,99,8.32818
+18-34,crecimiento,8.26274
+35-54,mejorado,8.2203
+35-54,personas,8.18585
+35-54,derecha,8.15611
+35-54,clase,8.10274
+35-54,99,8.06154
+55 o+,derecha,7.91644
+18-34,chile,7.90965
+55 o+,jubilacion,7.79315
+55 o+,ideas,7.771
+18-34,tratando,7.69798
+18-34,derecha,7.67196
+55 o+,personas,7.49546
+55 o+,medidas,7.43009
+55 o+,forma,7.39016
+35-54,tratando,7.36265
+55 o+,empresas,7.30184
+35-54,salud,7.28612
+18-34,ideas,7.23785
+35-54,años,7.21308
+55 o+,confianza,7.16371
+35-54,niños,7.14964
+35-54,crecimiento,7.14874
+55 o+,arreglar,7.03992
+35-54,ayuda,7.00012
+35-54,asunto,6.99455
+55 o+,edad,6.95463
+18-34,piñera,6.87002
+55 o+,izquierda,6.61358
+18-34,estabilidad,6.53917
+18-34,dando,6.52551
+35-54,leyes,6.51662
+18-34,opinion,6.48823
+18-34,vote,6.43494
+18-34,decision,6.39654
+55 o+,chile,6.37511
+18-34,oportunidades,6.2312
+35-54,preocupa,6.20201
+18-34,ve,6.14525
+35-54,carabineros,6.07799
+18-34,echo,6.06211
+18-34,problemas,6.05315
+35-54,noticias,6.01987
+18-34,orden,5.98383
+35-54,social,5.97073
+35-54,bachelet,5.95597
+18-34,confianza,5.87321
+35-54,meses,5.82816
+18-34,personas,5.79887
+18-34,país,5.78521
+55 o+,tranquilidad,5.76933
+18-34,delincuencia,5.7346
+35-54,empresariado,5.70675
+18-34,persona,5.6161
+35-54,empresario,5.57663
+18-34,partido,5.53828
+35-54,vienen,5.40583
+55 o+,situacion,5.39486
+35-54,problemas,5.31048
+18-34,medidas,5.29114
+55 o+,hombre,5.27243
+18-34,sociedad,5.27118
+55 o+,està,5.25791
+18-34,mejorado,5.2233
+18-34,maneja,5.21935
+18-34,tributaria,5.20875
+18-34,malas,5.2016
+55 o+,empresariado,5.19925
+35-54,ayudar,5.15125
+18-34,aca,5.14872
+18-34,llevado,5.06337
+35-54,sueldos,5.00941
+35-54,año,5.00222
+18-34,paso,4.96458
+18-34,promesas,4.95215
+55 o+,gusto,4.93411
+35-54,tributaria,4.90015
+18-34,familiar,4.89564
+18-34,propuestas,4.79407
+55 o+,tratar,4.77343
+35-54,periodo,4.73779
+35-54,preocupando,4.73599
+18-34,mejorando,4.71394
+35-54,gusto,4.70597
+35-54,considero,4.70187
+35-54,confianza,4.69783
+55 o+,ayuda,4.6872
+35-54,veo,4.68225
+35-54,mano,4.66895
+35-54,apoyo,4.66066
+18-34,inversion,4.63531
+55 o+,dando,4.6298
+18-34,mandato,4.62736
+55 o+,ve,4.62628
+35-54,plata,4.62398
+18-34,media,4.62378
+35-54,nota,4.56848
+55 o+,mejorado,4.53191
+55 o+,importante,4.52975
+18-34,ayuda,4.52022
+35-54,medidas,4.51971
+55 o+,reformas,4.5114
+55 o+,preocupando,4.4771
+35-54,oportunidades,4.44177
+18-34,veo,4.3744
+35-54,malo,4.3645
+35-54,relacion,4.29739
+55 o+,apoyo,4.28019
+55 o+,ido,4.27403
+35-54,importante,4.26315
+18-34,mejorar,4.25348
+35-54,tranquilidad,4.21347
+35-54,dejo,4.18256
+18-34,salud,4.17569
+55 o+,realidad,4.17501
+35-54,laborales,4.14741
+55 o+,bachelet,4.13996
+35-54,casa,4.07348
+35-54,ejecutivo,4.07315
+35-54,comparacion,4.06168
+55 o+,dejo,4.0515
+55 o+,problemas,4.05046
+35-54,manejar,4.02565
+18-34,realidad,4.02516
+55 o+,visto,3.9671
+35-54,darle,3.93573
+55 o+,malo,3.9245
+35-54,sistema,3.92292
+18-34,familia,3.91321
+55 o+,veo,3.9075
+35-54,preocupado,3.8957
+35-54,pienso,3.88003
+35-54,mejores,3.85899
+35-54,personal,3.84763
+18-34,tomado,3.84121
+55 o+,social,3.83891
+18-34,bachelet,3.83318
+55 o+,control,3.8146
+35-54,beneficio,3.80035
+55 o+,tributaria,3.79553
+55 o+,piensa,3.79248
+18-34,relacion,3.77152
+55 o+,cosa,3.76813
+55 o+,sacar,3.76042
+35-54,publicas,3.75528
+18-34,ordenado,3.75277
+35-54,cargo,3.75165
+35-54,ordenando,3.74217
+18-34,sueldos,3.72118
+55 o+,serio,3.71811
+55 o+,empresario,3.71731
+18-34,apoya,3.71137
+35-54,lento,3.70514
+55 o+,sueldos,3.70074
+35-54,unico,3.68883
+35-54,pasa,3.68536
+18-34,pega,3.68495
+55 o+,aumento,3.67147
+55 o+,oposicion,3.6636
+18-34,nivel,3.65797
+35-54,soluciones,3.64719
+35-54,partido,3.63432
+55 o+,piñera,3.61115
+35-54,región,3.59025
+35-54,poniendo,3.58551
+55 o+,años,3.57228
+35-54,laboral,3.56682
+18-34,apoyo,3.5542
+35-54,tanta,3.55011
+35-54,situacion,3.54005
+35-54,dura,3.52846
+35-54,decision,3.51988
+55 o+,apruebo,3.51441
+35-54,sebastian,3.47992
+35-54,mejora,3.47989
+55 o+,campaña,3.45394
+35-54,idea,3.44887
+35-54,tomando,3.44681
+18-34,reactivacion,3.4275
+18-34,siento,3.412
+35-54,generando,3.40724
+55 o+,respetuoso,3.40318
+18-34,deuda,3.39481
+35-54,area,3.39409
+55 o+,tipo,3.39302
+35-54,anteriores,3.3908
+35-54,inteligente,3.38708
+18-34,ayudado,3.37005
+55 o+,colegios,3.36406
+35-54,mandato,3.34918
+18-34,hombre,3.33547
+18-34,periodo,3.33192
+18-34,situacion,3.32562
+55 o+,intentando,3.2971
+18-34,beneficios,3.29347
+18-34,qe,3.29157
+35-54,venezuela,3.28289
+35-54,cuerdo,3.25753
+18-34,subsidio,3.24452
+55 o+,ayude,3.23146
+18-34,social,3.22885
+55 o+,necesitamos,3.21959
+35-54,tratado,3.2164
+55 o+,manejo,3.19712
+35-54,rapido,3.19568
+55 o+,preocupa,3.19377
+18-34,publica,3.19283
+18-34,salió,3.18195
+35-54,desorden,3.17797
+35-54,desarrollo,3.15242
+18-34,poquito,3.1418
+18-34,agilidad,3.13184
+55 o+,salga,3.10037
+18-34,presidenta,3.09797
+18-34,gratuidad,3.09257
+18-34,corto,3.08415
+35-54,edad,3.04924
+55 o+,avanzando,3.03863
+18-34,falta,3.03811
+35-54,corto,3.03544
+55 o+,darle,3.03339
+18-34,hospitales,3.02534
+55 o+,niños,3.02287
+18-34,caso,3.02153
+55 o+,gallo,3.01932
+55 o+,familia,3.016
+35-54,sociales,3.01595
+35-54,mejoras,3.01048
+18-34,empresario,3.00858
+55 o+,decision,3.006
+18-34,notado,3.00388
+18-34,sociales,3.0005
+55 o+,programa,2.98722
+35-54,viendo,2.97515
+55 o+,atencion,2.97213
+55 o+,tomado,2.95782
+35-54,llevo,2.94636
+55 o+,fuentes,2.9455
+55 o+,casa,2.93409
+35-54,mercados,2.92714
+18-34,mapuche,2.91172
+55 o+,laboral,2.90802
+35-54,pais,2.88834
+55 o+,recien,2.87993
+35-54,ordenar,2.87854
+35-54,supone,2.86869
+55 o+,socialista,2.86666
+55 o+,considero,2.85198
+18-34,principio,2.84011
+35-54,beneficios,2.8329
+55 o+,inteligente,2.83162
+18-34,considero,2.81999
+35-54,comunista,2.81137
+35-54,linea,2.81113
+35-54,calle,2.80083
+55 o+,llevado,2.79232
+35-54,familia,2.78723
+35-54,cabeza,2.78358
+55 o+,camino,2.77841
+35-54,recien,2.77701
+55 o+,sistema,2.77647
+35-54,escuchado,2.77441
+18-34,clase,2.76899
+35-54,adulto,2.76898
+55 o+,equipo,2.76505
+35-54,principal,2.75668
+18-34,vision,2.75585
+35-54,hijos,2.74482
+55 o+,aca,2.7276
+18-34,escuchado,2.72422
+18-34,generar,2.72397
+55 o+,empeño,2.72304
+18-34,bajado,2.71824
+35-54,errores,2.71775
+55 o+,gustan,2.71521
+55 o+,comercio,2.71494
+55 o+,adulto,2.71395
+55 o+,po,2.70382
+35-54,reactivar,2.70327
+35-54,inversionista,2.70077
+55 o+,puesto,2.69702
+18-34,sector,2.68667
+55 o+,ayudar,2.68095
+55 o+,intenciones,2.67566
+55 o+,preocupado,2.6697
+55 o+,esperanza,2.66673
+55 o+,cargo,2.66626
+35-54,aca,2.66534
+55 o+,periodo,2.65855
+55 o+,pais,2.63884
+55 o+,impulso,2.63534
+35-54,cuestión,2.63148
+35-54,rico,2.63148
+18-34,componente,2.627
+18-34,ambito,2.62231
+55 o+,digo,2.61594
+55 o+,ojala,2.60712
+18-34,salio,2.58653
+55 o+,quedo,2.58605
+18-34,desempeño,2.57562
+35-54,avance,2.57193
+35-54,desempeño,2.57145
+18-34,enfrentado,2.57058
+55 o+,golpe,2.56899
+55 o+,trabajador,2.56713
+35-54,manejado,2.56313
+18-34,situaciones,2.5592
+35-54,aprueba,2.5591
+35-54,genero,2.557
+18-34,crisis,2.5563
+55 o+,mundo,2.55621
+55 o+,lento,2.55412
+35-54,indices,2.55395
+18-34,interesa,2.55142
+55 o+,aprueba,2.55046
+18-34,ejecutado,2.54686
+55 o+,clase,2.54503
+55 o+,media,2.54503
+18-34,digamos,2.54336
+18-34,aprueba,2.54076
+18-34,cumplido,2.53838
+35-54,mejorar,2.53712
+55 o+,artas,2.52891
+35-54,recursos,2.52207
+35-54,sobretodo,2.51952
+55 o+,mejorando,2.51659
+35-54,tomado,2.50045
+35-54,cosa,2.50015
+55 o+,hagan,2.48642
+35-54,conocimiento,2.47782
+18-34,gustado,2.47778
+18-34,años,2.4541
+55 o+,consecuente,2.45092
+18-34,mayores,2.44898
+18-34,independiente,2.44552
+55 o+,diciplina,2.43875
+18-34,meses,2.41155
+35-54,aumento,2.40592
+35-54,acá,2.3935
+35-54,està,2.38656
+18-34,año,2.37354
+55 o+,tanta,2.37154
+35-54,preocupacion,2.36942
+18-34,malo,2.36213
+55 o+,confio,2.36102
+35-54,ido,2.35565
+18-34,simplemente,2.35066
+18-34,gracias,2.35038
+55 o+,genero,2.34699
+35-54,transparente,2.34427
+18-34,publicas,2.33468
+18-34,viviendas,2.33204
+18-34,mejora,2.331
+18-34,plazo,2.32445
+35-54,inversiones,2.322
+18-34,cosa,2.31757
+55 o+,viene,2.31579
+35-54,manejando,2.31222
+35-54,crecer,2.30668
+35-54,programas,2.2933
+55 o+,experiencia,2.28762
+18-34,mejoria,2.28653
+35-54,reactivacion,2.28588
+35-54,empezando,2.28405
+18-34,campo,2.27829
+55 o+,cumpliendo,2.272
+18-34,problema,2.271
+35-54,pensamiento,2.26183
+35-54,polìtica,2.2578
+18-34,cara,2.25776
+18-34,nacional,2.24713
+35-54,valores,2.24376
+55 o+,presidenta,2.2374
+35-54,presidenta,2.23621
+35-54,haga,2.23491
+35-54,cumplir,2.23294
+35-54,mueve,2.22691
+35-54,llevando,2.2264
+18-34,generando,2.21791
+35-54,realidad,2.2152
+35-54,siento,2.21154
+18-34,salido,2.20901
+18-34,pienso,2.20717
+55 o+,logrando,2.20451
+35-54,gustado,2.20198
+35-54,solucionar,2.1939
+55 o+,preparacion,2.19208
+55 o+,aborto,2.18639
+18-34,encontrado,2.1808
+35-54,bio,2.17306
+35-54,region,2.17306
+35-54,bono,2.16736
+35-54,partidos,2.1597
+35-54,campaña,2.15433
+35-54,libre,2.14469
+35-54,situaciones,2.1442
+18-34,abrir,2.1434
+18-34,tanta,2.14157
+35-54,propuestas,2.14039
+35-54,poquito,2.1374
+18-34,dirigir,2.12356
+35-54,pobre,2.11545
+35-54,bienestar,2.10929
+55 o+,unidad,2.10804
+35-54,tendencia,2.09883
+35-54,aspectos,2.09734
+35-54,generar,2.09673
+35-54,fuentes,2.09556
+55 o+,capacidad,2.09359
+35-54,cabo,2.08755
+18-34,jovenes,2.08581
+55 o+,conozco,2.07389
+35-54,ingreso,2.07225
+55 o+,adultos,2.06961
+55 o+,mayores,2.06961
+35-54,levantar,2.06917
+35-54,ejecutar,2.06841
+35-54,sentido,2.06834
+55 o+,movimiento,2.05712
+55 o+,aplica,2.0528
+55 o+,opiniones,2.0519
+35-54,sacando,2.04502
+18-34,importa,2.0448
+35-54,realmente,2.0445
+55 o+,empezando,2.0432
+35-54,liderazgo,2.04274
+18-34,minuto,2.0377
+55 o+,señora,2.0377
+35-54,firme,2.03699
+55 o+,especifico,2.03625
+55 o+,principal,2.03597
+35-54,conduccion,2.03234
+18-34,bastantes,2.02797
+55 o+,voluntad,2.02685
+35-54,arto,2.02216
+55 o+,año,2.02203
+55 o+,sename,2.02177
+55 o+,mueve,2.01572
+55 o+,asunto,2.01467
+18-34,mando,2.0093
+35-54,arreglando,2.00689
+35-54,estudiando,2.00433
+55 o+,centro,2.00231
+55 o+,profesional,2.0022
+35-54,comercio,1.99918
+35-54,mercado,1.99432
+35-54,sename,1.99251
+35-54,cuentas,1.99174
+18-34,tomando,1.988
+18-34,preocupando,1.98641
+55 o+,propuestas,1.98612
+55 o+,futuro,1.98346
+35-54,sector,1.98024
+35-54,inversion,1.97387
+35-54,gustaba,1.97333
+55 o+,aspecto,1.97232
+55 o+,vote,1.96175
+35-54,reactivando,1.9615
+35-54,estudiantes,1.9596
+55 o+,seriedad,1.95936
+18-34,carabineros,1.9552
+35-54,lider,1.95237
+35-54,trato,1.94184
+35-54,manos,1.94179
+55 o+,intensiones,1.93646
+55 o+,seria,1.93642
+55 o+,libre,1.93455
+55 o+,gustado,1.93396
+55 o+,supone,1.93223
+55 o+,comienzo,1.92942
+55 o+,enserio,1.92942
+55 o+,ministro,1.92942
+55 o+,tomo,1.92942
+55 o+,bonificacion,1.92835
+55 o+,comentarios,1.92835
+55 o+,entrevista,1.92835
+55 o+,necesita,1.92835
+55 o+,prensa,1.92835
+55 o+,psyuepone,1.92835
+35-54,opiniones,1.92771
+35-54,llegan,1.92676
+55 o+,habian,1.92666
+55 o+,escucha,1.92646
+35-54,desaprobarlo,1.9241
+35-54,par,1.9241
+35-54,chilenos,1.91984
+55 o+,finanzas,1.91885
+55 o+,excelente,1.91819
+18-34,fuentes,1.91447
+35-54,pone,1.91119
+18-34,importancia,1.90992
+55 o+,dirige,1.90979
+55 o+,loe,1.90295
+55 o+,opinion,1.90295
+55 o+,publica,1.90295
+55 o+,recalcarle,1.90295
+55 o+,conducieron,1.90182
+35-54,cumplido,1.89896
+55 o+,tomando,1.89846
+35-54,progresar,1.89826
+35-54,baja,1.89625
+35-54,izquierda,1.89297
+55 o+,subio,1.88373
+55 o+,socialy,1.88169
+18-34,materia,1.87814
+55 o+,cortar,1.86956
+18-34,desempeña,1.85524
+18-34,tomar,1.85479
+55 o+,cree,1.85287
+55 o+,dejar,1.85281
+55 o+,reconoce,1.85281
+18-34,anteriores,1.85063
+35-54,ventas,1.84698
+55 o+,quiero,1.84652
+35-54,voto,1.846
+55 o+,poniendo,1.84481
+55 o+,laborales,1.84472
+18-34,nuevamente,1.84221
+18-34,organizando,1.84221
+35-54,razon,1.83677
+55 o+,pone,1.83532
+55 o+,juicio,1.83286
+55 o+,situaciones,1.83286
+55 o+,tajantemente,1.8318
+18-34,partidos,1.83144
+18-34,principal,1.83107
+18-34,estancado,1.82915
+55 o+,toma,1.82
+18-34,poniendo,1.81654
+55 o+,compañia,1.81639
+55 o+,completo,1.81639
+55 o+,decirte,1.81639
+55 o+,deja,1.81639
+55 o+,desarrollar,1.81639
+55 o+,ente,1.81639
+55 o+,espacio,1.81639
+55 o+,llegarte,1.81639
+55 o+,llevo,1.81639
+55 o+,malos,1.81639
+55 o+,pair,1.81639
+55 o+,puntos,1.81639
+55 o+,solucionarlo,1.81639
+55 o+,suerte,1.81639
+55 o+,trabajai,1.81639
+35-54,apoya,1.81424
+35-54,yendo,1.81398
+55 o+,espera,1.80902
+55 o+,anda,1.80745
+18-34,gastos,1.80059
+18-34,alzas,1.80035
+55 o+,sabria,1.79961
+55 o+,mercado,1.79928
+55 o+,etica,1.79841
+55 o+,vida,1.79795
+18-34,valores,1.79574
+55 o+,partido,1.79142
+55 o+,region,1.78733
+55 o+,chilenos,1.78654
+55 o+,sectores,1.78654
+55 o+,grande,1.78168
+55 o+,conclusiones,1.78127
+18-34,avanzado,1.78019
+55 o+,corrupcion,1.77542
+18-34,asuntos,1.775
+55 o+,plazo,1.77496
+18-34,cacho,1.77372
+18-34,pucha,1.77372
+18-34,verdad,1.77372
+18-34,comparacion,1.77125
+18-34,postura,1.77016
+55 o+,ordenado,1.76624
+55 o+,conformarse,1.76442
+55 o+,nomas,1.76442
+55 o+,araucania,1.76415
+18-34,responde,1.7618
+18-34,apesar,1.75352
+55 o+,oportunidades,1.74779
+35-54,ladrones,1.74229
+35-54,rigurosos,1.74229
+55 o+,pobres,1.74152
+18-34,transparente,1.73803
+55 o+,cosas,1.73802
+55 o+,explicar,1.73802
+55 o+,grandes,1.73802
+55 o+,pueod,1.73802
+55 o+,reine,1.73802
+55 o+,julio,1.73748
+55 o+,junio,1.73748
+55 o+,papeles,1.73748
+55 o+,saco,1.73748
+55 o+,planteamiento,1.7324
+55 o+,propuesta,1.7324
+35-54,credibilidad,1.73095
+18-34,nota,1.72941
+55 o+,controlando,1.72475
+55 o+,idea,1.72411
+18-34,siga,1.72267
+18-34,usando,1.71727
+18-34,credibilidad,1.71706
+35-54,cumple,1.71484
+35-54,vivienda,1.71484
+18-34,siente,1.71373
+55 o+,nivel,1.70602
+55 o+,cumplir,1.70428
+55 o+,area,1.70281
+18-34,reelecto,1.70166
+55 o+,cumplinedo,1.6998
+55 o+,mayoria,1.6998
+18-34,arreglar,1.69473
+35-54,equipo,1.68566
+35-54,asiendo,1.68453
+18-34,dinero,1.68179
+18-34,aguinaldo,1.67143
+18-34,ala,1.67143
+18-34,altiro,1.67143
+18-34,opciones,1.67143
+18-34,paulatinos,1.67143
+18-34,tanmto,1.67143
+18-34,implementando,1.67126
+55 o+,robos,1.6696
+18-34,control,1.66941
+55 o+,entrega,1.6686
+35-54,progreso,1.66736
+18-34,activando,1.66587
+55 o+,traves,1.66378
+35-54,estancado,1.66318
+18-34,pasan,1.66172
+18-34,ayudando,1.6614
+18-34,flujo,1.65762
+35-54,aceptado,1.64937
+35-54,areas,1.64937
+35-54,diferntes,1.64937
+18-34,internacional,1.64728
+18-34,policiales,1.6472
+55 o+,invertir,1.64643
+18-34,parecido,1.64457
+18-34,mira,1.64222
+18-34,ningun,1.64158
+18-34,darle,1.63882
+55 o+,acabando,1.63774
+55 o+,razon,1.63774
+55 o+,roban,1.63774
+55 o+,vienen,1.63774
+55 o+,faena,1.63531
+55 o+,faeneros,1.63531
+55 o+,minera,1.63531
+55 o+,vivimos,1.63531
+55 o+,justo,1.62905
+18-34,quintero,1.62892
+55 o+,interes,1.62678
+18-34,adultos,1.62538
+18-34,sacado,1.62517
+55 o+,mano,1.62305
+18-34,esfuerzo,1.61987
+35-54,impulsando,1.61945
+35-54,jubilacion,1.61846
+55 o+,agricultores,1.61573
+55 o+,minimo,1.61573
+55 o+,trabajor,1.61573
+35-54,ambito,1.61544
+35-54,ambiental,1.61199
+35-54,cansados,1.61199
+35-54,control,1.61199
+35-54,harto,1.61199
+35-54,policial,1.61199
+18-34,informacion,1.61176
+55 o+,juventud,1.60474
+55 o+,mejoras,1.6046
+18-34,ampliado,1.6032
+18-34,contado,1.6032
+18-34,informada,1.6032
+18-34,subsidios,1.6032
+35-54,mantenido,1.5994
+18-34,manejado,1.5931
+35-54,correcto,1.59069
+18-34,reduccion,1.58929
+18-34,publico,1.58902
+55 o+,realiza,1.58853
+18-34,encuentra,1.58849
+18-34,partidario,1.58849
+18-34,quieren,1.58849
+18-34,actual,1.5833
+18-34,anteriormente,1.5833
+18-34,conversaciòn,1.58305
+18-34,dispuesto,1.58305
+18-34,extremista,1.58305
+18-34,post,1.58305
+18-34,pùblicas,1.58305
+55 o+,corto,1.57988
+55 o+,jovenes,1.5786
+18-34,genero,1.5691
+18-34,izquierda,1.5691
+35-54,gastos,1.56701
+18-34,funcionando,1.56592
+18-34,pedazos,1.56592
+18-34,pendiente,1.56592
+18-34,puente,1.56592
+18-34,quedo,1.56592
+18-34,querian,1.56592
+18-34,region,1.56592
+18-34,rios,1.56592
+18-34,salir,1.56592
+18-34,tipico,1.56592
+18-34,tratado,1.56592
+35-54,mantiene,1.56299
+18-34,planes,1.55859
+18-34,apruebo,1.55844
+18-34,subiendo,1.55546
+55 o+,aquejan,1.55301
+55 o+,ciudadano,1.55301
+55 o+,comfiable,1.55301
+55 o+,comun,1.55301
+55 o+,curso,1.55301
+35-54,autoridad,1.55254
+18-34,promulgacion,1.54793
+18-34,programa,1.5478
+35-54,maneja,1.54624
+55 o+,esperanzados,1.54542
+35-54,realizando,1.54483
+35-54,resolver,1.54431
+55 o+,ahy,1.54389
+18-34,dura,1.5407
+18-34,mano,1.5407
+35-54,gratuidad,1.54049
+35-54,subiendo,1.53663
+18-34,minimo,1.53633
+55 o+,llevan,1.53516
+55 o+,respetarlos,1.53516
+55 o+,conocimientos,1.53502
+55 o+,manejar,1.53502
+55 o+,palabras,1.53502
+55 o+,pr3ocupacion,1.53502
+55 o+,puras,1.53502
+55 o+,rapido,1.53502
+55 o+,relativamente,1.53502
+55 o+,saca,1.5336
+35-54,mejorando,1.5331
+18-34,ahhhh,1.52745
+18-34,especial,1.52745
+18-34,hummm,1.52745
+18-34,tranquilo,1.52745
+35-54,activo,1.5267
+35-54,regularizar,1.52481
+18-34,ingreso,1.52429
+55 o+,faltaria,1.5194
+55 o+,gobernaría,1.5194
+55 o+,imposiciñon,1.5194
+55 o+,sencillo,1.5194
+35-54,ahy,1.51564
+18-34,acercando,1.5074
+18-34,acuerdop,1.5074
+18-34,apertura,1.5074
+18-34,co9n,1.5074
+18-34,credito,1.5074
+18-34,pro,1.5074
+18-34,pueblos,1.5074
+18-34,referente,1.5074
+18-34,sde,1.5074
+18-34,pol,1.50415
+35-54,pese,1.49293
+18-34,fondos,1.491
+35-54,iguales,1.491
+55 o+,ofendiendo,1.49072
+35-54,pobres,1.48816
+35-54,caracter,1.48704
+35-54,ningun,1.48658
+35-54,mayores,1.48573
+55 o+,coherente,1.4839
+55 o+,hospital,1.4839
+55 o+,instalando,1.4839
+55 o+,llego,1.4839
+55 o+,opino,1.4839
+55 o+,quintero,1.4839
+55 o+,ventiladores,1.4839
+18-34,soluciones,1.48224
+35-54,espera,1.47952
+35-54,paso,1.47778
+35-54,respeto,1.4768
+35-54,notado,1.4755
+18-34,aportado,1.47537
+18-34,inteligente,1.47537
+18-34,obviamente,1.47521
+35-54,cara,1.4737
+35-54,generacion,1.46988
+35-54,entregaron,1.46914
+35-54,excelente,1.46747
+35-54,transparencia,1.46741
+35-54,drastica,1.46464
+35-54,instituciones,1.46464
+35-54,respaldo,1.46464
+18-34,equipo,1.46385
+18-34,explicar,1.46385
+18-34,caracter,1.46302
+35-54,cristianos,1.46121
+35-54,sale,1.46105
+18-34,notar,1.45942
+35-54,empuje,1.45899
+35-54,mujeres,1.45899
+35-54,talleres,1.45899
+35-54,puestos,1.45744
+35-54,presupuesto,1.45698
+35-54,mala,1.45648
+18-34,controles,1.4555
+35-54,hartos,1.45341
+35-54,tomar,1.45194
+35-54,coas,1.44454
+35-54,reactivado,1.44324
+18-34,aumentando,1.43935
+18-34,alumnos,1.43882
+18-34,docente,1.43882
+18-34,gane,1.43882
+18-34,inclucion,1.43882
+18-34,motivos,1.43882
+18-34,prefiero,1.43882
+18-34,socilaes,1.43882
+35-54,coherencia,1.43877
+18-34,encontró,1.43803
+35-54,constante,1.43326
+35-54,diferencia,1.43326
+35-54,ultimos,1.43326
+35-54,propone,1.42835
+18-34,està,1.4271
+18-34,leido,1.4271
+18-34,segùn,1.4271
+18-34,tele,1.4271
+18-34,inversiones,1.42548
+35-54,demostrando,1.42209
+35-54,documentos,1.42209
+35-54,ejecutando,1.42209
+35-54,esperemos,1.42209
+35-54,inconclusa,1.42209
+35-54,molesta,1.42209
+35-54,pase,1.42209
+35-54,quede,1.42209
+35-54,genera,1.42112
+55 o+,haciendolo,1.42021
+55 o+,variado,1.42021
+18-34,entrevista,1.41812
+18-34,loco,1.41812
+18-34,ministro,1.41812
+18-34,tipo,1.41812
+18-34,verlo,1.41812
+35-54,busca,1.41417
+35-54,subsidios,1.41346
+35-54,fuente,1.4118
+35-54,pq,1.40707
+35-54,opciones,1.40516
+35-54,ordenamiento,1.40189
+18-34,devuelvan,1.40166
+18-34,legalice,1.40166
+18-34,papeles,1.40166
+18-34,sacar,1.40166
+18-34,visas,1.40166
+35-54,ciudadanos,1.40101
+35-54,consultorio,1.40101
+35-54,demas,1.40101
+35-54,pensamientos,1.40101
+35-54,apruebo,1.39995
+35-54,requiere,1.39966
+55 o+,arreglado,1.3987
+55 o+,quierre,1.3987
+35-54,creando,1.39802
+35-54,mapuche,1.39802
+35-54,pueblo,1.39802
+18-34,rapidez,1.39766
+35-54,màs,1.39725
+35-54,administre,1.39179
+35-54,candidatos,1.39179
+35-54,estariamos,1.39179
+35-54,negocios,1.39179
+35-54,ingresos,1.39132
+35-54,buscando,1.38875
+35-54,enfocado,1.3887
+35-54,becas,1.38625
+35-54,trabajador,1.37595
+35-54,necesita,1.37259
+18-34,desarrollo,1.37123
+35-54,alumnos,1.37098
+35-54,condicionales,1.37098
+35-54,gustando,1.37098
+35-54,hbian,1.37098
+35-54,percepcion,1.37098
+35-54,quedar,1.37098
+35-54,tencgo,1.37098
+35-54,ideologias,1.37017
+35-54,familias,1.36817
+35-54,fortaleciendo,1.36817
+35-54,rural,1.36817
+35-54,turistico,1.36817
+35-54,urbano,1.36817
+35-54,aguas,1.36769
+35-54,regale,1.36769
+35-54,tierras,1.36769
+35-54,abordado,1.36658
+35-54,izquierdista,1.36278
+35-54,honesto,1.36175
+18-34,preocupado,1.3561
+35-54,informa,1.35093
+35-54,seriedad,1.35063
+35-54,programa,1.34721
+55 o+,esprisito,1.34527
+35-54,ala,1.33726
+35-54,documento,1.33726
+35-54,estatus,1.33726
+35-54,facilidad,1.33726
+35-54,surgir,1.33726
+35-54,ultimas,1.33726
+35-54,momentos,1.33581
+18-34,desconformidad,1.3348
+18-34,tewngo,1.3348
+35-54,llavando,1.33397
+35-54,rie,1.33397
+35-54,futuro,1.33009
+35-54,falta,1.32728
+35-54,directo,1.32632
+35-54,minimo,1.32273
+35-54,preocuopa,1.32273
+35-54,estudios,1.32188
+35-54,mentalidad,1.3214
+35-54,puedan,1.3206
+55 o+,baja,1.3206
+55 o+,inflacion,1.3206
+55 o+,marchando,1.3206
+55 o+,anbiente,1.31789
+55 o+,prente,1.31789
+55 o+,tods,1.31789
+35-54,camara,1.31574
+35-54,diputados,1.31574
+35-54,haria,1.31574
+35-54,homosexuales,1.31574
+35-54,normas,1.31574
+35-54,normativa,1.31574
+35-54,ponerle,1.31574
+35-54,qie,1.31574
+35-54,sinete,1.31574
+35-54,toman,1.31574
+18-34,alargo,1.3135
+18-34,decirte,1.3135
+18-34,encuentor,1.3135
+18-34,ende,1.3135
+18-34,engaños,1.3135
+18-34,estadando,1.3135
+18-34,estudios,1.3135
+18-34,favorecido,1.3135
+18-34,gratis,1.3135
+18-34,imponiendio,1.3135
+18-34,jefe,1.3135
+18-34,jubilacion,1.3135
+18-34,mantendio,1.3135
+18-34,mostrado,1.3135
+18-34,ostrado,1.3135
+35-54,arregando,1.3135
+35-54,acabando,1.31149
+35-54,relaciones,1.31035
+35-54,cursos,1.30826
+35-54,eligio,1.30826
+35-54,po,1.30765
+18-34,agrada,1.30654
+18-34,aumentado,1.30654
+18-34,bajara,1.30654
+18-34,conosco,1.30654
+18-34,gubernamentales,1.30654
+18-34,marido,1.30654
+35-54,tarcera,1.30392
+35-54,dirige,1.30246
+55 o+,renovado,1.30049
+18-34,organizado,1.29927
+35-54,conoce,1.299
+35-54,decadencia,1.299
+35-54,eseta,1.299
+35-54,experto,1.299
+18-34,apruebao,1.29685
+18-34,basa,1.29685
+18-34,becas,1.29685
+18-34,diò,1.29685
+18-34,entregar,1.29685
+18-34,fàcil,1.29685
+18-34,filtyro,1.29685
+18-34,necesitada,1.29685
+18-34,pequeñas,1.29685
+55 o+,conocimiento,1.26759
+55 o+,imagino,1.26759
+35-54,malas,1.25797
+18-34,desaprobación,1.2567
+18-34,enfocando,1.2567
+18-34,futuro,1.2567
+18-34,implicando,1.2567
+18-34,inclusion,1.2567
+18-34,informado,1.2567
+18-34,marcados,1.2567
+18-34,noticias,1.2567
+35-54,cometio,1.2567
+35-54,diversidad,1.2521
+18-34,als,1.2496
+18-34,genral,1.2496
+18-34,ne,1.2496
+18-34,spor,1.2496
+18-34,subirle,1.2496
+35-54,sociocultural,1.24628
+35-54,posicion,1.24494
+18-34,ciudade,1.2425
+18-34,mineras,1.2425
+18-34,sacara,1.2425
+35-54,especifica,1.2425
+35-54,presisa,1.2425
+35-54,prodria,1.2425
+35-54,regiones,1.2425
+35-54,independiente,1.23924
+18-34,embarrada,1.2354
+18-34,grande,1.2354
+18-34,mandado,1.2354
+18-34,documentacion,1.2212
+18-34,exigir,1.2212
+18-34,interesado,1.2212
+18-34,pregunta,1.2212
+18-34,radical,1.2212
+18-34,regularizar,1.2212
+18-34,respuesta,1.2212
+35-54,clasificar,1.2212
+35-54,corresponde,1.2212
+35-54,lleve,1.2212
+35-54,medidad,1.2212
+35-54,moemnto,1.2212
+35-54,tendria,1.2212
+35-54,junta,1.22052
+35-54,llama,1.22052
+35-54,llamaban,1.22052
+35-54,llaman,1.22052
+35-54,llamar,1.22052
+35-54,poblaciones,1.22052
+35-54,tiro,1.22052
+35-54,tramitaban,1.22052
+35-54,vecinos,1.22052
+55 o+,beneficiosas,1.21648
+55 o+,lenta,1.21648
+55 o+,reactivacion,1.21648
+35-54,cauerdo,1.21432
+18-34,burocratico,1.2141
+18-34,flote,1.2141
+18-34,haga,1.2141
+18-34,indiferente,1.2141
+18-34,llegando,1.2141
+18-34,pracmatico,1.2141
+18-34,resoluciones,1.2141
+18-34,saliendo,1.2141
+35-54,gratuita,1.1999
+35-54,cimientos,1.19675
+35-54,creció,1.19675
+35-54,industriales,1.19675
+35-54,influirá,1.19675
+35-54,levantaron,1.19675
+35-54,salió,1.19675
+35-54,subió,1.19675
+18-34,aghradan,1.19528
+18-34,amedia,1.19528
+18-34,areglada,1.19528
+18-34,decirme,1.19528
+18-34,esdas,1.19528
+18-34,mcujhhio,1.19528
+18-34,olvida,1.19528
+18-34,parientes,1.19528
+18-34,patas,1.19528
+18-34,rtpricado,1.19528
+18-34,secot,1.19528
+18-34,tosos,1.19528
+55 o+,extremista,1.18892
+55 o+,termino,1.18892
+35-54,imaginese,1.18826
+35-54,logro,1.18826
+35-54,recibio,1.18826
+35-54,terremoto,1.18826
+35-54,bandalismo,1.1786
+35-54,biuenos,1.1786
+35-54,porquer,1.1786
+35-54,estancada,1.17434
+35-54,falata,1.17434
+35-54,operante,1.17434
+35-54,pasan,1.17434
+35-54,sensacion,1.17434
+35-54,vio,1.17434
+55 o+,capacitada,1.16576
+55 o+,compromiso,1.16576
+35-54,facilita,1.1644
+35-54,quita,1.1644
+35-54,sabria,1.1644
+35-54,satisfactorio,1.1644
+55 o+,candidatos,1.1644
+55 o+,gustaban,1.1644
+55 o+,iniciativas,1.1585
+55 o+,ordenarla,1.1585
+18-34,calles,1.1575
+18-34,cree,1.1575
+18-34,dios,1.1575
+18-34,esperanza,1.1575
+18-34,pa,1.1575
+18-34,pùblica,1.1575
+18-34,siempr,1.1575
+18-34,tire,1.1575
+18-34,vial,1.1575
+35-54,quiero,1.1573
+35-54,actuar,1.15481
+55 o+,campo,1.14787
+55 o+,mejore,1.14787
+18-34,activacion,1.1431
+18-34,ordenar,1.1431
+18-34,partes,1.1431
+18-34,pasa,1.1431
+18-34,pórque,1.1431
+35-54,candidatura,1.1431
+35-54,generado,1.1431
+35-54,inplementando,1.1431
+35-54,inplementandoy,1.1431
+18-34,coincidencia,1.14092
+18-34,población,1.14092
+18-34,proyeccion,1.14092
+35-54,empezado,1.14049
+35-54,violencia,1.14049
+18-34,conocimiento,1.13715
+18-34,necesitaba,1.13715
+18-34,negativamente,1.13715
+18-34,pasitiva,1.13715
+55 o+,acepten,1.136
+55 o+,costando,1.136
+55 o+,integrar,1.136
+55 o+,mirado,1.136
+55 o+,normal,1.136
+55 o+,poblemas,1.136
+55 o+,punto,1.136
+55 o+,quieren,1.136
+55 o+,unificar,1.136
+55 o+,vista,1.136
+35-54,pareta,1.1289
+35-54,participa,1.1289
+18-34,enfoque,1.12412
+55 o+,cumple,1.1218
+55 o+,corregir,1.12035
+55 o+,endurecer,1.12035
+55 o+,falta,1.12035
+55 o+,justicia,1.12035
+55 o+,penas,1.12035
+35-54,preparacion,1.11492
+18-34,eleccion,1.11081
+55 o+,cunple,1.10578
+55 o+,cuota,1.10578
+55 o+,horizantal,1.10578
+55 o+,mantenido,1.10578
+35-54,aquedar,1.10507
+35-54,elegir,1.10507
+35-54,organizar,1.10507
+35-54,salir,1.10507
+55 o+,abran,1.10078
+55 o+,carpetas,1.10078
+55 o+,fuerza,1.10078
+55 o+,habran,1.10078
+55 o+,pidiendo,1.10078
+35-54,mezura,1.1005
+18-34,afuera,1.09944
+18-34,creciendo,1.09944
+18-34,cuentas,1.09944
+35-54,abrio,1.0934
+35-54,crecio,1.0934
+18-34,beneficio,1.09133
+35-54,depender,1.08653
+35-54,minuto,1.08653
+35-54,ñuble,1.08653
+55 o+,cargos,1.0863
+55 o+,confrontacionales,1.0863
+55 o+,diversos,1.0863
+55 o+,enfermedad,1.0863
+55 o+,esperar,1.0863
+55 o+,inentendible,1.0863
+55 o+,instruidas,1.0863
+55 o+,jubilada,1.0863
+55 o+,mantener,1.0863
+55 o+,ocupado,1.0863
+55 o+,pasa,1.0863
+55 o+,paz,1.0863
+55 o+,preparada,1.0863
+55 o+,preparadas,1.0863
+55 o+,preparado,1.0863
+55 o+,privadas,1.0863
+55 o+,publicas,1.0863
+55 o+,reparticiones,1.0863
+55 o+,rodea,1.0863
+55 o+,tratan,1.0863
+55 o+,ultimos,1.0863
+55 o+,vergonzoso,1.0863
+55 o+,poquito,1.0818
+35-54,abre,1.0792
+35-54,abren,1.0792
+35-54,aprobacion,1.0792
+35-54,bancos,1.0792
+35-54,complejas,1.0792
+35-54,limite,1.0792
+35-54,piñer,1.0792
+35-54,podia,1.0792
+35-54,puertas,1.0792
+55 o+,haigan,1.07854
+55 o+,logre,1.07854
+55 o+,odio,1.07854
+55 o+,avance,1.0721
+55 o+,cumpla,1.0721
+55 o+,disminuir,1.0721
+55 o+,pensando,1.0721
+18-34,fabrica,1.07093
+18-34,intenciones,1.07093
+18-34,proyecciones,1.07093
+18-34,ud,1.07093
+55 o+,alejado,1.06851
+55 o+,beneficio,1.06851
+55 o+,borra,1.06851
+55 o+,candidato,1.06851
+55 o+,ciudadanos,1.06851
+55 o+,compartir,1.06851
+55 o+,componiendo,1.06851
+55 o+,cuestion,1.06851
+55 o+,desventaja,1.06851
+55 o+,eficiente,1.06851
+55 o+,ejecucion,1.06851
+55 o+,estudiantes,1.06851
+55 o+,fallando,1.06851
+55 o+,resto,1.06851
+55 o+,sociedad,1.06851
+35-54,optimismo,1.065
+35-54,toma,1.065
+55 o+,espiritu,1.065
+55 o+,meses,1.065
+55 o+,producto,1.065
+55 o+,superacion,1.065
+55 o+,todabia,1.065
+35-54,calidad,1.0604
+35-54,camino,1.0604
+55 o+,bastate,1.05773
+55 o+,experincia,1.05773
+55 o+,hubio,1.05773
+18-34,cumple,1.05479
+18-34,esperar,1.05479
+18-34,estancados,1.05048
+55 o+,anteriior,1.05039
+55 o+,contraria,1.05039
+55 o+,mme,1.05039
+55 o+,ocurre,1.05039
+55 o+,intencionada,1.04879
+55 o+,abuso,1.04535
+55 o+,cinsero,1.04535
+55 o+,lincuencia,1.04535
+55 o+,llevando,1.04535
+55 o+,megusta,1.04535
+55 o+,menores,1.04535
+55 o+,continuador,1.0437
+55 o+,crecer,1.0437
+55 o+,denuevo,1.0437
+55 o+,percepcion,1.0437
+35-54,querer,1.04131
+35-54,quiebra,1.04131
+35-54,sostenedor,1.04131
+55 o+,aprobadas,1.03681
+55 o+,firmadas,1.03681
+55 o+,hacerr,1.03681
+55 o+,preocupada,1.03681
+35-54,contrario,1.0366
+35-54,deja,1.0366
+35-54,plan,1.0366
+35-54,pòlitico,1.0366
+35-54,segundacomo,1.0366
+55 o+,verda,1.0366
+18-34,agencia,1.03604
+18-34,fundamentamente,1.03604
+18-34,tomados,1.03604
+18-34,aestoy,1.03602
+18-34,apollado,1.03602
+18-34,aprovando,1.03602
+18-34,canbio,1.03602
+18-34,canbios,1.03602
+18-34,capitalismo,1.03602
+18-34,centre,1.03602
+18-34,comercio,1.03602
+18-34,gustando,1.03602
+18-34,ido,1.03602
+18-34,propuso,1.03602
+18-34,ubo,1.03602
+35-54,levanto,1.03006
+35-54,suelo,1.03006
+55 o+,comunista,1.0295
+55 o+,horror,1.0295
+55 o+,iguales,1.0295
+55 o+,popular,1.0295
+55 o+,vivi,1.0295
+55 o+,positivas,1.0251
+55 o+,trayectoria,1.0251
+35-54,consecuente,1.0224
+35-54,diciendo,1.0224
+55 o+,bono,1.02092
+55 o+,cumplirlo,1.02092
+55 o+,endeudado,1.02092
+55 o+,restableciendo,1.02092
+55 o+,resultar,1.02092
+55 o+,arreglo,1.02067
+55 o+,exceso,1.02067
+55 o+,ordeno,1.02067
+55 o+,proque,1.02067
+18-34,comparando,1.01845
+18-34,conlos,1.01845
+55 o+,charlatan,1.01633
+55 o+,adapta,1.01549
+55 o+,ase,1.01549
+55 o+,cristiana,1.01549
+55 o+,dinamico,1.01549
+55 o+,formada,1.01549
+55 o+,lectura,1.01549
+55 o+,nesta,1.01549
+55 o+,ordenadas,1.01549
+55 o+,siento,1.01549
+55 o+,trasnparencia,1.01549
+55 o+,aire,1.0153
+55 o+,algun,1.0153
+55 o+,apesar,1.0153
+55 o+,apocos,1.0153
+55 o+,bienes,1.0153
+55 o+,cumplido,1.0153
+55 o+,desaprueba,1.0153
+55 o+,estancado,1.0153
+55 o+,fondo,1.0153
+55 o+,habra,1.0153
+55 o+,luz,1.0153
+55 o+,quitados,1.0153
+55 o+,respeto,1.0153
+55 o+,valores,1.0153
+55 o+,vera,1.0153
+55 o+,empezamos,1.01462
+55 o+,moviendo,1.01462
+35-54,criminalidad,1.01432
+35-54,fe,1.01432
+35-54,mantener,1.01432
+35-54,mejorara,1.01432
+35-54,mostratado,1.01432
+35-54,reducir,1.01432
+35-54,transmite,1.01432
+35-54,ùltimo,1.01432
+35-54,unir,1.01432
+55 o+,ajenas,1.01056
+55 o+,fortaleciendola,1.01056
+55 o+,ocupara,1.01056
+55 o+,pienso,1.01056
+55 o+,platas,1.01056
+18-34,campaña,1.0082
+55 o+,corresponden,1.00686
+55 o+,desconocen,1.00686
+55 o+,destrozados,1.00686
+55 o+,desvinculacion,1.00686
+55 o+,etc,1.00686
+55 o+,generaciones,1.00686
+55 o+,odios,1.00686
+55 o+,pasadas,1.00686
+55 o+,protestas,1.00686
+55 o+,tomó,1.006
+35-54,bolivia,1.00411
+35-54,conflicto,1.00411
+55 o+,iba,1.00321
+55 o+,suban,1.00321
+55 o+,subir,1.00321
+55 o+,bajos,1.0011
+55 o+,basa,1.0011
+55 o+,cara,1.0011
+55 o+,claridad,1.0011
+55 o+,conflictivo,1.0011
+55 o+,cuesta,1.0011
+55 o+,ejecuta,1.0011
+55 o+,esperanzas,1.0011
+55 o+,estabamos,1.0011
+55 o+,gratis,1.0011
+55 o+,hechio,1.0011
+55 o+,intensiòn,1.0011
+55 o+,llegar,1.0011
+55 o+,mala,1.0011
+55 o+,minuto,1.0011
+55 o+,plantea,1.0011
+55 o+,proponga,1.0011
+55 o+,rapidas,1.0011
+55 o+,regala,1.0011
+55 o+,salir,1.0011
+55 o+,subiendo,1.0011
+55 o+,tendencias,1.0011
+55 o+,totalmente,1.0011
+55 o+,trabajops,1.0011
+55 o+,ven,1.0011
+55 o+,cuba,0.99438
+55 o+,gane,0.99438
+55 o+,vuelva,0.99438
+55 o+,bolivia,0.994
+55 o+,crecimiento,0.98979
+55 o+,estanca,0.98979
+55 o+,estanco,0.98979
+55 o+,impulsa,0.98979
+55 o+,porque4,0.98979
+35-54,llegar,0.98532
+55 o+,agrada,0.98502
+55 o+,ámbitos,0.98502
+55 o+,cero,0.98502
+55 o+,clima,0.98502
+55 o+,cumplio,0.98502
+55 o+,defiende,0.98502
+55 o+,demaciado,0.98502
+55 o+,distintos,0.98502
+55 o+,embarrada,0.98502
+55 o+,enroscado,0.98502
+55 o+,especificaemnte,0.98502
+55 o+,idiologia,0.98502
+55 o+,lograr,0.98502
+55 o+,ordenando,0.98502
+55 o+,primete,0.98502
+55 o+,prioriza,0.98502
+55 o+,pro,0.98502
+55 o+,quie,0.98502
+55 o+,riendas,0.98502
+55 o+,tome,0.98502
+55 o+,vision,0.98502
+55 o+,derechos,0.98256
+55 o+,haq,0.98256
+55 o+,maduro,0.98256
+55 o+,sistemaq,0.98256
+18-34,freno,0.976
+18-34,puesto,0.976
+55 o+,llegando,0.9727
+35-54,condiciones,0.96843
+35-54,costado,0.96843
+35-54,dificiltodo,0.96843
+35-54,mira,0.96843
+35-54,fecha,0.9629
+35-54,mire,0.9629
+35-54,vi,0.9629
+55 o+,alternativas,0.96202
+55 o+,andar,0.96202
+55 o+,argentina,0.96202
+55 o+,aventurarse,0.96202
+55 o+,debia,0.96202
+55 o+,desarrollos,0.96202
+55 o+,desorden,0.96202
+55 o+,fiscal,0.96202
+55 o+,forjr,0.96202
+55 o+,funcionando,0.96202
+55 o+,futuros,0.96202
+55 o+,hechando,0.96202
+55 o+,hiciera,0.96202
+55 o+,independencia,0.96202
+55 o+,industrias,0.96202
+55 o+,mejora,0.96202
+55 o+,mero,0.96202
+55 o+,obviamente,0.96202
+55 o+,ordenada,0.96202
+55 o+,ordenar,0.96202
+55 o+,pequeñas,0.96202
+55 o+,posilidades,0.96202
+55 o+,realizan,0.96202
+55 o+,grupos,0.96176
+18-34,as,0.95933
+18-34,reactivar,0.95933
+18-34,relativo,0.95933
+55 o+,ajuste,0.9569
+55 o+,cuudadana,0.9569
+55 o+,disposicion,0.9569
+55 o+,implantando,0.9569
+55 o+,impuestos,0.9569
+55 o+,pasando,0.9569
+18-34,adulto,0.95606
+18-34,enfocado,0.95606
+18-34,gustaba,0.95606
+18-34,infancia,0.95606
+18-34,lanoral,0.95606
+18-34,manejaba,0.95606
+18-34,reales,0.95606
+18-34,inversiòn,0.95514
+55 o+,antecedentes,0.9514
+55 o+,eligieron,0.9514
+55 o+,penales,0.9514
+35-54,tarbajo,0.94832
+55 o+,asuntos,0.94791
+55 o+,parche,0.94747
+55 o+,partes,0.94747
+55 o+,agricultor,0.94333
+55 o+,pequeño,0.94333
+18-34,aalla,0.93907
+18-34,aportan,0.93907
+18-34,baja,0.93907
+18-34,capacidad,0.93907
+18-34,cien,0.93907
+18-34,complementar,0.93907
+18-34,contaminacion,0.93907
+18-34,contrario,0.93907
+18-34,convenios,0.93907
+18-34,daños,0.93907
+18-34,deportar,0.93907
+18-34,fiscalizando,0.93907
+18-34,hablar,0.93907
+18-34,hechos,0.93907
+18-34,jornada,0.93907
+18-34,justificar,0.93907
+18-34,necesita,0.93907
+18-34,porciento,0.93907
+18-34,remuneracion,0.93907
+18-34,ventana,0.93907
+18-34,jodido,0.9372
+18-34,mayoria,0.9372
+18-34,notoriamente,0.9372
+18-34,obtener,0.9372
+18-34,ofrecio,0.9372
+18-34,vivienda,0.9372
+55 o+,adecuado,0.93703
+55 o+,aptecnancia,0.93703
+55 o+,asesores,0.93703
+55 o+,conceptos,0.93703
+55 o+,conosco,0.93703
+55 o+,deporte,0.93703
+55 o+,particular,0.93703
+35-54,2010,0.93622
+35-54,gention,0.93622
+35-54,opinion,0.93622
+35-54,vote,0.93622
+55 o+,encontre,0.92733
+18-34,toma,0.92314
+18-34,apolitico,0.92277
+18-34,comparte,0.92277
+18-34,constitucional,0.92277
+18-34,depende,0.92277
+18-34,ingresos,0.92277
+18-34,poloticvos,0.92277
+18-34,tales,0.92277
+55 o+,votamos,0.92015
+18-34,aumetado,0.91765
+18-34,balanciando,0.91765
+18-34,eol,0.91765
+55 o+,capital,0.9159
+55 o+,correctas,0.9159
+55 o+,cresca,0.9159
+55 o+,dedicado,0.9159
+55 o+,derecho,0.9159
+55 o+,echado,0.9159
+55 o+,estàn,0.9159
+55 o+,evaluar,0.9159
+55 o+,fabricas,0.9159
+55 o+,faltaba,0.9159
+55 o+,inclinacion,0.9159
+55 o+,inversiones,0.9159
+55 o+,manda,0.9159
+55 o+,meto,0.9159
+55 o+,noce,0.9159
+55 o+,norte,0.9159
+55 o+,ordenamiento,0.9159
+55 o+,ordenara,0.9159
+55 o+,partidario,0.9159
+55 o+,plata,0.9159
+55 o+,productividad,0.9159
+55 o+,realista,0.9159
+55 o+,socialismo,0.9159
+55 o+,socialistas,0.9159
+55 o+,sur,0.9159
+18-34,actividad,0.91572
+18-34,apoyan,0.91572
+18-34,aprecia,0.91572
+18-34,aspecto,0.91572
+18-34,ayudar,0.91572
+18-34,candidateo,0.91572
+18-34,centralizacion,0.91572
+18-34,centralizado,0.91572
+18-34,consecuente,0.91572
+18-34,escuchando,0.91572
+18-34,estabiladad,0.91572
+18-34,etiquetado,0.91572
+18-34,fiscales,0.91572
+18-34,graficos,0.91572
+18-34,impuesto,0.91572
+18-34,independientes,0.91572
+18-34,laclase,0.91572
+18-34,mantiene,0.91572
+18-34,mente,0.91572
+18-34,obgetar,0.91572
+18-34,opiniones,0.91572
+18-34,po,0.91572
+18-34,polictica,0.91572
+18-34,rel,0.91572
+18-34,ultima,0.91572
+35-54,absolutamente,0.91254
+35-54,autocritico,0.91254
+35-54,colaboradores,0.91254
+35-54,concreto,0.91254
+35-54,considerado,0.91254
+35-54,cosidero,0.91254
+35-54,critico,0.91254
+35-54,energico,0.91254
+35-54,fiscales,0.91254
+35-54,idonea,0.91254
+35-54,inviertiendo,0.91254
+35-54,isapres,0.91254
+35-54,medi,0.91254
+35-54,necesarios,0.91254
+35-54,ojala,0.91254
+35-54,punto,0.91254
+35-54,resultados,0.91254
+35-54,seguimiento,0.91254
+35-54,sociedad,0.91254
+35-54,tantos,0.91254
+35-54,transparentar,0.91254
+18-34,di,0.91156
+55 o+,asaltado,0.91136
+55 o+,hija,0.91136
+55 o+,humilde,0.91136
+55 o+,limpio,0.91136
+55 o+,pensamientos,0.91136
+55 o+,razones,0.91136
+55 o+,sacaban,0.91136
+35-54,casamiento,0.90712
+35-54,clse,0.90712
+35-54,esperando,0.90712
+35-54,llevan,0.90712
+35-54,medicina,0.90712
+35-54,micro,0.90712
+35-54,operando,0.90712
+55 o+,adelanto,0.9017
+55 o+,reguion,0.9017
+18-34,ataca,0.90101
+18-34,camnio,0.90101
+18-34,encunetro,0.90101
+18-34,ghrandes,0.90101
+18-34,qeno,0.90101
+18-34,campos,0.9009
+18-34,hartos,0.9009
+18-34,inversión,0.9009
+18-34,laborales,0.9009
+18-34,minera,0.9009
+18-34,votó,0.9009
+18-34,indeciso,0.90004
+18-34,sencillez,0.90004
+18-34,aporta,0.89945
+18-34,contenta,0.89945
+18-34,cuendo,0.89945
+18-34,faltaban,0.89945
+18-34,favorece,0.89945
+18-34,haria,0.89945
+18-34,mejoror,0.89945
+18-34,moral,0.89945
+18-34,siguiendo,0.89945
+18-34,vistos,0.89945
+18-34,voté,0.89945
+35-54,qe,0.8965
+35-54,atacando,0.89483
+35-54,enfoque,0.89483
+35-54,solides,0.89483
+18-34,encontre,0.8946
+18-34,emprendedora,0.89322
+18-34,facilidades,0.89322
+18-34,trate,0.89322
+18-34,adelantos,0.89245
+55 o+,apunta,0.89085
+55 o+,dios,0.89085
+55 o+,ejercicio,0.89085
+55 o+,funcionen,0.89085
+55 o+,individual,0.89085
+55 o+,industria,0.89085
+55 o+,intituciones,0.89085
+55 o+,libertad,0.89085
+55 o+,modernizacion,0.89085
+55 o+,responsable,0.89085
+55 o+,terminando,0.89085
+18-34,firme,0.8875
+35-54,ayudando,0.88622
+35-54,conforme,0.88622
+18-34,ambientalque,0.88487
+18-34,avances,0.88487
+18-34,contribucion,0.88487
+18-34,creen,0.88487
+18-34,dejando,0.88487
+18-34,desminullero,0.88487
+18-34,espero,0.88487
+18-34,facilmente,0.88487
+18-34,fondo,0.88487
+18-34,fuente,0.88487
+18-34,genera,0.88487
+18-34,infacia,0.88487
+18-34,legales,0.88487
+18-34,legislaciones,0.88487
+18-34,línea,0.88487
+18-34,manejar,0.88487
+18-34,mejoran,0.88487
+18-34,netamente,0.88487
+18-34,niveles,0.88487
+18-34,puestos,0.88487
+18-34,rebelion,0.88487
+18-34,reglamentos,0.88487
+18-34,sirve,0.88487
+18-34,trae,0.88487
+18-34,traves,0.88487
+18-34,voto,0.88487
+18-34,acuerdos,0.88413
+18-34,biban,0.88413
+18-34,busqueda,0.88413
+18-34,cosas,0.88413
+18-34,est,0.88413
+18-34,fecha,0.88413
+18-34,hacrer,0.88413
+18-34,transversales,0.88413
+18-34,uyncakmbip,0.88413
+55 o+,11,0.88124
+55 o+,apoyando,0.88124
+55 o+,parriba,0.88124
+55 o+,unico,0.88124
+18-34,administrativamente,0.8804
+18-34,equivocado,0.8804
+18-34,regularizado,0.8804
+18-34,ultimamente,0.8804
+18-34,iba,0.87978
+18-34,propuetsa,0.87978
+18-34,subido,0.87978
+18-34,hem,0.87822
+18-34,abre,0.87392
+18-34,alejada,0.87392
+18-34,desagrada,0.87392
+18-34,estubo,0.87392
+18-34,paresio,0.87392
+18-34,puertas,0.87392
+18-34,ves,0.87392
+18-34,actuar,0.87349
+18-34,frente,0.87349
+18-34,megusta,0.87349
+18-34,preferencia,0.87349
+18-34,rapido,0.87349
+18-34,sabria,0.8733
+35-54,activa,0.8733
+35-54,asesores,0.8733
+35-54,contingencia,0.8733
+35-54,continua,0.8733
+55 o+,depende,0.8733
+55 o+,estudiantiles,0.8733
+55 o+,favorece,0.8733
+55 o+,ingrese,0.8733
+55 o+,movimientos,0.8733
+55 o+,tomas,0.8733
+55 o+,vende,0.8733
+55 o+,violentos,0.8733
+18-34,beneficiada,0.87196
+18-34,fosis,0.87196
+18-34,irregularidades,0.87196
+18-34,madre,0.87196
+18-34,capaz,0.86988
+18-34,antiguo,0.8685
+18-34,araucania,0.8685
+35-54,dificilies,0.86688
+35-54,eficiente,0.86688
+35-54,inconvenientes,0.86688
+35-54,rapidos,0.86688
+35-54,tranparente,0.86688
+35-54,vuela,0.86688
+55 o+,moral,0.8662
+55 o+,ordenanod,0.8662
+55 o+,esfuerzo,0.86578
+18-34,enap,0.86557
+18-34,establecido,0.86557
+18-34,positivas,0.86557
+35-54,asta,0.86531
+35-54,avisto,0.86531
+35-54,estables,0.86531
+35-54,relevante,0.86531
+55 o+,colocanado,0.86324
+55 o+,misterio,0.86324
+55 o+,negativo,0.86324
+55 o+,plataforma,0.86324
+55 o+,regiones,0.86324
+55 o+,saliendo,0.86324
+55 o+,terreno,0.86324
+55 o+,trasporte,0.86324
+55 o+,uber,0.86324
+35-54,1er,0.86271
+35-54,actuando,0.86271
+35-54,consideracion,0.86271
+35-54,diversas,0.86271
+35-54,intentando,0.86271
+35-54,mini,0.86271
+35-54,moderacion,0.86271
+35-54,resueltos,0.86271
+35-54,simultaneo,0.86271
+35-54,atrncionrs,0.8591
+35-54,compenzar,0.8591
+35-54,discapacitados,0.8591
+35-54,enfermos,0.8591
+35-54,ninos,0.8591
+35-54,reciben,0.8591
+55 o+,cansado,0.8562
+55 o+,concertacion,0.8562
+55 o+,confiables,0.8562
+55 o+,descubierto,0.8562
+55 o+,harto,0.8562
+55 o+,hartos,0.8562
+55 o+,ladrones,0.8562
+55 o+,mire,0.8562
+55 o+,sinverguenzas,0.8562
+18-34,apollo,0.85444
+18-34,derechista,0.85444
+18-34,repunte,0.85444
+18-34,resultado,0.85444
+18-34,sinceramente,0.85444
+35-54,funcionan,0.85289
+55 o+,apoyamos,0.85214
+55 o+,bajas,0.85214
+55 o+,boche,0.85214
+55 o+,chata,0.85214
+55 o+,corazon,0.85214
+55 o+,decirle,0.85214
+55 o+,encia,0.85214
+55 o+,meta,0.85214
+55 o+,metas,0.85214
+55 o+,preocupo,0.85214
+55 o+,proceder,0.85214
+55 o+,suficiente,0.85214
+55 o+,vivir,0.85214
+18-34,estadisticas,0.852
+18-34,surgiendo,0.852
+35-54,astas,0.85108
+35-54,conductor,0.85108
+35-54,defiende,0.85108
+35-54,ecdho,0.85108
+35-54,popa,0.85108
+35-54,toro,0.85108
+35-54,viento,0.85108
+18-34,aborto,0.85085
+55 o+,agusto,0.85034
+55 o+,austeridad,0.85034
+55 o+,becas,0.85034
+55 o+,claras,0.85034
+55 o+,conduciondo,0.85034
+55 o+,derechista,0.85034
+55 o+,desarrolladas,0.85034
+55 o+,desicion,0.85034
+55 o+,estudio,0.85034
+55 o+,fe,0.85034
+55 o+,firmeza,0.85034
+55 o+,fortalecimiento,0.85034
+55 o+,gastos,0.85034
+55 o+,hospitalesla,0.85034
+55 o+,incertidumbre,0.85034
+55 o+,independientes,0.85034
+55 o+,linea,0.85034
+55 o+,màs,0.85034
+55 o+,notable,0.85034
+55 o+,obra,0.85034
+55 o+,onestidad,0.85034
+55 o+,pa,0.85034
+55 o+,partiendo,0.85034
+55 o+,pinochet,0.85034
+55 o+,populista,0.85034
+55 o+,profecianal,0.85034
+55 o+,repuntando,0.85034
+55 o+,situcacion,0.85034
+35-54,innovador,0.8449
+35-54,relajado,0.8449
+35-54,resuelto,0.8449
+18-34,afeta,0.84475
+18-34,hga,0.84475
+18-34,beneficiado,0.84098
+18-34,chilenos,0.84098
+18-34,crecer,0.84098
+18-34,permitido,0.84098
+18-34,amplio,0.84026
+18-34,errores,0.8378
+18-34,ojala,0.8378
+55 o+,anuncios,0.83387
+55 o+,reativacion,0.83387
+35-54,discursos,0.83262
+35-54,interiorisado,0.83262
+35-54,políticos,0.83262
+35-54,televisión,0.83262
+18-34,comparado,0.83218
+18-34,cunas,0.83218
+18-34,descontentas,0.83218
+18-34,límite,0.83218
+18-34,modificaciones,0.83218
+18-34,mujeres,0.83218
+18-34,niños,0.83218
+18-34,notorio,0.83218
+18-34,plantear,0.83218
+18-34,restricción,0.83218
+18-34,salas,0.83218
+18-34,sename,0.83218
+18-34,solucionando,0.83218
+18-34,talcahuano,0.83218
+55 o+,2020,0.83189
+55 o+,afinalizar,0.83189
+55 o+,ampliamente,0.83189
+55 o+,apuintan,0.83189
+55 o+,concretas,0.83189
+55 o+,conde,0.83189
+55 o+,desarrollo,0.83189
+55 o+,diente,0.83189
+55 o+,duro,0.83189
+55 o+,entes,0.83189
+55 o+,evaluaciones,0.83189
+55 o+,gratuidad,0.83189
+55 o+,hasy,0.83189
+55 o+,implementacion,0.83189
+55 o+,incando,0.83189
+55 o+,manteniendo,0.83189
+55 o+,muncipalidad,0.83189
+55 o+,pasi,0.83189
+55 o+,pertenecer,0.83189
+55 o+,prevee,0.83189
+55 o+,principales,0.83189
+55 o+,proceso,0.83189
+55 o+,rl,0.83189
+55 o+,trabaj,0.83189
+55 o+,tranquilo,0.83189
+18-34,acabo,0.83076
+18-34,finanzas,0.83076
+18-34,linea,0.83076
+18-34,realizando,0.83076
+18-34,regio,0.83076
+18-34,cosasç,0.8307
+18-34,escucho,0.8307
+18-34,ordenando,0.8307
+35-54,aport,0.8307
+35-54,colocando,0.82686
+35-54,deberian,0.82686
+35-54,mandar,0.82673
+35-54,policiales,0.82673
+55 o+,compaada,0.826
+55 o+,contaminacion,0.826
+55 o+,coyuntura,0.826
+55 o+,dejen,0.826
+55 o+,dificil,0.826
+55 o+,eficacez,0.826
+55 o+,enfrentar,0.826
+55 o+,entrar,0.826
+55 o+,equilibrio,0.826
+55 o+,país,0.826
+55 o+,política,0.826
+55 o+,privilegia,0.826
+55 o+,regulando,0.826
+55 o+,tiempos,0.826
+55 o+,trabajopara,0.826
+55 o+,usado,0.826
+18-34,actualidad,0.8236
+18-34,antecedentes,0.8236
+18-34,cabe,0.8236
+18-34,coherenciapor,0.8236
+18-34,correcto,0.8236
+18-34,decirlo,0.8236
+18-34,derecho,0.8236
+18-34,documentos,0.8236
+18-34,experimentando,0.8236
+18-34,gustos,0.8236
+18-34,habian,0.8236
+18-34,hechas,0.8236
+18-34,identidad,0.8236
+18-34,implementado,0.8236
+18-34,independientemente,0.8236
+18-34,ineficiente,0.8236
+18-34,llevo,0.8236
+18-34,operativos,0.8236
+18-34,penales,0.8236
+18-34,personal,0.8236
+18-34,posicion,0.8236
+18-34,raccionar,0.8236
+18-34,simultaneos,0.8236
+18-34,terminos,0.8236
+18-34,vivìo,0.8236
+35-54,importan,0.8236
+18-34,condiciones,0.82279
+18-34,necesario,0.82279
+18-34,reducir,0.82279
+18-34,colaborando,0.81702
+18-34,organizacion,0.81702
+18-34,carnet,0.8165
+35-54,metiendo,0.81641
+35-54,postura,0.81641
+35-54,actual,0.81412
+35-54,agradan,0.81412
+35-54,conectividad,0.81412
+35-54,continuida,0.81412
+35-54,enfacis,0.81412
+35-54,importa,0.81412
+35-54,micheol,0.81412
+35-54,modificando,0.81412
+35-54,notando,0.81412
+35-54,planes,0.81412
+35-54,porqre,0.81412
+55 o+,asombra,0.8134
+55 o+,cantidad,0.8134
+55 o+,capaz,0.8134
+55 o+,complejos,0.8134
+55 o+,facilidades,0.8134
+55 o+,problema,0.8134
+55 o+,resolver,0.8134
+55 o+,solucionar,0.8134
+55 o+,actuando,0.81339
+55 o+,apertura,0.81339
+55 o+,armonia,0.81339
+55 o+,austero,0.81339
+55 o+,causa,0.81339
+55 o+,clara,0.81339
+55 o+,gastos.mejor,0.81339
+55 o+,haciedo,0.81339
+55 o+,importantes,0.81339
+55 o+,llama,0.81339
+55 o+,mandato,0.81339
+55 o+,mapuche,0.81339
+55 o+,mejopr,0.81339
+55 o+,notar,0.81339
+55 o+,opcion,0.81339
+55 o+,personales,0.81339
+55 o+,podido,0.81339
+55 o+,porqe,0.81339
+55 o+,preo,0.81339
+55 o+,qiuedo,0.81339
+55 o+,rato,0.81339
+55 o+,solucion,0.81339
+55 o+,tirar,0.81339
+55 o+,trando,0.81339
+55 o+,tratado,0.81339
+35-54,abanderizado,0.81294
+35-54,distador,0.81294
+35-54,humilde,0.81294
+35-54,adeministracion,0.81041
+35-54,transpaene,0.81041
+18-34,inconveniente,0.8094
+18-34,paia,0.80867
+18-34,incrementado,0.80798
+35-54,eficacia,0.80721
+35-54,organismo,0.80721
+35-54,poublico,0.80721
+35-54,publicos,0.80721
+35-54,servicios,0.80721
+18-34,daño,0.8047
+18-34,deberia,0.8047
+18-34,dejo,0.8047
+18-34,derrepente,0.8047
+18-34,discupe,0.8047
+18-34,entrar,0.8047
+18-34,expresion,0.8047
+18-34,exranjera,0.8047
+18-34,señora,0.8047
+18-34,valora,0.8047
+18-34,vieja,0.8047
+18-34,viene,0.8047
+18-34,votando,0.8047
+35-54,gracias,0.8023
+35-54,obtuve,0.8023
+35-54,chicos,0.79971
+35-54,posibilidades,0.79971
+35-54,vision,0.79971
+55 o+,comunismo,0.79912
+35-54,critique,0.7952
+35-54,dios,0.7952
+35-54,grande,0.7952
+35-54,imporatante,0.7952
+35-54,nombra,0.7952
+35-54,viiviendo,0.7952
+55 o+,brillante,0.79421
+55 o+,don,0.79421
+55 o+,mando,0.79421
+55 o+,trabajolico,0.79421
+35-54,frutos,0.79319
+35-54,intenciones,0.79319
+35-54,ven,0.79319
+55 o+,atacan,0.79012
+55 o+,deficiencia,0.79012
+55 o+,envidiosos,0.79012
+55 o+,posicion,0.79012
+55 o+,sebastian,0.79012
+55 o+,titrado,0.79012
+55 o+,trado,0.79012
+55 o+,tranquila,0.79012
+55 o+,devieran,0.78994
+55 o+,mejores,0.78994
+55 o+,resultados,0.78994
+18-34,compliendo,0.78823
+35-54,aula,0.7881
+35-54,encontre,0.7881
+35-54,interezante,0.7881
+35-54,pensar,0.7881
+55 o+,polarizado,0.7881
+55 o+,vance,0.7881
+18-34,asiendo,0.7818
+18-34,crecido,0.781
+18-34,importante,0.781
+35-54,nuevamente,0.78086
+35-54,exigiendo,0.7739
+35-54,expulsando,0.7739
+35-54,llegando,0.7739
+35-54,anbito,0.77312
+35-54,comentarios,0.77312
+35-54,competente,0.77312
+35-54,condicion,0.77312
+35-54,cree,0.77312
+35-54,excepciones,0.77312
+35-54,gestor,0.77312
+35-54,haciedo,0.77312
+35-54,identifico,0.77312
+35-54,inapropiados,0.77312
+35-54,ordenado,0.77312
+35-54,parce,0.77312
+35-54,preocupaba,0.77312
+35-54,relativamente,0.77312
+35-54,sirve,0.77312
+35-54,socialismo,0.77312
+35-54,tecnicas,0.77312
+55 o+,arta,0.77271
+55 o+,campesina,0.77271
+55 o+,campesinado,0.77271
+55 o+,comunes,0.77271
+55 o+,dominga,0.77271
+55 o+,dura,0.77271
+55 o+,enfocadas,0.77271
+55 o+,entrado,0.77271
+55 o+,generar,0.77271
+55 o+,llamaban,0.77271
+55 o+,ponerse,0.77271
+55 o+,queria,0.77271
+55 o+,resulta,0.77271
+55 o+,sabido,0.77271
+35-54,apuntado,0.7726
+35-54,encuestas,0.7726
+35-54,finalmente,0.7726
+35-54,cumprido,0.77217
+35-54,to,0.77217
+18-34,elegimos,0.76966
+18-34,tercero,0.76966
+55 o+,nota,0.76578
+55 o+,pàis,0.76578
+55 o+,portando,0.76578
+55 o+,privada,0.76578
+55 o+,reactivando,0.76578
+55 o+,tranqlo,0.76578
+18-34,adecuadas,0.76338
+18-34,demandado,0.76338
+18-34,iniciativa,0.76338
+18-34,legislativas,0.76338
+18-34,comparo,0.76203
+18-34,conduce,0.76203
+18-34,ejercer,0.76203
+18-34,esfera,0.76203
+18-34,favor,0.76203
+18-34,gustarìa,0.76203
+18-34,incremento,0.76203
+18-34,observar,0.76203
+18-34,polìtica,0.76203
+18-34,activado,0.7597
+18-34,admisrtrar,0.7597
+18-34,alegatos,0.7597
+18-34,avala,0.7597
+18-34,comunicacion,0.7597
+18-34,correctas,0.7597
+18-34,cremimiento,0.7597
+18-34,cualquiera,0.7597
+18-34,curtural,0.7597
+18-34,dedicado,0.7597
+18-34,defensa,0.7597
+18-34,empeabilidad,0.7597
+18-34,emvuelto,0.7597
+18-34,enpresariales,0.7597
+18-34,escandalos,0.7597
+18-34,estudiantes,0.7597
+18-34,estudiar,0.7597
+18-34,laconfianza,0.7597
+18-34,levado,0.7597
+18-34,libertad,0.7597
+18-34,negocios,0.7597
+18-34,opinionpublica,0.7597
+18-34,organizo,0.7597
+18-34,parecer,0.7597
+18-34,políticas,0.7597
+18-34,privada,0.7597
+18-34,recuperacion,0.7597
+18-34,sioridubre,0.7597
+18-34,super,0.7597
+18-34,teniamos,0.7597
+18-34,universidades,0.7597
+35-54,apatico,0.7597
+35-54,apoyar,0.7597
+35-54,aspecto,0.7597
+35-54,boga,0.7597
+35-54,causas,0.7597
+35-54,com9o,0.7597
+35-54,conla,0.7597
+35-54,cristiano,0.7597
+35-54,dejar,0.7597
+35-54,dejaron,0.7597
+35-54,desvalida,0.7597
+35-54,esperabamos,0.7597
+35-54,famila,0.7597
+35-54,fomra,0.7597
+35-54,gustra,0.7597
+35-54,havienmdo,0.7597
+35-54,inconveniente,0.7597
+35-54,l0,0.7597
+35-54,llendo,0.7597
+35-54,mejoramiento,0.7597
+35-54,moviendo,0.7597
+35-54,porv,0.7597
+35-54,puso,0.7597
+35-54,quisiera,0.7597
+35-54,refleja,0.7597
+35-54,reguló,0.7597
+35-54,seguir,0.7597
+35-54,sepuede,0.7597
+35-54,stop,0.7597
+35-54,transparentes,0.7597
+35-54,union,0.7597
+35-54,adultos,0.75936
+35-54,compromiso,0.75936
+35-54,menores,0.75936
+55 o+,corriente,0.75558
+55 o+,dineros,0.75558
+55 o+,estadista,0.75558
+35-54,abriendo,0.75358
+35-54,antiguas,0.75358
+35-54,asocuados,0.75358
+35-54,avanza,0.75358
+35-54,benefcios,0.75358
+35-54,cargandolo,0.75358
+35-54,casas,0.75358
+35-54,comparación,0.75358
+35-54,dirección,0.75358
+35-54,esdtabamos,0.75358
+35-54,evidentes,0.75358
+35-54,fomentando,0.75358
+35-54,gibierno,0.75358
+35-54,guiar,0.75358
+35-54,guio,0.75358
+35-54,habiamos,0.75358
+35-54,inmediatas,0.75358
+35-54,interesa,0.75358
+35-54,logra,0.75358
+35-54,logrande,0.75358
+35-54,mese,0.75358
+35-54,micleje,0.75358
+35-54,mineria,0.75358
+35-54,monton,0.75358
+35-54,ne,0.75358
+35-54,objetivos,0.75358
+35-54,palpa,0.75358
+35-54,pàsado,0.75358
+35-54,pasando,0.75358
+35-54,pide,0.75358
+35-54,pooc,0.75358
+35-54,recibiendo,0.75358
+35-54,recuperando,0.75358
+35-54,rojo,0.75358
+35-54,sacarlos,0.75358
+35-54,saliamos,0.75358
+35-54,seguio,0.75358
+35-54,serio,0.75358
+35-54,suben,0.75358
+35-54,traves,0.75358
+35-54,trayectoria,0.75358
+35-54,ultuim,0.75358
+35-54,vemos,0.75358
+35-54,administrada,0.7526
+55 o+,chileno,0.7526
+55 o+,entrando,0.7526
+55 o+,escuchado,0.7526
+55 o+,existian,0.7526
+55 o+,fanatico,0.7526
+55 o+,franco,0.7526
+55 o+,gira,0.7526
+55 o+,negocios,0.7526
+55 o+,noticias,0.7526
+55 o+,tantos,0.7526
+55 o+,tendencia,0.7526
+18-34,abria,0.75051
+35-54,embarrada,0.75019
+35-54,regula,0.75019
+35-54,surgiendo,0.75019
+35-54,todn,0.75019
+35-54,funciona,0.74954
+35-54,comparte,0.74947
+35-54,extructuras,0.74947
+35-54,hechas,0.74947
+35-54,legislacion,0.74947
+18-34,descontento,0.7455
+18-34,desigualdad,0.7455
+18-34,impulso,0.7455
+18-34,invierten,0.7455
+18-34,macro,0.7455
+18-34,negro,0.7455
+18-34,personalmente,0.7455
+18-34,publicos,0.7455
+18-34,pueblo,0.7455
+18-34,robado,0.7455
+18-34,rojo,0.7455
+18-34,transacciones,0.7455
+35-54,apoyarlo,0.7455
+35-54,confio,0.7455
+35-54,contaminacion,0.7455
+35-54,desubicado,0.7455
+35-54,equivoco,0.7455
+35-54,lados,0.7455
+35-54,lamentablemente,0.7455
+35-54,palabreria,0.7455
+35-54,preguntando,0.7455
+35-54,queria,0.7455
+35-54,quintero,0.7455
+35-54,reprensenta,0.7455
+35-54,salio,0.7455
+35-54,venir,0.7455
+35-54,vino,0.7455
+35-54,vivo,0.7455
+18-34,recuerda,0.74405
+18-34,afecta,0.74277
+18-34,altos,0.74277
+18-34,ambiente,0.74277
+18-34,ami,0.74277
+18-34,anteriior,0.74277
+18-34,aumentar,0.74277
+18-34,automaticamente,0.74277
+18-34,buscando,0.74277
+18-34,buscar,0.74277
+18-34,cae,0.74277
+18-34,cvisto,0.74277
+18-34,desemvuelvo,0.74277
+18-34,directamente,0.74277
+18-34,esten,0.74277
+18-34,externa,0.74277
+18-34,fomento,0.74277
+18-34,funcionan,0.74277
+18-34,grupo,0.74277
+18-34,idea,0.74277
+18-34,indices,0.74277
+18-34,interna,0.74277
+18-34,inyeccion,0.74277
+18-34,mantenido,0.74277
+18-34,opcion,0.74277
+18-34,planteado,0.74277
+18-34,razones,0.74277
+18-34,rebundancia,0.74277
+18-34,reemplaza,0.74277
+18-34,reflejado,0.74277
+18-34,sensacion,0.74277
+18-34,ugual,0.74277
+18-34,ultimos,0.74277
+18-34,valga,0.74277
+18-34,visionaria,0.74277
+18-34,territorial,0.74036
+35-54,inevrsiones,0.74034
+35-54,aprobaciones,0.7384
+35-54,dificiles,0.7384
+35-54,observadop,0.7384
+35-54,presentado,0.7384
+18-34,desarollar,0.73772
+18-34,intentado,0.73772
+18-34,mepleeo,0.73772
+18-34,orientadas,0.73772
+18-34,posibilidad,0.73772
+18-34,queimplemento,0.73772
+35-54,acercado,0.73685
+35-54,acercamiento,0.73685
+35-54,animal,0.73685
+35-54,arreglado,0.73685
+35-54,avanzado,0.73685
+35-54,camiseta,0.73685
+35-54,carta,0.73685
+35-54,claridad,0.73685
+35-54,corrupcion,0.73685
+35-54,culto,0.73685
+35-54,decirlo,0.73685
+35-54,efectividad,0.73685
+35-54,encuentra,0.73685
+35-54,futurista,0.73685
+35-54,ideologia,0.73685
+35-54,impartir,0.73685
+35-54,ira,0.73685
+35-54,justicia,0.73685
+35-54,mejorarse,0.73685
+35-54,metido,0.73685
+35-54,municipio,0.73685
+35-54,necesitan,0.73685
+35-54,partes,0.73685
+35-54,practica,0.73685
+35-54,principios,0.73685
+35-54,profundos,0.73685
+35-54,quie,0.73685
+35-54,rapida,0.73685
+35-54,rapidez,0.73685
+35-54,reconoce,0.73685
+35-54,refiere,0.73685
+35-54,sentir,0.73685
+35-54,terrible,0.73685
+35-54,negociacion,0.73623
+35-54,pensado,0.73623
+35-54,activacion,0.73531
+35-54,cumpliendo,0.73531
+35-54,agente,0.73185
+35-54,apoyanda,0.73185
+35-54,reordenando,0.73185
+18-34,alimentado,0.7313
+18-34,dificil,0.7313
+18-34,avance,0.72971
+18-34,bono,0.72971
+18-34,dejar,0.72971
+18-34,emprleadores,0.72971
+18-34,mayorias,0.72971
+18-34,minorias,0.72971
+18-34,motivar,0.72971
+18-34,normal,0.72971
+18-34,parametro,0.72971
+18-34,real,0.72971
+18-34,restablecido,0.72971
+18-34,trabajen,0.72971
+35-54,desarollo,0.72924
+35-54,via,0.72924
+35-54,progresos,0.72637
+35-54,siguio,0.72637
+18-34,funciona,0.72525
+35-54,comparto,0.72436
+35-54,principio,0.72436
+35-54,100,0.7242
+35-54,quisieramos,0.7242
+35-54,mantenemos,0.72373
+35-54,normal,0.72373
+18-34,atractivo,0.72133
+18-34,detenido,0.72133
+18-34,atentados,0.7171
+18-34,contecto,0.7171
+18-34,criticas,0.7171
+18-34,cumpliendo,0.7171
+18-34,democraticamente,0.7171
+18-34,elejido,0.7171
+18-34,inprementando,0.7171
+18-34,opocicion,0.7171
+18-34,permite,0.7171
+18-34,senado,0.7171
+18-34,terroristas,0.7171
+18-34,vivimos,0.7171
+18-34,zona,0.7171
+35-54,desestabilizado,0.7171
+35-54,emprender,0.7171
+35-54,facilidades,0.7171
+35-54,presentarse,0.7171
+35-54,quedo,0.7171
+35-54,siente,0.7171
+18-34,benefician,0.7125
+18-34,sectores,0.7125
+18-34,apoco,0.71
+35-54,20,0.70692
+35-54,25,0.70692
+35-54,arreglar,0.70692
+35-54,casado,0.70692
+35-54,esposa,0.70692
+35-54,obtuvo,0.70692
+35-54,subsidio,0.70692
+35-54,apesar,0.70624
+35-54,consensos,0.70624
+35-54,dialogar,0.70624
+35-54,porke,0.70624
+35-54,principalmente,0.70624
+35-54,trabas,0.70624
+18-34,abordan,0.70566
+18-34,puntos,0.70566
+18-34,abajo,0.7056
+18-34,asunto,0.7056
+18-34,constantes,0.7056
+18-34,cabolo,0.70415
+18-34,caminio,0.70415
+18-34,cartera,0.70415
+18-34,cercania,0.70415
+18-34,contingencia,0.70415
+18-34,conviccion,0.70415
+18-34,cumpledohasta,0.70415
+18-34,cumplimiento,0.70415
+18-34,dedicacion,0.70415
+18-34,disminuir,0.70415
+18-34,eficientes,0.70415
+18-34,gasto,0.70415
+18-34,gustan,0.70415
+18-34,historia,0.70415
+18-34,intentando,0.70415
+18-34,llebado,0.70415
+18-34,meja,0.70415
+18-34,programas,0.70415
+18-34,reajuste,0.70415
+18-34,socialista,0.70415
+18-34,subio,0.70415
+18-34,transporte,0.70415
+35-54,dialogo,0.70402
+35-54,duro,0.70402
+35-54,alcanzar,0.7029
+35-54,altiro,0.7029
+35-54,anotado,0.7029
+35-54,anti,0.7029
+35-54,aprobarlo,0.7029
+35-54,arrastran,0.7029
+35-54,aumenta,0.7029
+35-54,azules,0.7029
+35-54,combatir,0.7029
+35-54,contraresta,0.7029
+35-54,crisis,0.7029
+35-54,cumplirse,0.7029
+35-54,dando,0.7029
+35-54,deberia,0.7029
+35-54,detener,0.7029
+35-54,dificil,0.7029
+35-54,disminucion,0.7029
+35-54,estatal,0.7029
+35-54,fomenta,0.7029
+35-54,fuerza,0.7029
+35-54,gastan,0.7029
+35-54,grupos,0.7029
+35-54,hartas,0.7029
+35-54,heber,0.7029
+35-54,imposible,0.7029
+35-54,impuestos,0.7029
+35-54,incorporado,0.7029
+35-54,incremento,0.7029
+35-54,llamarlo,0.7029
+35-54,macro,0.7029
+35-54,mejoramiente,0.7029
+35-54,numeros,0.7029
+35-54,oferta,0.7029
+35-54,permitiria,0.7029
+35-54,pobreza,0.7029
+35-54,preocupaciòn,0.7029
+35-54,proyecciones,0.7029
+35-54,raro,0.7029
+35-54,redadas,0.7029
+35-54,relagan,0.7029
+35-54,reseciòn,0.7029
+35-54,solucion,0.7029
+35-54,superarà,0.7029
+35-54,suponemos,0.7029
+35-54,tierra,0.7029
+35-54,tirarlo,0.7029
+35-54,traido,0.7029
+35-54,trasparencia,0.7029
+35-54,violentos,0.7029
+35-54,vistos,0.7029
+18-34,hecha,0.7026
+18-34,palabra,0.7026
+35-54,do,0.70028
+35-54,manejan,0.70028
+35-54,pareccido,0.70028
+35-54,pediria,0.70028
+35-54,ponga,0.70028
+35-54,robo,0.70028
+35-54,solvencia,0.70028
+35-54,subida,0.70028
+35-54,ultimamente,0.70028
+35-54,apoyando,0.70006
+18-34,peruanos,0.69926
+18-34,sacando,0.69926
+35-54,economista,0.69756
+35-54,énfasis,0.69756
+35-54,necesitaba,0.69756
+35-54,cerradas,0.69722
+35-54,dependamos,0.69722
+35-54,esfuerzo,0.69722
+35-54,estado.que,0.69722
+35-54,eticos,0.69722
+35-54,nacionalista,0.69722
+35-54,requisitos,0.69722
+35-54,surga,0.69722
+35-54,academica,0.69435
+35-54,aceptable,0.69435
+35-54,alcance,0.69435
+35-54,aporte,0.69435
+35-54,apoyado,0.69435
+35-54,comercial,0.69435
+35-54,compañeros,0.69435
+35-54,conocecimiento,0.69435
+35-54,dandole,0.69435
+35-54,espero,0.69435
+35-54,excperiensia,0.69435
+35-54,genere,0.69435
+35-54,gerente,0.69435
+35-54,humanitario,0.69435
+35-54,ideal,0.69435
+35-54,mejorr,0.69435
+35-54,modificaciones,0.69435
+35-54,neutro,0.69435
+35-54,organizacion,0.69435
+35-54,preparaciòn,0.69435
+35-54,prioridad,0.69435
+35-54,publica,0.69435
+35-54,regulacion,0.69435
+35-54,señor,0.69435
+35-54,tirar,0.69435
+35-54,vela,0.69435
+35-54,generarado,0.6927
+35-54,positivo,0.6927
+35-54,claras,0.6887
+35-54,enfasis,0.6887
+35-54,profesionalismo,0.6887
+18-34,commemoracion,0.68869
+18-34,gobernabilidad,0.68869
+18-34,homosexuales,0.68869
+18-34,interes,0.68869
+18-34,pluralidad,0.68869
+18-34,conflicto,0.68722
+18-34,intelectual,0.68722
+18-34,tecnologico,0.68722
+35-54,arregla,0.68566
+35-54,autorizacion,0.68566
+35-54,capacidades,0.68566
+35-54,conducion,0.68566
+35-54,entiendo,0.68566
+35-54,escolaridad,0.68566
+35-54,hija,0.68566
+35-54,negocio,0.68566
+35-54,uniformada,0.68566
+35-54,directa,0.68498
+35-54,presente,0.68498
+18-34,fomenta,0.68401
+18-34,plata,0.68401
+35-54,apoyan,0.68256
+35-54,digamos,0.68256
+35-54,gustar,0.68256
+35-54,implementando,0.68256
+35-54,invierten,0.68256
+35-54,mundo,0.68256
+35-54,normalmente,0.68256
+35-54,partidario,0.68256
+35-54,practicamente,0.68256
+35-54,rasonables,0.68256
+35-54,razones,0.68256
+35-54,bastantes,0.68199
+35-54,inconclusas,0.68199
+35-54,agricola,0.6816
+35-54,aportes,0.6816
+35-54,di,0.6816
+35-54,enpesado,0.6816
+35-54,gana,0.6816
+35-54,ganamos,0.6816
+35-54,ganando,0.6816
+35-54,impulsa,0.6816
+35-54,local,0.6816
+35-54,mediano,0.6816
+35-54,nececidades,0.6816
+35-54,pendientes,0.6816
+35-54,plazo,0.6816
+35-54,porcentaje,0.6816
+35-54,protestas,0.6816
+35-54,quinientos,0.6816
+35-54,subirlo,0.6816
+35-54,tenemeos,0.6816
+35-54,vacio,0.6816
+35-54,apruba,0.6745
+18-34,acertuvi,0.67357
+18-34,bajar,0.67357
+18-34,competente,0.67357
+18-34,emprender,0.67357
+18-34,gabinete,0.67357
+18-34,ideologias,0.67357
+18-34,leda,0.67357
+18-34,manjea,0.67357
+18-34,presentan,0.67357
+18-34,presupuesto,0.67357
+18-34,puesta,0.67357
+18-34,razon,0.67357
+18-34,resivido,0.67357
+18-34,respetan,0.67357
+18-34,venezolanos,0.67357
+18-34,venifibios,0.67357
+18-34,comuna,0.67101
+18-34,profesores,0.67101
+35-54,agrada,0.6674
+35-54,agradable,0.6674
+35-54,boicotiando,0.6674
+35-54,coherente,0.6674
+35-54,conducciòn,0.6674
+35-54,congreso,0.6674
+35-54,desarrolo,0.6674
+35-54,ecaminado,0.6674
+35-54,educcacional3,0.6674
+35-54,escucha,0.6674
+35-54,estàn,0.6674
+35-54,feling,0.6674
+35-54,momneto,0.6674
+35-54,opinar,0.6674
+35-54,personalmente,0.6674
+35-54,peso,0.6674
+35-54,tiodo,0.6674
+35-54,concretas,0.66342
+35-54,formalidad,0.66342
+35-54,mando,0.66342
+35-54,meva,0.66342
+35-54,regalar,0.66342
+35-54,sigar,0.66342
+35-54,viene,0.66342
+35-54,matrimonio,0.65988
+35-54,sexo,0.65988
+18-34,desacuerdo,0.65923
+18-34,motivo,0.65923
+18-34,ningùn,0.65923
+35-54,adelantos,0.65821
+35-54,amyor,0.65588
+35-54,exteriores,0.65588
+35-54,inclino,0.65588
+35-54,anticomunista,0.65447
+35-54,bonanza,0.65447
+35-54,clara,0.65447
+35-54,demonio,0.65447
+35-54,ende,0.65447
+35-54,escojerv,0.65447
+35-54,europa,0.65447
+35-54,financiamiento,0.65447
+35-54,financiero,0.65447
+35-54,hayo,0.65447
+35-54,internacionales,0.65447
+35-54,mantenerse,0.65447
+35-54,michel,0.65447
+35-54,particular,0.65447
+35-54,pensando,0.65447
+35-54,poiticas,0.65447
+35-54,principales,0.65447
+35-54,setado,0.65447
+35-54,intenidad,0.64561
+35-54,labores,0.64546
+35-54,monetaria,0.64181
+35-54,save,0.64181
+55 o+,pararla,0.64079
+18-34,compatriotas,0.63942
+18-34,disminuyendo,0.63942
+18-34,duro,0.63942
+18-34,haciendole,0.63942
+18-34,regiones,0.63942
+18-34,robos,0.63942
+18-34,vayan,0.63942
+35-54,colocado,0.63574
+35-54,crebilidad,0.63574
+35-54,mejoeas,0.63574
+35-54,sustentar,0.63574
+35-54,informandose,0.63455
+35-54,ministerios,0.63303
+18-34,tantos,0.6319
+35-54,acontecer,0.62605
+35-54,actividades,0.62605
+35-54,alternativas,0.62605
+35-54,amnistia,0.62605
+35-54,aprovacion,0.62605
+35-54,concuerdo,0.62605
+35-54,desmedida,0.62605
+35-54,dialoga,0.62605
+35-54,diario,0.62605
+35-54,encanta,0.62605
+35-54,entro,0.62605
+35-54,escapando,0.62605
+35-54,estudiar,0.62605
+35-54,factores,0.62605
+35-54,favorecer,0.62605
+35-54,femicidios,0.62605
+35-54,hambitos,0.62605
+35-54,identidad,0.62605
+35-54,insrtitutos,0.62605
+35-54,inversión,0.62605
+35-54,inviewrte,0.62605
+35-54,mayoria,0.62605
+35-54,mejoreado,0.62605
+35-54,necesidades,0.62605
+35-54,noce,0.62605
+35-54,parecer,0.62605
+35-54,percepción,0.62605
+35-54,resiente,0.62605
+35-54,responsable,0.62605
+35-54,resuelve,0.62605
+35-54,rtambien,0.62605
+35-54,sabiduria,0.62605
+35-54,seria,0.62605
+35-54,solida,0.62605
+35-54,tapando,0.62605
+35-54,transpartencia,0.62605
+18-34,ciudad,0.6257
+18-34,trato,0.6257
+35-54,deacuerdo,0.61246
+35-54,exigir,0.61227
+35-54,freno,0.61227
+35-54,irregular,0.61227
+35-54,paro,0.61227
+35-54,alla,0.60811
+35-54,andube,0.60811
+35-54,compromertido,0.60811
+35-54,emn,0.60811
+35-54,entender,0.60811
+35-54,gotera,0.60811
+35-54,hizpo,0.60811
+35-54,igua,0.60811
+35-54,invercionistas,0.60811
+35-54,motivo,0.60811
+35-54,nuca,0.60811
+35-54,puesto,0.60811
+35-54,sur,0.60811
+35-54,temuco,0.60811
+35-54,tube,0.60811
+35-54,crear,0.6035
+35-54,dirigiendo,0.6035
+35-54,fundamental,0.6035
+35-54,integral,0.6035
+35-54,involucra,0.6035
+35-54,mision,0.6035
+35-54,pasarle,0.6035
+35-54,remplazar,0.6035
+35-54,termine,0.6035
+35-54,estalidas,0.59792
+55 o+,viendo,0.5962
+35-54,anual,0.59427
+35-54,hacerse,0.59427
+35-54,opcion,0.59427
+35-54,proceso,0.59427
+35-54,recuperar,0.59427
+35-54,sencilla,0.59427
+18-34,tien,0.58511
+35-54,actividad,0.58506
+35-54,distintas,0.58506
+35-54,frente,0.58506
+35-54,impulso,0.58506
+35-54,salarial,0.58506
+35-54,tratar,0.58506
+35-54,votado,0.58457
+35-54,agenda,0.58154
+35-54,bajar,0.58154
+35-54,deber,0.58154
+35-54,funcione,0.58154
+35-54,habiento,0.58154
+35-54,inyenciones,0.58154
+35-54,medida,0.58154
+35-54,restablecer,0.58154
+35-54,resto,0.58154
+35-54,valorica,0.58154
+35-54,imgarcion,0.56847
+35-54,principipalmente,0.56847
+35-54,pro,0.56847
+35-54,creacion,0.55629
+35-54,funcionarios,0.55131
+55 o+,aprueban,0.5492
+55 o+,mujer,0.5492
+55 o+,televisiòn,0.5492
+55 o+,unànime,0.5492
+18-34,creacion,0.48225
