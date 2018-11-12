@@ -400,7 +400,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
       .words(data)
       .rotate(function(d) { return 0; })
       .font('monospace')
-      .fontSize(function(d,i) { return (d.n)*0.3; })
+      .fontSize(function(d,i) { return (d.n)*0.7; })
       .text(function(d) { return d.word; })
       .spiral("archimedean")
       .on("end", draw)
@@ -441,7 +441,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
         .style("font-size", function(d) { return d.size + "px"; })
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
-            var paringObject = data.filter(function(obj) { return obj.word === d.text});
+            var paringObject = data.filter(function(obj) { return obj.edad === d.text});
             return color(paringObject[0].edad); 
         })
         .attr("text-anchor", "middle")
