@@ -390,9 +390,9 @@ var margin = {top: 20, right: 20, bottom: 40, left: 20},
 
 d3v3.csv("04_words_desaprueba_edad.csv", function(error, data) {
 
-  var categories = d3v3.keys(d3v3.nest().key(function(d) { return d.aprobacion_presidencial; }).map(data));
-  var color = d3v3.scale.ordinal().range(["#66c2a5","#fc8d62","#8da0cb","#e78ac3","#a6d854"]);
-  var fontSize = d3v3.scale.pow().exponent(5).domain([0,1]).range([10,80]);
+  var categories = d3v3.keys(d3v3.nest().key(function(d) { return d.edad; }).map(data));
+  var color = d3v3.scale.ordinal().range(["#66c2a5","#fc8d62","#8da0cb"]);
+  var fontSize = d3v3.scale.pow().exponent(3).domain([0,1]).range([10,80]);
 
   var layout = d3v3.layout.cloud()
       .timeInterval(10)
@@ -434,6 +434,7 @@ d3v3.csv("04_words_desaprueba_edad.csv", function(error, data) {
       .style('font','sans-serif');
 
   function draw(words) {
+    //console.log(words)
     wordcloud.selectAll("text")
         .data(words)
       .enter().append("text")
@@ -441,8 +442,12 @@ d3v3.csv("04_words_desaprueba_edad.csv", function(error, data) {
         .style("font-size", function(d) { return d.size + "px"; })
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
-            var paringObject = data.filter(function(obj) { return obj.word === d.text});
-            return color(paringObject[0].aprobacion_presidencial); 
+            var paringObject = data.filter(function(obj) {
+            //console.log(d) 
+              return obj.edad === d.edad
+            });
+            //console.log(d.text+" "+color(paringObject[0].edad)+" "+paringObject[0].edad);
+            return color(paringObject[0].edad); 
         })
         .attr("text-anchor", "middle")
         .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })

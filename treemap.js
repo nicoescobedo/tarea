@@ -260,7 +260,7 @@ function reSortRoot(root,value_key) {
     // You can comment out the whole csv section if you just have a JSON file.
     // loadJSONFile('data/portaldata.json');
 
-      d3.csv("https://nicoescobedo.github.io/tarea/aprobacion.csv", function(csv_data){
+      d3.csv("aprobacion.csv", function(csv_data){
 
       // Add, remove or change the key values to change the hierarchy. 
       var nested_data = d3.nest()

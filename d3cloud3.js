@@ -434,6 +434,7 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
       .style('font','sans-serif');
 
   function draw(words) {
+    //console.log(words)
     wordcloud.selectAll("text")
         .data(words)
       .enter().append("text")
@@ -441,10 +442,11 @@ d3v3.csv("03_words_aprueba_edad.csv", function(error, data) {
         .style("font-size", function(d) { return d.size + "px"; })
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
-          console.log(d);
-            var paringObject = data.filter(function(obj) { 
-              return obj.word === d.text
+            var paringObject = data.filter(function(obj) {
+            //console.log(d) 
+              return obj.edad === d.edad
             });
+            //console.log(d.text+" "+color(paringObject[0].edad)+" "+paringObject[0].edad);
             return color(paringObject[0].edad); 
         })
         .attr("text-anchor", "middle")

@@ -390,7 +390,7 @@ var margin = {top: 20, right: 20, bottom: 40, left: 20},
 
 d3v3.csv("06_words_desaprueba_tendencia.csv", function(error, data) {
 
-  var categories = d3v3.keys(d3v3.nest().key(function(d) { return d.aprobacion_presidencial; }).map(data));
+  var categories = d3v3.keys(d3v3.nest().key(function(d) { return d.tendencia; }).map(data));
   var color = d3v3.scale.ordinal().range(["#66c2a5","#fc8d62","#8da0cb","#e78ac3","#a6d854"]);
   var fontSize = d3v3.scale.pow().exponent(5).domain([0,1]).range([10,80]);
 
@@ -442,7 +442,7 @@ d3v3.csv("06_words_desaprueba_tendencia.csv", function(error, data) {
         .style("font-family", function(d) { return d.font; })
         .style("fill", function(d) { 
             var paringObject = data.filter(function(obj) { return obj.word === d.text});
-            return color(paringObject[0].aprobacion_presidencial); 
+            return color(paringObject[0].tendencia); 
         })
         .attr("text-anchor", "middle")
         .attr("transform", function(d) { return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")"; })
