@@ -1,0 +1,145 @@
+zona,tendencia,edad,sexo,aprobacion_presidencial,n
+Regiones,Centro,18-34,Hombre,Aprueba,10.997209999999999
+Regiones,Centro,18-34,Hombre,Desaprueba,19.90391
+Regiones,Centro,18-34,Hombre,No aprueba ni desaprueba,3.2831900000000003
+Regiones,Centro,18-34,Mujer,Aprueba,6.30701
+Regiones,Centro,18-34,Mujer,Desaprueba,6.68819
+Regiones,Centro,18-34,Mujer,No aprueba ni desaprueba,0.87295
+Regiones,Centro,35-54,Hombre,Aprueba,20.18708
+Regiones,Centro,35-54,Hombre,Desaprueba,14.03444
+Regiones,Centro,35-54,Hombre,No aprueba ni desaprueba,3.55775
+Regiones,Centro,35-54,Mujer,Aprueba,12.14953
+Regiones,Centro,35-54,Mujer,Desaprueba,8.57529
+Regiones,Centro,35-54,Mujer,No aprueba ni desaprueba,2.3129099999999996
+Regiones,Centro,55 o+,Hombre,Aprueba,7.48644
+Regiones,Centro,55 o+,Hombre,Desaprueba,13.70682
+Regiones,Centro,55 o+,Hombre,No aprueba ni desaprueba,2.78278
+Regiones,Centro,55 o+,Mujer,Aprueba,8.338709999999999
+Regiones,Centro,55 o+,Mujer,Desaprueba,6.65839
+Regiones,Centro,55 o+,Mujer,No aprueba ni desaprueba,5.30705
+Regiones,Centro Derecha / Derecha,18-34,Hombre,Aprueba,52.93383
+Regiones,Centro Derecha / Derecha,18-34,Hombre,Desaprueba,19.81291
+Regiones,Centro Derecha / Derecha,18-34,Hombre,No aprueba ni desaprueba,4.95071
+Regiones,Centro Derecha / Derecha,18-34,Mujer,Aprueba,53.13358
+Regiones,Centro Derecha / Derecha,18-34,Mujer,Desaprueba,11.57074
+Regiones,Centro Derecha / Derecha,18-34,Mujer,No aprueba ni desaprueba,8.59051
+Regiones,Centro Derecha / Derecha,35-54,Hombre,Aprueba,81.41223
+Regiones,Centro Derecha / Derecha,35-54,Hombre,Desaprueba,18.33604
+Regiones,Centro Derecha / Derecha,35-54,Hombre,No aprueba ni desaprueba,8.21795
+Regiones,Centro Derecha / Derecha,35-54,Mujer,Aprueba,62.2585
+Regiones,Centro Derecha / Derecha,35-54,Mujer,Desaprueba,12.49115
+Regiones,Centro Derecha / Derecha,35-54,Mujer,No aprueba ni desaprueba,8.93191
+Regiones,Centro Derecha / Derecha,55 o+,Hombre,Aprueba,69.39457
+Regiones,Centro Derecha / Derecha,55 o+,Hombre,Desaprueba,8.12143
+Regiones,Centro Derecha / Derecha,55 o+,Hombre,No aprueba ni desaprueba,7.22258
+Regiones,Centro Derecha / Derecha,55 o+,Mujer,Aprueba,67.80269
+Regiones,Centro Derecha / Derecha,55 o+,Mujer,Desaprueba,7.87244
+Regiones,Centro Derecha / Derecha,55 o+,Mujer,No aprueba ni desaprueba,11.14934
+Regiones,Centro Izquierda / Izquierda,18-34,Hombre,Aprueba,18.16763
+Regiones,Centro Izquierda / Izquierda,18-34,Hombre,Desaprueba,46.87887
+Regiones,Centro Izquierda / Izquierda,18-34,Hombre,No aprueba ni desaprueba,7.85306
+Regiones,Centro Izquierda / Izquierda,18-34,Mujer,Aprueba,16.43431
+Regiones,Centro Izquierda / Izquierda,18-34,Mujer,Desaprueba,53.66207
+Regiones,Centro Izquierda / Izquierda,18-34,Mujer,No aprueba ni desaprueba,7.37575
+Regiones,Centro Izquierda / Izquierda,35-54,Hombre,Aprueba,14.28213
+Regiones,Centro Izquierda / Izquierda,35-54,Hombre,Desaprueba,41.76974
+Regiones,Centro Izquierda / Izquierda,35-54,Hombre,No aprueba ni desaprueba,9.93901
+Regiones,Centro Izquierda / Izquierda,35-54,Mujer,Aprueba,10.54911
+Regiones,Centro Izquierda / Izquierda,35-54,Mujer,Desaprueba,39.53798
+Regiones,Centro Izquierda / Izquierda,35-54,Mujer,No aprueba ni desaprueba,3.25252
+Regiones,Centro Izquierda / Izquierda,55 o+,Hombre,Aprueba,10.27679
+Regiones,Centro Izquierda / Izquierda,55 o+,Hombre,Desaprueba,38.3944
+Regiones,Centro Izquierda / Izquierda,55 o+,Hombre,No aprueba ni desaprueba,7.21054
+Regiones,Centro Izquierda / Izquierda,55 o+,Mujer,Aprueba,8.23784
+Regiones,Centro Izquierda / Izquierda,55 o+,Mujer,Desaprueba,31.12352
+Regiones,Centro Izquierda / Izquierda,55 o+,Mujer,No aprueba ni desaprueba,7.22723
+Regiones,Ninguno / Independiente,18-34,Hombre,Aprueba,27.20943
+Regiones,Ninguno / Independiente,18-34,Hombre,Desaprueba,50.8528
+Regiones,Ninguno / Independiente,18-34,Hombre,No aprueba ni desaprueba,12.75306
+Regiones,Ninguno / Independiente,18-34,Mujer,Aprueba,47.25505
+Regiones,Ninguno / Independiente,18-34,Mujer,Desaprueba,49.89862
+Regiones,Ninguno / Independiente,18-34,Mujer,No aprueba ni desaprueba,30.74928
+Regiones,Ninguno / Independiente,35-54,Hombre,Aprueba,32.47797
+Regiones,Ninguno / Independiente,35-54,Hombre,Desaprueba,29.28658
+Regiones,Ninguno / Independiente,35-54,Hombre,No aprueba ni desaprueba,25.50463
+Regiones,Ninguno / Independiente,35-54,Mujer,Aprueba,70.1169
+Regiones,Ninguno / Independiente,35-54,Mujer,Desaprueba,61.51882
+Regiones,Ninguno / Independiente,35-54,Mujer,No aprueba ni desaprueba,44.63691
+Regiones,Ninguno / Independiente,55 o+,Hombre,Aprueba,28.75783
+Regiones,Ninguno / Independiente,55 o+,Hombre,Desaprueba,34.06413
+Regiones,Ninguno / Independiente,55 o+,Hombre,No aprueba ni desaprueba,13.79741
+Regiones,Ninguno / Independiente,55 o+,Mujer,Aprueba,33.75966
+Regiones,Ninguno / Independiente,55 o+,Mujer,Desaprueba,29.76484
+Regiones,Ninguno / Independiente,55 o+,Mujer,No aprueba ni desaprueba,27.579909999999998
+Santiago,Centro,18-34,Hombre,Aprueba,19.82298
+Santiago,Centro,18-34,Hombre,Desaprueba,16.21918
+Santiago,Centro,18-34,Hombre,No aprueba ni desaprueba,3.5972600000000003
+Santiago,Centro,18-34,Mujer,Aprueba,5.14344
+Santiago,Centro,18-34,Mujer,Desaprueba,6.86071
+Santiago,Centro,18-34,Mujer,No aprueba ni desaprueba,1.09133
+Santiago,Centro,35-54,Hombre,Aprueba,14.75261
+Santiago,Centro,35-54,Hombre,Desaprueba,8.38045
+Santiago,Centro,35-54,Hombre,No aprueba ni desaprueba,1.87334
+Santiago,Centro,35-54,Mujer,Aprueba,10.52229
+Santiago,Centro,35-54,Mujer,Desaprueba,9.03756
+Santiago,Centro,35-54,Mujer,No aprueba ni desaprueba,1.87703
+Santiago,Centro,55 o+,Hombre,Aprueba,10.25383
+Santiago,Centro,55 o+,Hombre,Desaprueba,13.37424
+Santiago,Centro,55 o+,Hombre,No aprueba ni desaprueba,2.55657
+Santiago,Centro,55 o+,Mujer,Aprueba,1.31789
+Santiago,Centro,55 o+,Mujer,Desaprueba,2.5688899999999997
+Santiago,Centro,55 o+,Mujer,No aprueba ni desaprueba,1.251
+Santiago,Centro Derecha / Derecha,18-34,Hombre,Aprueba,56.66554
+Santiago,Centro Derecha / Derecha,18-34,Hombre,Desaprueba,14.03222
+Santiago,Centro Derecha / Derecha,18-34,Hombre,No aprueba ni desaprueba,2.2235500000000004
+Santiago,Centro Derecha / Derecha,18-34,Mujer,Aprueba,42.98133
+Santiago,Centro Derecha / Derecha,18-34,Mujer,Desaprueba,7.8684899999999995
+Santiago,Centro Derecha / Derecha,18-34,Mujer,No aprueba ni desaprueba,5.0908999999999995
+Santiago,Centro Derecha / Derecha,35-54,Hombre,Aprueba,48.04441
+Santiago,Centro Derecha / Derecha,35-54,Hombre,Desaprueba,6.27705
+Santiago,Centro Derecha / Derecha,35-54,Hombre,No aprueba ni desaprueba,6.46329
+Santiago,Centro Derecha / Derecha,35-54,Mujer,Aprueba,46.67227
+Santiago,Centro Derecha / Derecha,35-54,Mujer,Desaprueba,4.98205
+Santiago,Centro Derecha / Derecha,35-54,Mujer,No aprueba ni desaprueba,4.7376000000000005
+Santiago,Centro Derecha / Derecha,55 o+,Hombre,Aprueba,27.26406
+Santiago,Centro Derecha / Derecha,55 o+,Hombre,Desaprueba,9.0302
+Santiago,Centro Derecha / Derecha,55 o+,Hombre,No aprueba ni desaprueba,1.70068
+Santiago,Centro Derecha / Derecha,55 o+,Mujer,Aprueba,45.15516
+Santiago,Centro Derecha / Derecha,55 o+,Mujer,Desaprueba,3.8006100000000003
+Santiago,Centro Derecha / Derecha,55 o+,Mujer,No aprueba ni desaprueba,4.42629
+Santiago,Centro Izquierda / Izquierda,18-34,Hombre,Aprueba,13.40104
+Santiago,Centro Izquierda / Izquierda,18-34,Hombre,Desaprueba,45.541669999999996
+Santiago,Centro Izquierda / Izquierda,18-34,Hombre,No aprueba ni desaprueba,2.50717
+Santiago,Centro Izquierda / Izquierda,18-34,Mujer,Aprueba,6.5046
+Santiago,Centro Izquierda / Izquierda,18-34,Mujer,Desaprueba,63.6535
+Santiago,Centro Izquierda / Izquierda,18-34,Mujer,No aprueba ni desaprueba,1.8164799999999999
+Santiago,Centro Izquierda / Izquierda,35-54,Hombre,Aprueba,7.27888
+Santiago,Centro Izquierda / Izquierda,35-54,Hombre,Desaprueba,59.09424
+Santiago,Centro Izquierda / Izquierda,35-54,Hombre,No aprueba ni desaprueba,2.43796
+Santiago,Centro Izquierda / Izquierda,35-54,Mujer,Aprueba,12.446539999999999
+Santiago,Centro Izquierda / Izquierda,35-54,Mujer,Desaprueba,38.87801
+Santiago,Centro Izquierda / Izquierda,35-54,Mujer,No aprueba ni desaprueba,3.52864
+Santiago,Centro Izquierda / Izquierda,55 o+,Hombre,Aprueba,9.25465
+Santiago,Centro Izquierda / Izquierda,55 o+,Hombre,Desaprueba,26.09409
+Santiago,Centro Izquierda / Izquierda,55 o+,Hombre,No aprueba ni desaprueba,7.96146
+Santiago,Centro Izquierda / Izquierda,55 o+,Mujer,Aprueba,2.0194900000000002
+Santiago,Centro Izquierda / Izquierda,55 o+,Mujer,Desaprueba,30.75348
+Santiago,Centro Izquierda / Izquierda,55 o+,Mujer,No aprueba ni desaprueba,4.33164
+Santiago,Ninguno / Independiente,18-34,Hombre,Aprueba,25.9843
+Santiago,Ninguno / Independiente,18-34,Hombre,Desaprueba,30.94922
+Santiago,Ninguno / Independiente,18-34,Hombre,No aprueba ni desaprueba,10.491050000000001
+Santiago,Ninguno / Independiente,18-34,Mujer,Aprueba,27.353559999999998
+Santiago,Ninguno / Independiente,18-34,Mujer,Desaprueba,36.70496
+Santiago,Ninguno / Independiente,18-34,Mujer,No aprueba ni desaprueba,13.717279999999999
+Santiago,Ninguno / Independiente,35-54,Hombre,Aprueba,14.499179999999999
+Santiago,Ninguno / Independiente,35-54,Hombre,Desaprueba,24.76307
+Santiago,Ninguno / Independiente,35-54,Hombre,No aprueba ni desaprueba,7.40687
+Santiago,Ninguno / Independiente,35-54,Mujer,Aprueba,22.33908
+Santiago,Ninguno / Independiente,35-54,Mujer,Desaprueba,29.56045
+Santiago,Ninguno / Independiente,35-54,Mujer,No aprueba ni desaprueba,20.85453
+Santiago,Ninguno / Independiente,55 o+,Hombre,Aprueba,12.25136
+Santiago,Ninguno / Independiente,55 o+,Hombre,Desaprueba,8.61858
+Santiago,Ninguno / Independiente,55 o+,Hombre,No aprueba ni desaprueba,2.982
+Santiago,Ninguno / Independiente,55 o+,Mujer,Aprueba,15.25608
+Santiago,Ninguno / Independiente,55 o+,Mujer,Desaprueba,20.27234
+Santiago,Ninguno / Independiente,55 o+,Mujer,No aprueba ni desaprueba,18.45186

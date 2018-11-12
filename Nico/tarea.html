@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script src="https://www.dropbox.com/s/29rilg4y11cayyd/d3.v3.js"></script>
+<script src="https://www.dropbox.com/s/noxc7fc236vvqty/d3.v2.js"></script>
+
+
+<script src="http://code.jquery.com/jquery-1.7.1.js"></script>
+
+    <title>Tarea</title>
+
+  </head>
+  <body>
+<div class="container">
+  <div class="row">
+  <div class="col-md-4">Sección: 1</div>
+  </div>
+    <div class="row">
+  <div class="col-md-4">Nombre: Nicolás Escobedo</div>
+  
+
+  </div>
+   <br>
+   <div class="row">
+    <div class="col-md-4"><h1>Titulo</h1></div>
+   </div>
+    <div class="row">
+    <div class="col-md-4" style="font-size: 30px;"><p>Pregunta 1</p></div>
+   </div>
+   <div class="row">
+    <p id="treemap">
+    <p id="rawdata">
+   </div>
+   <br>
+    <div class="row">
+    <div class="col-md-4" style="font-size: 30px;"><p>Pregunta 2</p></div>
+   </div>
+   <div class="col-md-4">
+      <label for="sel1">Filtro:</label>
+      <select class="form-control" id="datos-nube">
+        <option value="1">Aprobación</option>
+        <option value="2">Desaprobación</option>
+         <option value="3">Aprobación-Edad</option>
+         <option value="4">Desaprobación-Edad</option>
+         <option value="5">Aprobación-Tendencia</option>
+         <option value="6">Desaprobación-Tendencia</option>
+      </select>
+  </div>
+   <div class="row">
+    <div id="nube1"></div>
+    <div id="nube2"></div>
+    <div id="nube3"></div> 
+    <div id="nube4"></div> 
+    <div id="nube5"></div> 
+    <div id="nube6"></div>  
+   </div>
+</div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  </body>
+  <script src="treemap.js"></script>
+
+<script src="d3cloud.js"></script>
+<script src="d3cloud2.js"></script>
+<script src="d3cloud3.js"></script>
+<script src="d3cloud4.js"></script>
+<script src="d3cloud5.js"></script>
+<script src="d3cloud6.js"></script>
+<script type="text/javascript">
+     $('#nube2').hide(); 
+     $('#nube3').hide(); 
+     $('#nube4').hide(); 
+     $('#nube5').hide(); 
+     $('#nube6').hide(); 
+
+$('#datos-nube').change(function(){
+     $('#nube1').hide(); 
+     $('#nube2').hide(); 
+     $('#nube3').hide(); 
+     $('#nube4').hide(); 
+     $('#nube5').hide(); 
+     $('#nube6').hide(); 
+
+     $('#nube'+$('#datos-nube').val()).show(); 
+
+});
+
+
+
+</script>
+</html>
